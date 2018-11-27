@@ -1,0 +1,43 @@
+\documentclass[a4paper,14pt]{extarticle}
+\usepackage[left=30mm, top=20mm, right=15mm, bottom=20mm, nohead]{geometry} 
+\usepackage{cmap} % для кодировки шрифтов в pdf
+\usepackage[T2A]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[english,russian]{babel}
+\usepackage{graphicx} % для вставки картинок
+\usepackage{amssymb,amsfonts,amsmath,amsthm} % математические дополнения от АМС
+\usepackage{indentfirst} % отделять первую строку раздела абзацным отступом тоже
+\usepackage{tempora}
+\usepackage{epstopdf}
+\usepackage{mathtools}
+\usepackage{framed}
+\usepackage{wrapfig}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{titlesec}
+\usepackage{setspace}
+\usepackage{float}
+\usepackage{epstopdf}
+\usepackage{hepunits}
+\captionsetup[figure]{font=small,labelfont=small,name={Рис.},labelsep=period}
+\titleformat{\section}
+{\normalsize\bfseries} % format
+{}                % label
+{0pt}             % sep
+{\Large}           % before-code
+\renewcommand{\thetable}{\Roman{table}}
+\begin{document}
+	\selectlanguage{russian}
+	\thispagestyle{empty}
+\begin{center}
+	\vspace*{10 cm}
+\Huge{Диплом}
+\end{center}
+\newpage
+\input{./chap/intro.tex}
+\newpage
+\input{./chap/raether_exp.tex}
+\newpage
+\bibliographystyle{include/utf8gost705u}
+\left( \bibliography{bibliography}
+\end{document}
