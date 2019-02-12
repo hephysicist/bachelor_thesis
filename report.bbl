@@ -16,14 +16,20 @@
 
 \bibitem{sauli}
 \selectlanguageifdefined{russian}
-A~Sauli~F. A new concept for electron amplification in gas detectors.
+Sauli~F. A new concept for electron amplification in gas detectors.
 \newblock 1997.
 
 \bibitem{Bobr}
 \selectlanguageifdefined{russian}
-Development of high-resolution GEM-based detector for the extracted electron
-  beam facility at the VEPP-4M collider~/ V.S.~Bobrovnikov, V.N.~Kudryavtsev,
-  L.I.~Shekhtman {[и~др.]}.
+T.Maltsev~V.Bobrovnikov V.Kudryavtsev~L.Shekhtman. Development of
+  high-resolution GEM-based detector for the extracted electron beam facility
+  at the VEPP-4M collider.
 \newblock 2017.
+
+\bibitem{Peskov}
+\selectlanguageifdefined{russian}
+Fonte~V. Peskov~P. Research on discharges in micropattern and small gap gaseous
+  detectors.
+\newblock 2019.
 
 \end{thebibliography}
