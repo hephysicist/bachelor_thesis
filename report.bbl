@@ -19,6 +19,12 @@
 Sauli~F. A new concept for electron amplification in gas detectors.
 \newblock 1997.
 
+\bibitem{bukin}
+\selectlanguageifdefined{russian}
+Букин~А.Д.~Дербенев~Я.С.~Кондратенко А.М.
+  и~др. Препринт № 75-64 ИЯФ СО АН СССР.
+\newblock 1975.
+
 \bibitem{Bobr}
 \selectlanguageifdefined{russian}
 T.Maltsev~V.Bobrovnikov V.Kudryavtsev~L.Shekhtman. Development of
