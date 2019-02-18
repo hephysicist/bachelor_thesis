@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.2.8)  18 FEB 2019 12:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.2.8)  18 FEB 2019 15:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2126,7 +2126,7 @@ TLF.
 LaTeX Font Info:    Font shape `TS1/Tempora-TLF/m/n' will be
 (Font)              scaled to size 14.4pt on input line 11.
  [2])
-[3] (./chap/raether_exp.tex
+[3] (./chap/resonant_dep.tex) [4] (./chap/raether_exp.tex
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
 (Font)              scaled to size 17.28pt on input line 3.
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/bx/n' in size <17.28> not avail
@@ -2135,10 +2135,10 @@ able
 e 3.
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/b/n' will be
 (Font)              scaled to size 17.28pt on input line 3.
- [4]
+ [5]
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/it' will be
 (Font)              scaled to size 14.4pt on input line 27.
-<img/Scheme_raether_det.pdf, id=29, 2240.37pt x 1435.3625pt>
+<img/Scheme_raether_det.pdf, id=32, 2240.37pt x 1435.3625pt>
 File: img/Scheme_raether_det.pdf Graphic file (type pdf)
 <use img/Scheme_raether_det.pdf>
 Package pdftex.def Info: img/Scheme_raether_det.pdf  used on input line 31.
@@ -2147,7 +2147,7 @@ LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
 (Font)              scaled to size 12.0pt on input line 32.
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/it' will be
 (Font)              scaled to size 12.0pt on input line 32.
- [5]
+ [6]
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 40.
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
@@ -2159,18 +2159,18 @@ Overfull \hbox (17.06999pt too wide) in paragraph at lines 40--41
 t/14.4 :\OT1/cmr/m/n/14.4 1 [] (82\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 6 %)$
  []
 
-<img/Raether_graph_2.pdf, id=34, 569.12625pt x 407.5225pt>
+<img/Raether_graph_2.pdf, id=37, 569.12625pt x 407.5225pt>
 File: img/Raether_graph_2.pdf Graphic file (type pdf)
 <use img/Raether_graph_2.pdf>
 Package pdftex.def Info: img/Raether_graph_2.pdf  used on input line 45.
 (pdftex.def)             Requested size: 284.52756pt x 203.74208pt.
-[6 <./img/Scheme_raether_det.pdf>]) [7 <./img/Raether_graph_2.pdf, page is rota
-ted 90 degrees>] (./report.bbl) [8] (./report.aux) ) 
+[7 <./img/Scheme_raether_det.pdf>]) [8 <./img/Raether_graph_2.pdf, page is rota
+ted 90 degrees>] (./report.bbl) [9] (./report.aux) ) 
 Here is how much of TeX's memory you used:
- 9928 strings out of 492982
- 144792 string characters out of 6134897
- 198434 words of memory out of 5000000
- 13192 multiletter control sequences out of 15000+600000
+ 9933 strings out of 492982
+ 144885 string characters out of 6134897
+ 198446 words of memory out of 5000000
+ 13194 multiletter control sequences out of 15000+600000
  40579 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  53i,13n,92p,1759b,536s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2184,10 +2184,10 @@ msfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pf
 b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on report.pdf (8 pages, 802428 bytes).
+Output written on report.pdf (9 pages, 803202 bytes).
 PDF statistics:
- 132 PDF objects out of 1000 (max. 8388607)
- 75 compressed objects within 1 object stream
+ 135 PDF objects out of 1000 (max. 8388607)
+ 77 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  35 words of extra memory for PDF output out of 10000 (max. 10000000)
 

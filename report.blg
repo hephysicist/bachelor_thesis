@@ -5,49 +5,51 @@ The style file: include/utf8gost705u.bst
 Database file #1: bibliography.bib.bib
 Warning--entry type for "shechtman" isn't style-file defined
 --line 19 of file bibliography.bib.bib
+Warning--entry type for "SokolovTernov63" isn't style-file defined
+--line 68 of file bibliography.bib.bib
 Warning--empty journal in sauli
 Warning--empty journal in bukin
 Warning--empty journal in Bobr
 Warning--empty journal in Peskov
-You've used 5 entries,
+You've used 6 entries,
             2958 wiz_defined-function locations,
-            692 strings with 6321 characters,
-and the built_in function-call counts, 943 in all, are:
-= -- 111
-> -- 24
+            698 strings with 6556 characters,
+and the built_in function-call counts, 1088 in all, are:
+= -- 130
+> -- 28
 < -- 4
-+ -- 10
-- -- 5
-* -- 24
-:= -- 122
-add.period$ -- 15
-call.type$ -- 5
++ -- 12
+- -- 6
+* -- 26
+:= -- 139
+add.period$ -- 18
+call.type$ -- 6
 change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 9
-duplicate$ -- 51
-empty$ -- 109
-format.name$ -- 5
-if$ -- 238
+cite$ -- 10
+duplicate$ -- 58
+empty$ -- 125
+format.name$ -- 6
+if$ -- 275
 int.to.chr$ -- 0
-int.to.str$ -- 5
+int.to.str$ -- 6
 missing$ -- 0
-newline$ -- 35
-num.names$ -- 13
-pop$ -- 42
+newline$ -- 40
+num.names$ -- 14
+pop$ -- 48
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 15
+skip$ -- 18
 stack$ -- 0
 substring$ -- 0
-swap$ -- 16
+swap$ -- 20
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 4
-while$ -- 5
-width$ -- 6
-write$ -- 69
-(There were 5 warnings)
+while$ -- 6
+width$ -- 7
+write$ -- 81
+(There were 6 warnings)
