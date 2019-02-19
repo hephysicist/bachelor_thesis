@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.2.8)  18 FEB 2019 15:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.2.8)  19 FEB 2019 12:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2135,56 +2135,56 @@ able
 e 3.
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/b/n' will be
 (Font)              scaled to size 17.28pt on input line 3.
- [5]
+ [5] [6]
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/it' will be
-(Font)              scaled to size 14.4pt on input line 27.
-<img/Scheme_raether_det.pdf, id=32, 2240.37pt x 1435.3625pt>
+(Font)              scaled to size 14.4pt on input line 42.
+<img/Scheme_raether_det.pdf, id=35, 2240.37pt x 1435.3625pt>
 File: img/Scheme_raether_det.pdf Graphic file (type pdf)
 <use img/Scheme_raether_det.pdf>
-Package pdftex.def Info: img/Scheme_raether_det.pdf  used on input line 31.
+Package pdftex.def Info: img/Scheme_raether_det.pdf  used on input line 46.
 (pdftex.def)             Requested size: 227.62204pt x 145.82245pt.
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 32.
+(Font)              scaled to size 12.0pt on input line 47.
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 32.
- [6]
+(Font)              scaled to size 12.0pt on input line 47.
+ [7 <./img/Scheme_raether_det.pdf>]
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 40.
+(Font)              scaled to size 10.0pt on input line 55.
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 40.
+(Font)              scaled to size 7.0pt on input line 55.
 
-Overfull \hbox (17.06999pt too wide) in paragraph at lines 40--41
+Overfull \hbox (17.06999pt too wide) in paragraph at lines 55--56
 \T2A/Tempora-TLF/m/it/14.4 рить\T2A/Tempora-TLF/m/n/14.4 , ко-то-рый из-лу-ча-е
 т пре-иму-ще-ствен-но фо-то-ны с энер-ги-я-ми $\OT1/cmr/m/n/14.4 22\OML/cmm/m/i
 t/14.4 :\OT1/cmr/m/n/14.4 1 [] (82\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 6 %)$
  []
 
-<img/Raether_graph_2.pdf, id=37, 569.12625pt x 407.5225pt>
+<img/Raether_graph_2.pdf, id=55, 569.12625pt x 407.5225pt>
 File: img/Raether_graph_2.pdf Graphic file (type pdf)
 <use img/Raether_graph_2.pdf>
-Package pdftex.def Info: img/Raether_graph_2.pdf  used on input line 45.
+Package pdftex.def Info: img/Raether_graph_2.pdf  used on input line 60.
 (pdftex.def)             Requested size: 284.52756pt x 203.74208pt.
-[7 <./img/Scheme_raether_det.pdf>]) [8 <./img/Raether_graph_2.pdf, page is rota
-ted 90 degrees>] (./report.bbl) [9] (./report.aux) ) 
+) [8 <./img/Raether_graph_2.pdf, page is rotated 90 degrees>] (./report.bbl)
+[9] (./report.aux) ) 
 Here is how much of TeX's memory you used:
- 9933 strings out of 492982
- 144885 string characters out of 6134897
- 198446 words of memory out of 5000000
- 13194 multiletter control sequences out of 15000+600000
+ 9935 strings out of 492982
+ 144899 string characters out of 6134897
+ 198462 words of memory out of 5000000
+ 13196 multiletter control sequences out of 15000+600000
  40579 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  53i,13n,92p,1759b,536s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-d
-ist/fonts/enc/dvips/tempora/t2a-tempora.enc}{/usr/share/texlive/texmf-dist/font
-s/enc/dvips/tempora/tmp_ac5xuc.enc}</usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/tempora/Tempora-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
-c/tempora/Tempora-Italic.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-tempora/Tempora-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pf
-b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on report.pdf (9 pages, 803202 bytes).
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/tempora/t2a-
+tempora.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/tempora/tmp_ac5xuc.e
+nc}</usr/share/texlive/texmf-dist/fonts/type1/public/tempora/Tempora-Bold.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/tempora/Tempora-Italic.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/tempora/Tempora-Regular.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on report.pdf (9 pages, 807155 bytes).
 PDF statistics:
  135 PDF objects out of 1000 (max. 8388607)
  77 compressed objects within 1 object stream
