@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.2.8)  19 FEB 2019 12:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.15)  18 MAR 2019 20:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -716,6 +716,55 @@ Package: amsthm 2017/10/31 v2.20.4
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
+\c@tracingmulticols=\count104
+\mult@box=\box28
+\multicol@leftmargin=\dimen124
+\c@unbalance=\count105
+\c@collectmore=\count106
+\doublecol@number=\count107
+\multicoltolerance=\count108
+\multicolpretolerance=\count109
+\full@width=\dimen125
+\page@free=\dimen126
+\premulticols=\dimen127
+\postmulticols=\dimen128
+\multicolsep=\skip49
+\multicolbaselineskip=\skip50
+\partial@page=\box29
+\last@line=\box30
+\maxbalancingoverflow=\dimen129
+\mult@rightbox=\box31
+\mult@grightbox=\box32
+\mult@gfirstbox=\box33
+\mult@firstbox=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\c@columnbadness=\count110
+\c@finalcolumnbadness=\count111
+\last@try=\dimen130
+\multicolovershoot=\dimen131
+\multicolundershoot=\dimen132
+\mult@nat@firstbox=\box52
+\colbreak@box=\box53
+\mc@col@check@num=\count112
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tempora/tempora.sty
 Package: tempora 2016/02/02 (msharpe) Style file for Tempora.
@@ -1786,7 +1835,7 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 \XKV@toks=\toks30
 \XKV@tempa@toks=\toks31
 )
-\XKV@depth=\count104
+\XKV@depth=\count113
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )))
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf.sty
@@ -1849,16 +1898,16 @@ Package: mathtools 2018/01/08 v1.21 mathematical typesetting tools
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count105
-\calc@Bcount=\count106
-\calc@Adimen=\dimen124
-\calc@Bdimen=\dimen125
-\calc@Askip=\skip49
-\calc@Bskip=\skip50
+\calc@Acount=\count114
+\calc@Bcount=\count115
+\calc@Adimen=\dimen133
+\calc@Bdimen=\dimen134
+\calc@Askip=\skip51
+\calc@Bskip=\skip52
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count107
-\calc@Cskip=\skip51
+\calc@Ccount=\count116
+\calc@Cskip=\skip53
 )
 (/usr/share/texlive/texmf-dist/tex/latex/mathtools/mhsetup.sty
 Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
@@ -1867,29 +1916,29 @@ LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
-\g_MT_multlinerow_int=\count108
-\l_MT_multwidth_dim=\dimen126
-\origjot=\skip52
-\l_MT_shortvdotswithinadjustabove_dim=\dimen127
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen128
-\l_MT_above_intertext_sep=\dimen129
-\l_MT_below_intertext_sep=\dimen130
-\l_MT_above_shortintertext_sep=\dimen131
-\l_MT_below_shortintertext_sep=\dimen132
+\g_MT_multlinerow_int=\count117
+\l_MT_multwidth_dim=\dimen135
+\origjot=\skip54
+\l_MT_shortvdotswithinadjustabove_dim=\dimen136
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen137
+\l_MT_above_intertext_sep=\dimen138
+\l_MT_below_intertext_sep=\dimen139
+\l_MT_above_shortintertext_sep=\dimen140
+\l_MT_below_shortintertext_sep=\dimen141
 )
 (/usr/share/texlive/texmf-dist/tex/latex/framed/framed.sty
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
-\OuterFrameSep=\skip53
-\fb@frw=\dimen133
-\fb@frh=\dimen134
-\FrameRule=\dimen135
-\FrameSep=\dimen136
+\OuterFrameSep=\skip55
+\fb@frw=\dimen142
+\fb@frh=\dimen143
+\FrameRule=\dimen144
+\FrameSep=\dimen145
 )
 (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-\wrapoverhang=\dimen137
-\WF@size=\dimen138
-\c@WF@wrappedlines=\count109
-\WF@box=\box28
+\wrapoverhang=\dimen146
+\WF@size=\dimen147
+\c@WF@wrappedlines=\count118
+\WF@box=\box54
 \WF@everypar=\toks32
 Package: wrapfig 2003/01/31  v 3.6
 )
@@ -1899,44 +1948,44 @@ Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
-\captionmargin=\dimen139
-\captionmargin@=\dimen140
-\captionwidth=\dimen141
-\caption@tempdima=\dimen142
-\caption@indent=\dimen143
-\caption@parindent=\dimen144
-\caption@hangindent=\dimen145
+\captionmargin=\dimen148
+\captionmargin@=\dimen149
+\captionwidth=\dimen150
+\caption@tempdima=\dimen151
+\caption@indent=\dimen152
+\caption@parindent=\dimen153
+\caption@hangindent=\dimen154
 )
-\c@ContinuedFloat=\count110
+\c@ContinuedFloat=\count119
 Package caption Info: wrapfig package is loaded.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
-\c@subfigure=\count111
-\c@subtable=\count112
+\c@subfigure=\count120
+\c@subtable=\count121
 )
 (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
-\ttl@box=\box29
-\beforetitleunit=\skip54
-\aftertitleunit=\skip55
-\ttl@plus=\dimen146
-\ttl@minus=\dimen147
+\ttl@box=\box55
+\beforetitleunit=\skip56
+\aftertitleunit=\skip57
+\ttl@plus=\dimen155
+\ttl@minus=\dimen156
 \ttl@toksa=\toks33
-\titlewidth=\dimen148
-\titlewidthlast=\dimen149
-\titlewidthfirst=\dimen150
+\titlewidth=\dimen157
+\titlewidthlast=\dimen158
+\titlewidthfirst=\dimen159
 )
 (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
 (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count113
+\c@float@type=\count122
 \float@exts=\toks34
-\float@box=\box30
+\float@box=\box56
 \@float@everytoks=\toks35
-\@floatcapt=\box31
+\@floatcapt=\box57
 )
 (/usr/share/texlive/texmf-dist/tex/latex/hepunits/hepunits.sty
 Package: hepunits 2007/09/27 High-energy physics units by Andy Buckley (v1.1.1)
@@ -1950,7 +1999,7 @@ Package: SIunits 2007/12/02 v1.36 Support for the International System of units
  (MH)
 
 
-\@qskwidth=\skip56
+\@qskwidth=\skip58
 LaTeX Font Info:    Redeclaring font encoding TS1 on input line 46.
 \symgreek=\mathgroup6
 (/usr/share/texlive/texmf-dist/tex/latex/SIunits/SIunits.cfg)
@@ -1964,63 +2013,63 @@ Option `squaren' provided!
 )) (./report.aux)
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OT2/cmr/m/n on input line 29.
-LaTeX Font Info:    Try loading font information for OT2+cmr on input line 29.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT2/cmr/m/n on input line 30.
+LaTeX Font Info:    Try loading font information for OT2+cmr on input line 30.
  (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/ot2cmr.fd
 File: ot2cmr.fd 2001/08/11 v3.2c Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for T2C/cmr/m/n on input line 29.
-LaTeX Font Info:    Try loading font information for T2C+cmr on input line 29.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T2C/cmr/m/n on input line 30.
+LaTeX Font Info:    Try loading font information for T2C+cmr on input line 30.
 
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2ccmr.fd
 File: t2ccmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for T2B/cmr/m/n on input line 29.
-LaTeX Font Info:    Try loading font information for T2B+cmr on input line 29.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T2B/cmr/m/n on input line 30.
+LaTeX Font Info:    Try loading font information for T2B+cmr on input line 30.
 
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2bcmr.fd
 File: t2bcmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 29.
-LaTeX Font Info:    Try loading font information for LGR+cmr on input line 29.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 30.
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 30.
 
 (/usr/share/texlive/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 29.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 30.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    ... okay on input line 30.
 LaTeX Font Info:    Try loading font information for T1+Tempora-TLF on input li
-ne 29.
+ne 30.
 
 (/usr/share/texlive/texmf-dist/tex/latex/tempora/T1Tempora-TLF.fd
 File: T1Tempora-TLF.fd 2016/02/02 (autoinst) Font definitions for T1/Tempora-TL
 F.
 )
 LaTeX Font Info:    Font shape `T1/Tempora-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 29.
+(Font)              scaled to size 14.4pt on input line 30.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -2057,29 +2106,29 @@ LaTeX Font Info:    Font shape `T1/Tempora-TLF/m/n' will be
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Try loading font information for T2A+Tempora-TLF on input l
-ine 29.
+ine 30.
 (/usr/share/texlive/texmf-dist/tex/latex/tempora/t2atempora-tlf.fd
 File: t2atempora-tlf.fd 2015/09/13 Font definitions for T2A/Tempora-TLF.
 )
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 29.
+(Font)              scaled to size 14.4pt on input line 30.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count114
-\scratchdimen=\dimen151
-\scratchbox=\box32
-\nofMPsegments=\count115
-\nofMParguments=\count116
+\scratchcounter=\count123
+\scratchdimen=\dimen160
+\scratchbox=\box58
+\nofMPsegments=\count124
+\nofMParguments=\count125
 \everyMPshowfont=\toks36
-\MPscratchCnt=\count117
-\MPscratchDim=\dimen152
-\MPnumerator=\count118
-\makeMPintoPDFobject=\count119
+\MPscratchCnt=\count126
+\MPscratchDim=\dimen161
+\MPnumerator=\count127
+\makeMPintoPDFobject=\count128
 \everyMPtoPDFconversion=\toks37
 )
-\c@mv@tabular=\count120
-\c@mv@boldtabular=\count121
+\c@mv@tabular=\count129
+\c@mv@boldtabular=\count130
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
@@ -2087,12 +2136,8 @@ Package caption Info: End \AtBeginDocument code.
 Option `squaren' provided! 
  Command \squaren defined by SIunits package!
 
-LaTeX Info: Redefining \micro on input line 29.
-LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 35.83pt on input line 34.
-[1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./chap/intro.tex
+LaTeX Info: Redefining \micro on input line 30.
+(./chap/intro.tex
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/bx/n' in size <14.4> not availa
 ble
 (Font)              Font shape `T2A/Tempora-TLF/b/n' tried instead on input lin
@@ -2125,8 +2170,72 @@ TLF.
 )
 LaTeX Font Info:    Font shape `TS1/Tempora-TLF/m/n' will be
 (Font)              scaled to size 14.4pt on input line 11.
- [2])
-[3] (./chap/resonant_dep.tex) [4] (./chap/raether_exp.tex
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]) [2] (./chap/resonant_dep.
+tex
+
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 5.
+
+
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 5.
+
+
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 5.
+
+
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 5.
+
+LaTeX Font Info:    Calculating math sizes for size <> on input line 6.
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <> not available
+(Font)              size <5> substituted on input line 6.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.7> not available
+(Font)              size <5> substituted on input line 6.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.5> not available
+(Font)              size <5> substituted on input line 6.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <> not available
+(Font)              size <5> substituted on input line 6.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.7> not available
+(Font)              size <5> substituted on input line 6.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.5> not available
+(Font)              size <5> substituted on input line 6.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <> not available
+(Font)              size <5> substituted on input line 6.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.7> not available
+(Font)              size <5> substituted on input line 6.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.5> not available
+(Font)              size <5> substituted on input line 6.
+
+
+LaTeX Font Warning: Font shape `OML/eur/m/n' in size <> not available
+(Font)              size <5> substituted on input line 6.
+
+
+LaTeX Font Warning: Font shape `OML/eur/m/n' in size <0.7> not available
+(Font)              size <5> substituted on input line 6.
+
+
+LaTeX Font Warning: Font shape `OML/eur/m/n' in size <0.5> not available
+(Font)              size <5> substituted on input line 6.
+
+) [3] (./chap/raether_exp.tex
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
 (Font)              scaled to size 17.28pt on input line 3.
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/bx/n' in size <17.28> not avail
@@ -2135,10 +2244,10 @@ able
 e 3.
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/b/n' will be
 (Font)              scaled to size 17.28pt on input line 3.
- [5] [6]
+ [4] [5]
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/it' will be
 (Font)              scaled to size 14.4pt on input line 42.
-<img/Scheme_raether_det.pdf, id=35, 2240.37pt x 1435.3625pt>
+<img/Scheme_raether_det.pdf, id=36, 2240.37pt x 1435.3625pt>
 File: img/Scheme_raether_det.pdf Graphic file (type pdf)
 <use img/Scheme_raether_det.pdf>
 Package pdftex.def Info: img/Scheme_raether_det.pdf  used on input line 46.
@@ -2147,7 +2256,7 @@ LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
 (Font)              scaled to size 12.0pt on input line 47.
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/it' will be
 (Font)              scaled to size 12.0pt on input line 47.
- [7 <./img/Scheme_raether_det.pdf>]
+ [6 <./img/Scheme_raether_det.pdf>]
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 55.
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
@@ -2164,30 +2273,39 @@ File: img/Raether_graph_2.pdf Graphic file (type pdf)
 <use img/Raether_graph_2.pdf>
 Package pdftex.def Info: img/Raether_graph_2.pdf  used on input line 60.
 (pdftex.def)             Requested size: 284.52756pt x 203.74208pt.
-) [8 <./img/Raether_graph_2.pdf, page is rotated 90 degrees>] (./report.bbl)
-[9] (./report.aux) ) 
+) [7 <./img/Raether_graph_2.pdf, page is rotated 90 degrees>] (./report.bbl)
+[8] (./report.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 4.5pt have occurred.
+
+ ) 
 Here is how much of TeX's memory you used:
- 9935 strings out of 492982
- 144899 string characters out of 6134897
- 198462 words of memory out of 5000000
- 13196 multiletter control sequences out of 15000+600000
- 40579 words of font info for 50 fonts, out of 8000000 for 9000
+ 10106 strings out of 492982
+ 147369 string characters out of 6134895
+ 203065 words of memory out of 5000000
+ 13338 multiletter control sequences out of 15000+600000
+ 43127 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  53i,13n,92p,1759b,536s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/tempora/t2a-
-tempora.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/tempora/tmp_ac5xuc.e
-nc}</usr/share/texlive/texmf-dist/fonts/type1/public/tempora/Tempora-Bold.pfb><
-/usr/share/texlive/texmf-dist/fonts/type1/public/tempora/Tempora-Italic.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/public/tempora/Tempora-Regular.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on report.pdf (9 pages, 807155 bytes).
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/tempora/t2a-tempora.enc}{/usr/
+share/texlive/texmf-dist/fonts/enc/dvips/tempora/tmp_ac5xuc.enc}</usr/share/tex
+live/texmf-dist/fonts/type1/public/tempora/Tempora-Bold.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/tempora/Tempora-Italic.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/tempora/Tempora-Regular.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmmib10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb>
+Output written on report.pdf (8 pages, 841427 bytes).
 PDF statistics:
- 135 PDF objects out of 1000 (max. 8388607)
- 77 compressed objects within 1 object stream
+ 148 PDF objects out of 1000 (max. 8388607)
+ 87 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  35 words of extra memory for PDF output out of 10000 (max. 10000000)
 

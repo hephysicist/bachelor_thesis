@@ -5,8 +5,9 @@
 \usepackage[utf8]{inputenc}
 \usepackage[english,russian]{babel}
 \usepackage{graphicx} % для вставки картинок
-\usepackage{amssymb,amsfonts,amsmath,amsthm} % математические дополнения от АМС
+\usepackage{amssymb,amsfonts,amsmath,amsthm,amsbsy} % математические дополнения от АМС
 \usepackage{indentfirst} % отделять первую строку раздела абзацным отступом тоже
+\usepackage{multicol}
 \usepackage{tempora}
 \usepackage{epstopdf}
 \usepackage{mathtools}
@@ -28,11 +29,6 @@
 \renewcommand{\thetable}{\Roman{table}}
 \begin{document}
 	\selectlanguage{russian}
-	\thispagestyle{empty}
-\begin{center}
-	\vspace*{10 cm}
-\Huge{Диплом}
-\end{center}
 \newpage
 \input{./chap/intro.tex}
 \newpage
