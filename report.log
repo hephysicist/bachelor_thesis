@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.15)  18 MAR 2019 20:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.15)  1 APR 2019 17:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2244,7 +2244,13 @@ able
 e 3.
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/b/n' will be
 (Font)              scaled to size 17.28pt on input line 3.
- [4] [5]
+ [4]
+Overfull \hbox (3.1498pt too wide) in paragraph at lines 36--37
+[]\T2A/Tempora-TLF/m/n/14.4 Ёлектроны вто-рич-ной иони-за-ции про-ни-ка-ют че-р
+ез ин-жек-ти-ру-ю-щий √Ё”
+ []
+
+[5]
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/it' will be
 (Font)              scaled to size 14.4pt on input line 42.
 <img/Scheme_raether_det.pdf, id=36, 2240.37pt x 1435.3625pt>
@@ -2261,33 +2267,34 @@ LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 55.
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
 (Font)              scaled to size 7.0pt on input line 55.
-
-Overfull \hbox (17.06999pt too wide) in paragraph at lines 55--56
-\T2A/Tempora-TLF/m/it/14.4 рить\T2A/Tempora-TLF/m/n/14.4 , ко-то-рый из-лу-ча-е
-т пре-иму-ще-ствен-но фо-то-ны с энер-ги-€-ми $\OT1/cmr/m/n/14.4 22\OML/cmm/m/i
-t/14.4 :\OT1/cmr/m/n/14.4 1 [] (82\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 6 %)$
- []
-
 <img/Raether_graph_2.pdf, id=55, 569.12625pt x 407.5225pt>
 File: img/Raether_graph_2.pdf Graphic file (type pdf)
 <use img/Raether_graph_2.pdf>
-Package pdftex.def Info: img/Raether_graph_2.pdf  used on input line 60.
+Package pdftex.def Info: img/Raether_graph_2.pdf  used on input line 62.
 (pdftex.def)             Requested size: 284.52756pt x 203.74208pt.
-) [7 <./img/Raether_graph_2.pdf, page is rotated 90 degrees>] (./report.bbl)
-[8] (./report.aux)
+ [7]) [8 <./img/Raether_graph_2.pdf, page is rotated 90 degrees>] (./chap/Pol_e
+xamine.tex
+
+LaTeX Warning: Reference `fig:Pol_det_photo' on page 9 undefined on input line 
+4.
+
+[9]) [10] (./report.bbl) [11] (./report.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 4.5pt have occurred.
 
+
+LaTeX Warning: There were undefined references.
+
  ) 
 Here is how much of TeX's memory you used:
- 10106 strings out of 492982
- 147369 string characters out of 6134895
- 203065 words of memory out of 5000000
- 13338 multiletter control sequences out of 15000+600000
+ 10112 strings out of 492982
+ 147482 string characters out of 6134895
+ 203073 words of memory out of 5000000
+ 13341 multiletter control sequences out of 15000+600000
  43127 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 53i,13n,92p,1759b,536s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 53i,13n,92p,1875b,536s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/tempora/t2a-tempora.enc}{/usr/
 share/texlive/texmf-dist/fonts/enc/dvips/tempora/tmp_ac5xuc.enc}</usr/share/tex
 live/texmf-dist/fonts/type1/public/tempora/Tempora-Bold.pfb></usr/share/texlive
@@ -2302,10 +2309,10 @@ msfonts/cm/cmmib10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.p
 fb>
-Output written on report.pdf (8 pages, 841427 bytes).
+Output written on report.pdf (11 pages, 844520 bytes).
 PDF statistics:
- 148 PDF objects out of 1000 (max. 8388607)
- 87 compressed objects within 1 object stream
+ 157 PDF objects out of 1000 (max. 8388607)
+ 93 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  35 words of extra memory for PDF output out of 10000 (max. 10000000)
 
