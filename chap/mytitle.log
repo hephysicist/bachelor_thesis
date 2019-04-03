@@ -1,0 +1,3198 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.15)  2 APR 2019 16:18
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**mytitle.tex
+(./mytitle.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+! Undefined control sequence.
+l.2 \singlespacing
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.4 \newgeometry
+                {left=3cm,right=1.5cm,top=2cm,bottom=2cm}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \newgeometry{l
+                  eft=3cm,right=1.5cm,top=2cm,bottom=2cm}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 4--5
+[] 
+ []
+
+
+! LaTeX Error: Environment titlepage undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \begin{titlepage}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \begin{center}
+                   
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 15--15
+[] 
+ []
+
+! Undefined control sequence.
+l.16     {\fnt
+              {10.5} –ú–ò–ù–ò–°–¢–ï–†–°–¢–í–û –û–ë–†–ê–ó–û–í–ê–ù–ò–Ø –ò –ù–ê...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ú in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ò in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ù in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ò in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ° in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ¢ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ï in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no † in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ° in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ¢ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no í in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ë in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no † in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ê in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ó in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no í in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ê in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ù in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ò in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ò in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ù in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ê in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no £ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ö in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ò in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no † in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ° in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ° in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ò in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ô in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ° in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ö in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ô in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no § in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ï in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no î in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ï in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no † in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ê in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ¶ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ò in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ò in font nullfont!
+! Undefined control sequence.
+l.18     {\fnt
+              {10.5} –§–ï–î–ï–†–ê–õ–¨–ù–û–ï –ì–û–°–£–î–ê–†–°–¢–í–ï–ù–ù–û–ï –...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no § in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ï in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no î in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ï in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no † in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ê in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no õ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ¨ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ù in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ï in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ì in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ° in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no £ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no î in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ê in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no † in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ° in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ¢ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no í in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ï in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ù in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ù in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ï in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ê in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no í in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ¢ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ù in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ú in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ù in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ï in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ë in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no † in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ê in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ó in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no í in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ê in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ¢ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ï in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no õ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ¨ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ù in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ï in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no £ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ß in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no † in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ï in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ñ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no î in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ï in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ù in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ò in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ï in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no í in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ´ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ° in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ® in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ï in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ì in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ë in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no † in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ê in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ó in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no í in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ê in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ù in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ò in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no Ø in font nullfont!
+! Undefined control sequence.
+l.22     {\fnt
+              {10.5} <<–ù–û–í–û–°–ò–ë–ò–†–°–ö–ò–ô –ù–ê–¶–ò–û–ù–ê–õ–¨–ù–´–ô –...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ù in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no í in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ° in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ò in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ë in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ò in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no † in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ° in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ö in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ò in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ô in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ù in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ê in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ¶ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ò in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ù in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ê in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no õ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ¨ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ù in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ´ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ô in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ò in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ° in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ° in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no õ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ï in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no î in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no í in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ê in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ¢ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ï in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no õ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ¨ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ° in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ö in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ò in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ô in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ì in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ° in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no £ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no î in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ê in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no † in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ° in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ¢ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no í in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ï in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ù in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ù in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ´ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ô in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no £ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ù in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ò in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no í in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ï in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no † in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ° in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ò in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ¢ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ï in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ¢ in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ù in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no í in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ° in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ò in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ë in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ò in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no † in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ° in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ö in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ò in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ô in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ì in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ° in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no £ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no î in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ê in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no † in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ° in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ¢ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no í in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ï in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ù in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ù in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ´ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ô in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no £ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ù in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ò in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no í in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ï in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no † in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ° in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ò in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ¢ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ï in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ¢ in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ù in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ì in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no £ in font nullfont!
+Missing character: There is no ) in font nullfont!
+! Undefined control sequence.
+l.32 {\fnt
+          {11}–§–∞–∫—É–ª—å—Ç–µ—Ç}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no § in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∞ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∫ in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no É in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ª in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no å in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no Ç in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no µ in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no Ç in font nullfont!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 33.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 33.
+! Undefined control sequence.
+<recently read> \overset 
+                         
+l.33 $\overset
+              {\text{\fnt{11}\textbf{–§–ò–ó–ò–ß–ï–°–ö–ò–ô}}\phantom{\hspace{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.33 $\overset{\text
+                    {\fnt{11}\textbf{–§–ò–ó–ò–ß–ï–°–ö–ò–ô}}\phantom{\hspace{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.33 $\overset{\text{\fnt
+                         {11}\textbf{–§–ò–ó–ò–ß–ï–°–ö–ò–ô}}\phantom{\hspace{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no – in font cmbx10!
+Missing character: There is no § in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ò in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ó in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ò in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ß in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ï in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ° in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ö in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ò in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ô in font cmbx10!
+
+Overfull \hbox (7529.13487pt too wide) in paragraph at lines 31--34
+ $[][]$ 
+ []
+
+! Undefined control sequence.
+l.38 {\fnt
+          {11}–ö–∞—Ñ–µ–¥—Ä–∞}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ö in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∞ in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no Ñ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no µ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ¥ in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∞ in font nullfont!
+! Undefined control sequence.
+<recently read> \overset 
+                         
+l.39 $\overset
+              {\text{\fnt{11}\textbf{–§–ò–ó–ò–ö–ò –≠–õ–ï–ú–ï–ù–¢–ê–†–ù–´–• –...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.39 $\overset{\text
+                    {\fnt{11}\textbf{–§–ò–ó–ò–ö–ò –≠–õ–ï–ú–ï–ù–¢–ê–†–ù–´–• –...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.39 $\overset{\text{\fnt
+                         {11}\textbf{–§–ò–ó–ò–ö–ò –≠–õ–ï–ú–ï–ù–¢–ê–†–ù–´–• –...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no – in font cmbx10!
+Missing character: There is no § in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ò in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ó in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ò in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ö in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ò in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ≠ in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no õ in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ï in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ú in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ï in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ù in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ¢ in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ê in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no † in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ù in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ´ in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no • in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ß in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ê in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ° in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ¢ in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ò in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ¶ in font cmbx10!
+
+Overfull \hbox (7486.11494pt too wide) in paragraph at lines 37--40
+ $[][]$ 
+ []
+
+! Undefined control sequence.
+l.44 {\fnt
+          {11}–ù–∞–ø—Ä–∞–≤–ª–µ–Ω–∏–µ –ø–æ–¥–≥–æ—Ç–æ–≤–∫–∏}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ù in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∞ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ø in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∞ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ≤ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ª in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no µ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no Ω in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∏ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no µ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ø in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no æ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ¥ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ≥ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no æ in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no Ç in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no æ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ≤ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∫ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∏ in font nullfont!
+! Undefined control sequence.
+<recently read> \overset 
+                         
+l.45 $\overset
+              {\text{\fnt{11}\textbf{03.03.02 –§–ò–ó–ò–ö–ê}}\phantom{\hspace...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.45 $\overset{\text
+                    {\fnt{11}\textbf{03.03.02 –§–ò–ó–ò–ö–ê}}\phantom{\hspace...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.45 $\overset{\text{\fnt
+                         {11}\textbf{03.03.02 –§–ò–ó–ò–ö–ê}}\phantom{\hspace...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no – in font cmbx10!
+Missing character: There is no § in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ò in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ó in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ò in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ö in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ê in font cmbx10!
+
+Overfull \hbox (6262.46904pt too wide) in paragraph at lines 43--46
+  $[][]$ 
+ []
+
+! Undefined control sequence.
+l.50 {\fnt
+          {11}–û–±—Ä–∞–∑–æ–≤–∞—Ç–µ–ª—å–Ω–∞—è –ø—Ä–æ–≥—Ä–∞–º–º–∞}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∞ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∑ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no æ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ≤ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∞ in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no Ç in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no µ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ª in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no å in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no Ω in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∞ in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no è in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ø in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no æ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ≥ in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∞ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no º in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no º in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∞ in font nullfont!
+! Undefined control sequence.
+<recently read> \overset 
+                         
+l.51 $\overset
+              {\text{\fnt{11}\textbf{–ë–ê–ö–ê–õ–ê–í–†–ò–ê–¢}}\phantom{\hspac...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.51 $\overset{\text
+                    {\fnt{11}\textbf{–ë–ê–ö–ê–õ–ê–í–†–ò–ê–¢}}\phantom{\hspac...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.51 $\overset{\text{\fnt
+                         {11}\textbf{–ë–ê–ö–ê–õ–ê–í–†–ò–ê–¢}}\phantom{\hspac...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ë in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ê in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ö in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ê in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no õ in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ê in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no í in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no † in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ò in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ê in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ¢ in font cmbx10!
+
+Overfull \hbox (5870.20522pt too wide) in paragraph at lines 49--52
+  $[][]$ 
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 57--57
+[] 
+ []
+
+! Undefined control sequence.
+l.58     {\fnt
+              {11} –í–´–ü–£–°–ö–ù–ê–Ø –ö–í–ê–õ–ò–§–ò–ö–ê–¶–ò–û–ù–ù–ê–Ø –†–ê–...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no – in font cmbx10!
+Missing character: There is no í in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ´ in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ü in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no £ in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ° in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ö in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ù in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ê in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no Ø in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ö in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no í in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ê in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no õ in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ò in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no § in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ò in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ö in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ê in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ¶ in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ò in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no û in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ù in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ù in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ê in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no Ø in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no † in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ê in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ë in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no û in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ¢ in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ê in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ë in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ê in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ö in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ê in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no õ in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ê in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no í in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no † in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ê in font cmbx10!
+
+Overfull \hbox (11.49994pt too wide) in paragraph at lines 58--58
+ \OT1/cmr/bx/n/10 11 
+ []
+
+! Undefined control sequence.
+<recently read> \overset 
+                         
+l.66 $\overset
+              {\text{\fnt{11}–°–µ–º–µ–Ω–æ–≤ –ê–ª–µ–∫—Å–∞–Ω–¥—Ä –í–ª–∞–¥–∏–º–...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.66 $\overset{\text
+                    {\fnt{11}–°–µ–º–µ–Ω–æ–≤ –ê–ª–µ–∫—Å–∞–Ω–¥—Ä –í–ª–∞–¥–∏–º–...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.66 $\overset{\text{\fnt
+                         {11}–°–µ–º–µ–Ω–æ–≤ –ê–ª–µ–∫—Å–∞–Ω–¥—Ä –í–ª–∞–¥–∏–º–...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.67 {\underset
+               {\text{\fnt{9}(—Ñ–∞–º–∏–ª–∏—è, –∏–º—è, –æ—Ç—á–µ—Å—Ç–≤–æ –∞–≤—...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.67 {\underset{\text
+                     {\fnt{9}(—Ñ–∞–º–∏–ª–∏—è, –∏–º—è, –æ—Ç—á–µ—Å—Ç–≤–æ –∞–≤—...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.67 {\underset{\text{\fnt
+                          {9}(—Ñ–∞–º–∏–ª–∏—è, –∏–º—è, –æ—Ç—á–µ—Å—Ç–≤–æ –∞–≤—...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no – in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ≤ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ê in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∫ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no í in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ≤ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ñ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no è in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no è in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ≤ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ≤ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+
+Overfull \hbox (8223.66666pt too wide) in paragraph at lines 65--68
+$[][]$ 
+ []
+
+! Undefined control sequence.
+l.74 {\fnt
+          {11}–¢–µ–º–∞ —Ä–∞–±–æ—Ç—ã}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ¢ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no µ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no º in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∞ in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∞ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no æ in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no Ç in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no ã in font nullfont!
+! Undefined control sequence.
+<recently read> \overset 
+                         
+l.75 $\overset
+              {\text{\fnt{11}–ò–∑–º–µ—Ä–µ–Ω–∏–µ —Å–µ—á–µ–Ω–∏—è –ø—Ä–æ—Ü–µ—Å—...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.75 $\overset{\text
+                    {\fnt{11}–ò–∑–º–µ—Ä–µ–Ω–∏–µ —Å–µ—á–µ–Ω–∏—è –ø—Ä–æ—Ü–µ—Å—...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.75 $\overset{\text{\fnt
+                         {11}–ò–∑–º–µ—Ä–µ–Ω–∏–µ —Å–µ—á–µ–Ω–∏—è –ø—Ä–æ—Ü–µ—Å—...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no – in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∑ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no è in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ü in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∫ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ö in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no î in font cmr10!
+
+Overfull \hbox (7131.62193pt too wide) in paragraph at lines 73--76
+  $[][]$ 
+ []
+
+! Undefined control sequence.
+<recently read> \overset 
+                         
+l.78 $\overset
+              {}{\underline{\hspace{\textwidth}}}$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (8191.99998pt too wide) in paragraph at lines 77--79
+$[][]$ 
+ []
+
+! Undefined control sequence.
+<recently read> \overset 
+                         
+l.81 $\overset
+              {}{\underline{\hspace{\textwidth}}}$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (8191.99998pt too wide) in paragraph at lines 80--82
+$[][]$ 
+ []
+
+
+! LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.88 ...p{0.5\textwidth}@{}@{}R{0.5\textwidth}@{}}
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.88 ...p{0.5\textwidth}@{}@{}R{0.5\textwidth}@{}}
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.89 \fnt
+         {11}\textbf{<<–ö –∑–∞—â–∏—Ç–µ –¥–æ–ø—É—â–µ–Ω–∞>>} &  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ö in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ∑ in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ∞ in font cmbx10!
+Missing character: There is no — in font cmbx10!
+Missing character: There is no â in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ∏ in font cmbx10!
+Missing character: There is no — in font cmbx10!
+Missing character: There is no Ç in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no µ in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ¥ in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no æ in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ø in font cmbx10!
+Missing character: There is no — in font cmbx10!
+Missing character: There is no É in font cmbx10!
+Missing character: There is no — in font cmbx10!
+Missing character: There is no â in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no µ in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no Ω in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ∞ in font cmbx10!
+! Undefined control sequence.
+<recently read> \fnt 
+                     
+l.90 \fnt
+         {11}–ó–∞–≤–µ–¥—É—é—â–∏–π –∫–∞—Ñ–µ–¥—Ä–æ–π,           & \fnt{11}\tex...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ó in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∞ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ≤ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no µ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ¥ in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no É in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no é in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no â in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∏ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no π in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∫ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∞ in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no Ñ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no µ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ¥ in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no æ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no π in font nullfont!
+Missing character: There is no , in font nullfont!
+! Undefined control sequence.
+l.90 ...é—â–∏–π –∫–∞—Ñ–µ–¥—Ä–æ–π,           & \fnt
+                                                  {11}\textbf{–ù–∞—É—á–Ω—ã–π...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ù in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ∞ in font cmbx10!
+Missing character: There is no — in font cmbx10!
+Missing character: There is no É in font cmbx10!
+Missing character: There is no — in font cmbx10!
+Missing character: There is no á in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no Ω in font cmbx10!
+Missing character: There is no — in font cmbx10!
+Missing character: There is no ã in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no π in font cmbx10!
+Missing character: There is no — in font cmbx10!
+Missing character: There is no Ä in font cmbx10!
+Missing character: There is no — in font cmbx10!
+Missing character: There is no É in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ∫ in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no æ in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ≤ in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no æ in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ¥ in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ∏ in font cmbx10!
+Missing character: There is no — in font cmbx10!
+Missing character: There is no Ç in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no µ in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ª in font cmbx10!
+Missing character: There is no — in font cmbx10!
+Missing character: There is no å in font cmbx10!
+! Undefined control sequence.
+<recently read> \fnt 
+                     
+l.91 \fnt
+         {11}–∫–∞–Ω–¥. —Ñ–∏–∑.-–º–∞—Ç. –Ω–∞—É–∫, –¥–æ—Ü–µ–Ω—Ç   & \fnt{11}–∫...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∫ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∞ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no Ω in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ¥ in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no Ñ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∏ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∑ in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no º in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∞ in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no Ç in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no Ω in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∞ in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no É in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∫ in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ¥ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no æ in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no Ü in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no µ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no Ω in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no Ç in font nullfont!
+! Undefined control sequence.
+l.91 ...∑.-–º–∞—Ç. –Ω–∞—É–∫, –¥–æ—Ü–µ–Ω—Ç   & \fnt
+                                                  {11}–∫–∞–Ω–¥. —Ñ–∏–∑.-–º–∞...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∫ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∞ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no Ω in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ¥ in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no Ñ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∏ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∑ in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no º in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∞ in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no Ç in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no Ω in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∞ in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no É in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∫ in font nullfont!
+Missing character: There is no , in font nullfont!
+! Undefined control sequence.
+<recently read> \fnt 
+                     
+l.92 \fnt
+         {11}–∑–∞–≤. –ª–∞–± –ò–Ø–§ –°–û –†–ê–ù            & \fnt{11}–Ω.—Å. –...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∑ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∞ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ≤ in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ª in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∞ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ò in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no § in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ° in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no † in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ê in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ù in font nullfont!
+! Undefined control sequence.
+l.92 ...ª–∞–± –ò–Ø–§ –°–û –†–ê–ù            & \fnt
+                                                  {11}–Ω.—Å. –ò–Ø–§ –°–û –†–...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no Ω in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ò in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no § in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ° in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no † in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ê in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ù in font nullfont!
+! Undefined control sequence.
+<recently read> \overset 
+                         
+l.93 $\overset
+              {\text{\fnt{11}–≠–π–¥–µ–ª—å–º–∞–Ω, –°.\,–ò.}}{\underset{\text{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.93 $\overset{\text
+                    {\fnt{11}–≠–π–¥–µ–ª—å–º–∞–Ω, –°.\,–ò.}}{\underset{\text{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.93 $\overset{\text{\fnt
+                         {11}–≠–π–¥–µ–ª—å–º–∞–Ω, –°.\,–ò.}}{\underset{\text{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.93 ...1}–≠–π–¥–µ–ª—å–º–∞–Ω, –°.\,–ò.}}{\underset
+                                                  {\text{\fnt{8}(—Ñ–∞–º–∏–ª–...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.93 ...–¥–µ–ª—å–º–∞–Ω, –°.\,–ò.}}{\underset{\text
+                                                  {\fnt{8}(—Ñ–∞–º–∏–ª–∏—è, –...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.93 ...ª—å–º–∞–Ω, –°.\,–ò.}}{\underset{\text{\fnt
+                                                  {8}(—Ñ–∞–º–∏–ª–∏—è, –ò.\,–...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.94 \overset
+             {\text{\fnt{11}/}}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.94 \overset{\text
+                   {\fnt{11}/}}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.94 \overset{\text{\fnt
+                        {11}/}}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.95 \overset
+             {\text{\fnt{11}}}{\underset{\text{\fnt{8}(–ø–æ–¥–ø–∏—Å—å)}}{\un...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.95 \overset{\text
+                   {\fnt{11}}}{\underset{\text{\fnt{8}(–ø–æ–¥–ø–∏—Å—å)}}{\un...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.95 \overset{\text{\fnt
+                        {11}}}{\underset{\text{\fnt{8}(–ø–æ–¥–ø–∏—Å—å)}}{\un...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.95 \overset{\text{\fnt{11}}}{\underset
+                                        {\text{\fnt{8}(–ø–æ–¥–ø–∏—Å—å)}}{\un...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.95 \overset{\text{\fnt{11}}}{\underset{\text
+                                              {\fnt{8}(–ø–æ–¥–ø–∏—Å—å)}}{\un...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.95 ...rset{\text{\fnt{11}}}{\underset{\text{\fnt
+                                                  {8}(–ø–æ–¥–ø–∏—Å—å)}}{\und...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no – in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no π in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no å in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ñ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no è in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no û in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no å in font cmr10!
+! Undefined control sequence.
+<recently read> \overset 
+                         
+l.96 $\overset
+              {\text{\fnt{11}–®–µ–±–∞–ª–∏–Ω, –í.\,–ï.}}{\underset{\text{\fnt...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.96 $\overset{\text
+                    {\fnt{11}–®–µ–±–∞–ª–∏–Ω, –í.\,–ï.}}{\underset{\text{\fnt...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.96 $\overset{\text{\fnt
+                         {11}–®–µ–±–∞–ª–∏–Ω, –í.\,–ï.}}{\underset{\text{\fnt...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.96 ...nt{11}–®–µ–±–∞–ª–∏–Ω, –í.\,–ï.}}{\underset
+                                                  {\text{\fnt{8}(—Ñ–∞–º–∏–ª–...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.96 ...–®–µ–±–∞–ª–∏–Ω, –í.\,–ï.}}{\underset{\text
+                                                  {\fnt{8}(—Ñ–∞–º–∏–ª–∏—è, –...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.96 ...±–∞–ª–∏–Ω, –í.\,–ï.}}{\underset{\text{\fnt
+                                                  {8}(—Ñ–∞–º–∏–ª–∏—è, –ò.\,–...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.97 \overset
+             {\text{\fnt{11}/}}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.97 \overset{\text
+                   {\fnt{11}/}}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.97 \overset{\text{\fnt
+                        {11}/}}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.98 \overset
+             {\text{\fnt{11}}}{\underset{\text{\fnt{8}(–ø–æ–¥–ø–∏—Å—å)}}{\un...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.98 \overset{\text
+                   {\fnt{11}}}{\underset{\text{\fnt{8}(–ø–æ–¥–ø–∏—Å—å)}}{\un...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.98 \overset{\text{\fnt
+                        {11}}}{\underset{\text{\fnt{8}(–ø–æ–¥–ø–∏—Å—å)}}{\un...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.98 \overset{\text{\fnt{11}}}{\underset
+                                        {\text{\fnt{8}(–ø–æ–¥–ø–∏—Å—å)}}{\un...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.98 \overset{\text{\fnt{11}}}{\underset{\text
+                                              {\fnt{8}(–ø–æ–¥–ø–∏—Å—å)}}{\un...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.98 ...rset{\text{\fnt{11}}}{\underset{\text{\fnt
+                                                  {8}(–ø–æ–¥–ø–∏—Å—å)}}{\und...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no – in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no í in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ï in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ñ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no è in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no û in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no å in font cmr10!
+! Undefined control sequence.
+<recently read> \overset 
+                         
+l.99 $\overset
+              {\text{\fnt{11}<<}}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.99 $\overset{\text
+                    {\fnt{11}<<}}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.99 $\overset{\text{\fnt
+                         {11}<<}}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.100 \overset
+              {\text{\fnt{11}}}{\underline{\hspace{0.05\textwidth}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.100 \overset{\text
+                    {\fnt{11}}}{\underline{\hspace{0.05\textwidth}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.100 \overset{\text{\fnt
+                         {11}}}{\underline{\hspace{0.05\textwidth}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.101 \overset
+              {\text{\fnt{11}>>}}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.101 \overset{\text
+                    {\fnt{11}>>}}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.101 \overset{\text{\fnt
+                         {11}>>}}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.102 \overset
+              {\text{\fnt{11}}}{\underline{\hspace{0.215\textwidth}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.102 \overset{\text
+                    {\fnt{11}}}{\underline{\hspace{0.215\textwidth}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.102 \overset{\text{\fnt
+                         {11}}}{\underline{\hspace{0.215\textwidth}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.103 \overset
+              {\text{\fnt{11}2017 –≥.}}{}$ &
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.103 \overset{\text
+                    {\fnt{11}2017 –≥.}}{}$ &
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.103 \overset{\text{\fnt
+                         {11}2017 –≥.}}{}$ &
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no – in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+! Undefined control sequence.
+<recently read> \overset 
+                         
+l.104 $\overset
+               {\text{\fnt{11}<<}}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.104 $\overset{\text
+                     {\fnt{11}<<}}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.104 $\overset{\text{\fnt
+                          {11}<<}}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.105 \overset
+              {\text{\fnt{11}}}{\underline{\hspace{0.05\textwidth}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.105 \overset{\text
+                    {\fnt{11}}}{\underline{\hspace{0.05\textwidth}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.105 \overset{\text{\fnt
+                         {11}}}{\underline{\hspace{0.05\textwidth}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.106 \overset
+              {\text{\fnt{11}>>}}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.106 \overset{\text
+                    {\fnt{11}>>}}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.106 \overset{\text{\fnt
+                         {11}>>}}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.107 \overset
+              {\text{\fnt{11}}}{\underline{\hspace{0.215\textwidth}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.107 \overset{\text
+                    {\fnt{11}}}{\underline{\hspace{0.215\textwidth}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.107 \overset{\text{\fnt
+                         {11}}}{\underline{\hspace{0.215\textwidth}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.108 \overset
+              {\text{\fnt{11}2017 –≥.}}{}$ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.108 \overset{\text
+                    {\fnt{11}2017 –≥.}}{}$ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.108 \overset{\text{\fnt
+                         {11}2017 –≥.}}{}$ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no – in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+! Undefined control sequence.
+l.110 & \fnt
+            {11}\textbf{–ö–æ–Ω—Å—É–ª—å—Ç–∞–Ω—Ç} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ö in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no æ in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no Ω in font cmbx10!
+Missing character: There is no — in font cmbx10!
+Missing character: There is no Å in font cmbx10!
+Missing character: There is no — in font cmbx10!
+Missing character: There is no É in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ª in font cmbx10!
+Missing character: There is no — in font cmbx10!
+Missing character: There is no å in font cmbx10!
+Missing character: There is no — in font cmbx10!
+Missing character: There is no Ç in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no ∞ in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no Ω in font cmbx10!
+Missing character: There is no — in font cmbx10!
+Missing character: There is no Ç in font cmbx10!
+! Undefined control sequence.
+l.111 & \fnt
+            {11}–∫–∞–Ω–¥. —Ñ–∏–∑.-–º–∞—Ç. –Ω–∞—É–∫, \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∫ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∞ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no Ω in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ¥ in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no Ñ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∏ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∑ in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no º in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∞ in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no Ç in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no Ω in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∞ in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no É in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∫ in font nullfont!
+Missing character: There is no , in font nullfont!
+! Undefined control sequence.
+l.112 & \fnt
+            {11}—Å.–Ω.—Å. –ò–Ø–§ –°–û –†–ê–ù\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no Ω in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ò in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no § in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ° in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no † in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ê in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ù in font nullfont!
+! Undefined control sequence.
+<recently read> \overset 
+                         
+l.114 $\overset
+               {\text{\fnt{11}–ö–∞—Ä–¥–∞–ø–æ–ª—å—Ü–µ–≤, –õ.\,–í.}}{\underset...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.114 $\overset{\text
+                     {\fnt{11}–ö–∞—Ä–¥–∞–ø–æ–ª—å—Ü–µ–≤, –õ.\,–í.}}{\underset...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.114 $\overset{\text{\fnt
+                          {11}–ö–∞—Ä–¥–∞–ø–æ–ª—å—Ü–µ–≤, –õ.\,–í.}}{\underset...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.114 ...Ä–¥–∞–ø–æ–ª—å—Ü–µ–≤, –õ.\,–í.}}{\underset
+                                                  {\text{\fnt{8}(—Ñ–∞–º–∏–ª–...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.114 ...ø–æ–ª—å—Ü–µ–≤, –õ.\,–í.}}{\underset{\text
+                                                  {\fnt{8}(—Ñ–∞–º–∏–ª–∏—è, –...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.114 ...—å—Ü–µ–≤, –õ.\,–í.}}{\underset{\text{\fnt
+                                                  {8}(—Ñ–∞–º–∏–ª–∏—è, –ò.\,–...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.115 \overset
+              {\text{\fnt{11}/}}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.115 \overset{\text
+                    {\fnt{11}/}}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.115 \overset{\text{\fnt
+                         {11}/}}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.116 \overset
+              {\text{\fnt{11}}}{\underset{\text{\fnt{8}(–ø–æ–¥–ø–∏—Å—å)}}{\u...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.116 \overset{\text
+                    {\fnt{11}}}{\underset{\text{\fnt{8}(–ø–æ–¥–ø–∏—Å—å)}}{\u...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.116 \overset{\text{\fnt
+                         {11}}}{\underset{\text{\fnt{8}(–ø–æ–¥–ø–∏—Å—å)}}{\u...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.116 \overset{\text{\fnt{11}}}{\underset
+                                         {\text{\fnt{8}(–ø–æ–¥–ø–∏—Å—å)}}{\u...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.116 \overset{\text{\fnt{11}}}{\underset{\text
+                                               {\fnt{8}(–ø–æ–¥–ø–∏—Å—å)}}{\u...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.116 ...set{\text{\fnt{11}}}{\underset{\text{\fnt
+                                                  {8}(–ø–æ–¥–ø–∏—Å—å)}}{\und...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no – in font cmr10!
+Missing character: There is no ö in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no å in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ü in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ≤ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no õ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no í in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ñ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no è in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no û in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no å in font cmr10!
+! Undefined control sequence.
+<recently read> \overset 
+                         
+l.118 $\overset
+               {\text{\fnt{11}<<}}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.118 $\overset{\text
+                     {\fnt{11}<<}}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.118 $\overset{\text{\fnt
+                          {11}<<}}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.119 \overset
+              {\text{\fnt{11}}}{\underline{\hspace{0.05\textwidth}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.119 \overset{\text
+                    {\fnt{11}}}{\underline{\hspace{0.05\textwidth}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.119 \overset{\text{\fnt
+                         {11}}}{\underline{\hspace{0.05\textwidth}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.120 \overset
+              {\text{\fnt{11}>>}}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.120 \overset{\text
+                    {\fnt{11}>>}}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.120 \overset{\text{\fnt
+                         {11}>>}}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.121 \overset
+              {\text{\fnt{11}}}{\underline{\hspace{0.215\textwidth}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.121 \overset{\text
+                    {\fnt{11}}}{\underline{\hspace{0.215\textwidth}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.121 \overset{\text{\fnt
+                         {11}}}{\underline{\hspace{0.215\textwidth}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.122 \overset
+              {\text{\fnt{11}2017 –≥.}}{}$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.122 \overset{\text
+                    {\fnt{11}2017 –≥.}}{}$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.122 \overset{\text{\fnt
+                         {11}2017 –≥.}}{}$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no – in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+
+Overfull \hbox (7047.13892pt too wide) in paragraph at lines 87--124
+[] 
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 129--129
+[] 
+ []
+
+! Undefined control sequence.
+l.130 \fnt
+          {11}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+! Undefined control sequence.
+<recently read> \overset 
+                         
+l.131 $\overset
+               {\text{\fnt{11}–î–∞—Ç–∞ –∑–∞—â–∏—Ç—ã: <<}}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.131 $\overset{\text
+                     {\fnt{11}–î–∞—Ç–∞ –∑–∞—â–∏—Ç—ã: <<}}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.131 $\overset{\text{\fnt
+                          {11}–î–∞—Ç–∞ –∑–∞—â–∏—Ç—ã: <<}}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.132 \overset
+              {\text{\fnt{11}}}{\underline{\hspace{0.05\textwidth}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.132 \overset{\text
+                    {\fnt{11}}}{\underline{\hspace{0.05\textwidth}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.132 \overset{\text{\fnt
+                         {11}}}{\underline{\hspace{0.05\textwidth}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.133 \overset
+              {\text{\fnt{11}>>}}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.133 \overset{\text
+                    {\fnt{11}>>}}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.133 \overset{\text{\fnt
+                         {11}>>}}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.134 \overset
+              {\text{\fnt{11}}}{\underline{\hspace{0.215\textwidth}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.134 \overset{\text
+                    {\fnt{11}}}{\underline{\hspace{0.215\textwidth}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.134 \overset{\text{\fnt
+                         {11}}}{\underline{\hspace{0.215\textwidth}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.135 \overset
+              {\text{\fnt{11}2017 –≥.}}{}$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.135 \overset{\text
+                    {\fnt{11}2017 –≥.}}{}$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.135 \overset{\text{\fnt
+                         {11}2017 –≥.}}{}$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no – in font cmr10!
+Missing character: There is no î in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∑ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+
+Overfull \hbox (2283.09738pt too wide) in paragraph at lines 130--136
+ [][][][][][][][][][]$
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 142--142
+[] 
+ []
+
+! Undefined control sequence.
+l.143     \fnt
+              {11} –ù–æ–≤–æ—Å–∏–±–∏—Ä—Å–∫, 2017
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ù in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no æ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ≤ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no æ in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∏ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∏ in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ∫ in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+
+! LaTeX Error: \begin{document} ended by \end{titlepage}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.146 \end{titlepage}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.149 \onehalfspacing
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.150 \restoregeometry
+                      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+)
+! Emergency stop.
+<*> mytitle.tex
+               
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 14 strings out of 492982
+ 218 string characters out of 6134895
+ 59365 words of memory out of 5000000
+ 3679 multiletter control sequences out of 15000+600000
+ 3948 words of font info for 15 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 18i,13n,16p,180b,178s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

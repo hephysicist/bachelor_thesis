@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.15)  1 APR 2019 17:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.15)  3 APR 2019 14:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2137,30 +2137,2779 @@ Option `squaren' provided!
  Command \squaren defined by SIunits package!
 
 LaTeX Info: Redefining \micro on input line 30.
-(./chap/intro.tex
+(./chap/mytitle.tex
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 469.47049pt, 42.67912pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=469.47049pt
+* \textheight=731.23584pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-15.36449pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=14.0pt
+* \footskip=30.0pt
+* \marginparwidth=15.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+! Undefined control sequence.
+l.16     {\fnt
+              {10.5} МИНИСТЕРСТВО ОБРАЗОВАНИЯ И НА...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.18     {\fnt
+              {10.5} ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ �...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.22     {\fnt
+              {10.5} <<НОВОСИБИРСКИЙ НАЦИОНАЛЬНЫЙ �...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.32 {\fnt
+          {11}Факультет}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
+LaTeX Font Info:    Try loading font information for U+msa on input line 33.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 33.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+! Undefined control sequence.
+<argument> \fnt 
+                {11}\textbf {ФИЗИЧЕСКИЙ}
+l.33 ...cm}}}{\underline{\hspace{0.88\textwidth}}}
+                                                  $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/bx/n' in size <14.4> not availa
 ble
 (Font)              Font shape `T2A/Tempora-TLF/b/n' tried instead on input lin
-e 1.
+e 33.
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 1.
+(Font)              scaled to size 14.4pt on input line 33.
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}\textbf {ФИЗИЧЕСКИЙ}
+l.33 ...cm}}}{\underline{\hspace{0.88\textwidth}}}
+                                                  $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 33.
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}\textbf {ФИЗИЧЕСКИЙ}
+l.33 ...cm}}}{\underline{\hspace{0.88\textwidth}}}
+                                                  $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
+(Font)              scaled to size 7.0pt on input line 33.
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}\textbf {ФИЗИЧЕСКИЙ}
+l.33 ...cm}}}{\underline{\hspace{0.88\textwidth}}}
+                                                  $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (23.19695pt too wide) in paragraph at lines 31--34
+\T2A/Tempora-TLF/m/n/14.4 11��������� $[]$ 
+ []
+
+! Undefined control sequence.
+l.38 {\fnt
+          {11}Кафедра}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {11}\textbf {ФИЗИКИ ЭЛЕМЕНТАРНЫХ ЧАСТ�...
+l.39 ...m}}}{\underline{\hspace{0.895\textwidth}}}
+                                                  $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}\textbf {ФИЗИКИ ЭЛЕМЕНТ�...
+l.39 ...m}}}{\underline{\hspace{0.895\textwidth}}}
+                                                  $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}\textbf {ФИЗИКИ ЭЛЕМЕНТ�...
+l.39 ...m}}}{\underline{\hspace{0.895\textwidth}}}
+                                                  $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}\textbf {ФИЗИКИ ЭЛЕМЕНТ�...
+l.39 ...m}}}{\underline{\hspace{0.895\textwidth}}}
+                                                  $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.95073pt too wide) in paragraph at lines 37--40
+\T2A/Tempora-TLF/m/n/14.4 11������� $[]$ 
+ []
+
+! Undefined control sequence.
+l.44 {\fnt
+          {11}Направление подготовки}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {11}\textbf {03.03.02 ФИЗИКА}
+l.45 ...cm}}}{\underline{\hspace{0.73\textwidth}}}
+                                                  $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}\textbf {03.03.02 ФИЗИКА}
+l.45 ...cm}}}{\underline{\hspace{0.73\textwidth}}}
+                                                  $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}\textbf {03.03.02 ФИЗИКА}
+l.45 ...cm}}}{\underline{\hspace{0.73\textwidth}}}
+                                                  $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}\textbf {03.03.02 ФИЗИКА}
+l.45 ...cm}}}{\underline{\hspace{0.73\textwidth}}}
+                                                  $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (40.6264pt too wide) in paragraph at lines 43--46
+\T2A/Tempora-TLF/m/n/14.4 11����������� ���-��-���-�� $[]$ 
+ []
+
+! Undefined control sequence.
+l.50 {\fnt
+          {11}Образовательная программа}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {11}\textbf {БАКАЛАВРИАТ}
+l.51 ...cm}}}{\underline{\hspace{0.69\textwidth}}}
+                                                  $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}\textbf {БАКАЛАВРИАТ}
+l.51 ...cm}}}{\underline{\hspace{0.69\textwidth}}}
+                                                  $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}\textbf {БАКАЛАВРИАТ}
+l.51 ...cm}}}{\underline{\hspace{0.69\textwidth}}}
+                                                  $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}\textbf {БАКАЛАВРИАТ}
+l.51 ...cm}}}{\underline{\hspace{0.69\textwidth}}}
+                                                  $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (43.37875pt too wide) in paragraph at lines 49--52
+\T2A/Tempora-TLF/m/n/14.4 11��������������� ���-����-�� $[]$ 
+ []
+
+! Undefined control sequence.
+l.58     {\fnt
+              {11} ВЫПУСКНАЯ КВАЛИФИКАЦИОННАЯ РА�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {9}(фамилия, имя, отчество автора)
+l.67 ...�ра)}}{\underline{\hspace{\textwidth}}}}
+                                                  $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {9}(фамилия, имя, отчест�...
+l.67 ...�ра)}}{\underline{\hspace{\textwidth}}}}
+                                                  $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {9}(фамилия, имя, отчест�...
+l.67 ...�ра)}}{\underline{\hspace{\textwidth}}}}
+                                                  $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {9}(фамилия, имя, отчест�...
+l.67 ...�ра)}}{\underline{\hspace{\textwidth}}}}
+                                                  $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {9}(фамилия, имя, отчество автора)
+l.67 ...�ра)}}{\underline{\hspace{\textwidth}}}}
+                                                  $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {9}(фамилия, имя, отчест�...
+l.67 ...�ра)}}{\underline{\hspace{\textwidth}}}}
+                                                  $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {9}(фамилия, имя, отчест�...
+l.67 ...�ра)}}{\underline{\hspace{\textwidth}}}}
+                                                  $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {9}(фамилия, имя, отчест�...
+l.67 ...�ра)}}{\underline{\hspace{\textwidth}}}}
+                                                  $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {9}(фамилия, имя, отчество автора)
+l.67 ...�ра)}}{\underline{\hspace{\textwidth}}}}
+                                                  $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {9}(фамилия, имя, отчест�...
+l.67 ...�ра)}}{\underline{\hspace{\textwidth}}}}
+                                                  $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {9}(фамилия, имя, отчест�...
+l.67 ...�ра)}}{\underline{\hspace{\textwidth}}}}
+                                                  $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {9}(фамилия, имя, отчест�...
+l.67 ...�ра)}}{\underline{\hspace{\textwidth}}}}
+                                                  $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {11}Семенов Александр Владимирович
+l.67 ...�ра)}}{\underline{\hspace{\textwidth}}}}
+                                                  $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}Семенов Александр В�...
+l.67 ...�ра)}}{\underline{\hspace{\textwidth}}}}
+                                                  $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}Семенов Александр В�...
+l.67 ...�ра)}}{\underline{\hspace{\textwidth}}}}
+                                                  $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}Семенов Александр В�...
+l.67 ...�ра)}}{\underline{\hspace{\textwidth}}}}
+                                                  $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.74 {\fnt
+          {11}Тема работы}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {11}Измерение сечения процесса e+e- ...
+l.75 ...-3}}{\underline{\hspace{0.855\textwidth}}}
+                                                  $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}Измерение сечения п�...
+l.75 ...-3}}{\underline{\hspace{0.855\textwidth}}}
+                                                  $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}Измерение сечения п�...
+l.75 ...-3}}{\underline{\hspace{0.855\textwidth}}}
+                                                  $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}Измерение сечения п�...
+l.75 ...-3}}{\underline{\hspace{0.855\textwidth}}}
+                                                  $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (23.32147pt too wide) in paragraph at lines 73--76
+\T2A/Tempora-TLF/m/n/14.4 11���� ��-��-�� $[]$ 
+ []
+
+
+! LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.88 ...p{0.5\textwidth}@{}@{}R{0.5\textwidth}@{}}
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.88 ...p{0.5\textwidth}@{}@{}R{0.5\textwidth}@{}}
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.89 \fnt
+         {11}\textbf{<<К защите допущена>>} &  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \fnt 
+                     
+l.90 \fnt
+         {11}Заведующий кафедрой,           & \fnt{11}\tex...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.90 ...�щий кафедрой,           & \fnt
+                                                  {11}\textbf{Научный...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \fnt 
+                     
+l.91 \fnt
+         {11}канд. физ.-мат. наук, доцент   & \fnt{11}к...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.91 ...�.-мат. наук, доцент   & \fnt
+                                                  {11}канд. физ.-ма...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \fnt 
+                     
+l.92 \fnt
+         {11}зав. лаб ИЯФ СО РАН            & \fnt{11}н.с. �...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.92 ...�аб ИЯФ СО РАН            & \fnt
+                                                  {11}н.с. ИЯФ СО Р�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {8}(фамилия, И.\,О.)
+l.93 ...)}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(фамилия, И.\,О.)
+l.93 ...)}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(фамилия, И.\,О.)
+l.93 ...)}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(фамилия, И.\,О.)
+l.93 ...)}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {8}(фамилия, И.\,О.)
+l.93 ...)}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(фамилия, И.\,О.)
+l.93 ...)}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(фамилия, И.\,О.)
+l.93 ...)}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(фамилия, И.\,О.)
+l.93 ...)}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {8}(фамилия, И.\,О.)
+l.93 ...)}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(фамилия, И.\,О.)
+l.93 ...)}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(фамилия, И.\,О.)
+l.93 ...)}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(фамилия, И.\,О.)
+l.93 ...)}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {11}Эйдельман, С.\,И.
+l.93 ...)}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}Эйдельман, С.\,И.
+l.93 ...)}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}Эйдельман, С.\,И.
+l.93 ...)}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}Эйдельман, С.\,И.
+l.93 ...)}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {11}/
+l.94 \overset{\text{\fnt{11}/}}{}
+                                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}/
+l.94 \overset{\text{\fnt{11}/}}{}
+                                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}/
+l.94 \overset{\text{\fnt{11}/}}{}
+                                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}/
+l.94 \overset{\text{\fnt{11}/}}{}
+                                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {8}(подпись)
+l.95 ...)}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ &
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(подпись)
+l.95 ...)}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ &
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(подпись)
+l.95 ...)}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ &
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(подпись)
+l.95 ...)}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ &
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {8}(подпись)
+l.95 ...)}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ &
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(подпись)
+l.95 ...)}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ &
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(подпись)
+l.95 ...)}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ &
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(подпись)
+l.95 ...)}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ &
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {8}(подпись)
+l.95 ...)}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ &
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(подпись)
+l.95 ...)}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ &
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(подпись)
+l.95 ...)}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ &
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(подпись)
+l.95 ...)}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ &
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {11}
+l.95 ...)}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ &
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}
+l.95 ...)}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ &
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}
+l.95 ...)}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ &
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}
+l.95 ...)}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ &
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {8}(фамилия, И.\,О.)
+l.96 ...)}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(фамилия, И.\,О.)
+l.96 ...)}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(фамилия, И.\,О.)
+l.96 ...)}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(фамилия, И.\,О.)
+l.96 ...)}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {8}(фамилия, И.\,О.)
+l.96 ...)}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(фамилия, И.\,О.)
+l.96 ...)}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(фамилия, И.\,О.)
+l.96 ...)}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(фамилия, И.\,О.)
+l.96 ...)}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {8}(фамилия, И.\,О.)
+l.96 ...)}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(фамилия, И.\,О.)
+l.96 ...)}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(фамилия, И.\,О.)
+l.96 ...)}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(фамилия, И.\,О.)
+l.96 ...)}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {11}Шебалин, В.\,Е.
+l.96 ...)}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}Шебалин, В.\,Е.
+l.96 ...)}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}Шебалин, В.\,Е.
+l.96 ...)}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}Шебалин, В.\,Е.
+l.96 ...)}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {11}/
+l.97 \overset{\text{\fnt{11}/}}{}
+                                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}/
+l.97 \overset{\text{\fnt{11}/}}{}
+                                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}/
+l.97 \overset{\text{\fnt{11}/}}{}
+                                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}/
+l.97 \overset{\text{\fnt{11}/}}{}
+                                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {8}(подпись)
+l.98 ...)}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(подпись)
+l.98 ...)}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(подпись)
+l.98 ...)}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(подпись)
+l.98 ...)}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {8}(подпись)
+l.98 ...)}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(подпись)
+l.98 ...)}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(подпись)
+l.98 ...)}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(подпись)
+l.98 ...)}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {8}(подпись)
+l.98 ...)}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(подпись)
+l.98 ...)}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(подпись)
+l.98 ...)}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(подпись)
+l.98 ...)}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {11}
+l.98 ...)}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}
+l.98 ...)}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}
+l.98 ...)}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}
+l.98 ...)}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {11}<<
+l.99 $\overset{\text{\fnt{11}<<}}{}
+                                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}<<
+l.99 $\overset{\text{\fnt{11}<<}}{}
+                                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}<<
+l.99 $\overset{\text{\fnt{11}<<}}{}
+                                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}<<
+l.99 $\overset{\text{\fnt{11}<<}}{}
+                                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {11}
+l.100 ...1}}}{\underline{\hspace{0.05\textwidth}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}
+l.100 ...1}}}{\underline{\hspace{0.05\textwidth}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}
+l.100 ...1}}}{\underline{\hspace{0.05\textwidth}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}
+l.100 ...1}}}{\underline{\hspace{0.05\textwidth}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {11}>>
+l.101 \overset{\text{\fnt{11}>>}}{}
+                                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}>>
+l.101 \overset{\text{\fnt{11}>>}}{}
+                                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}>>
+l.101 \overset{\text{\fnt{11}>>}}{}
+                                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}>>
+l.101 \overset{\text{\fnt{11}>>}}{}
+                                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {11}
+l.102 ...}}}{\underline{\hspace{0.215\textwidth}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}
+l.102 ...}}}{\underline{\hspace{0.215\textwidth}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}
+l.102 ...}}}{\underline{\hspace{0.215\textwidth}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}
+l.102 ...}}}{\underline{\hspace{0.215\textwidth}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {11}2017 г.
+l.103 \overset{\text{\fnt{11}2017 г.}}{}
+                                         $ &
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}2017 г.
+l.103 \overset{\text{\fnt{11}2017 г.}}{}
+                                         $ &
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}2017 г.
+l.103 \overset{\text{\fnt{11}2017 г.}}{}
+                                         $ &
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}2017 г.
+l.103 \overset{\text{\fnt{11}2017 г.}}{}
+                                         $ &
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {11}<<
+l.104 $\overset{\text{\fnt{11}<<}}{}
+                                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}<<
+l.104 $\overset{\text{\fnt{11}<<}}{}
+                                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}<<
+l.104 $\overset{\text{\fnt{11}<<}}{}
+                                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}<<
+l.104 $\overset{\text{\fnt{11}<<}}{}
+                                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {11}
+l.105 ...1}}}{\underline{\hspace{0.05\textwidth}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}
+l.105 ...1}}}{\underline{\hspace{0.05\textwidth}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}
+l.105 ...1}}}{\underline{\hspace{0.05\textwidth}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}
+l.105 ...1}}}{\underline{\hspace{0.05\textwidth}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {11}>>
+l.106 \overset{\text{\fnt{11}>>}}{}
+                                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}>>
+l.106 \overset{\text{\fnt{11}>>}}{}
+                                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}>>
+l.106 \overset{\text{\fnt{11}>>}}{}
+                                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}>>
+l.106 \overset{\text{\fnt{11}>>}}{}
+                                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {11}
+l.107 ...}}}{\underline{\hspace{0.215\textwidth}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}
+l.107 ...}}}{\underline{\hspace{0.215\textwidth}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}
+l.107 ...}}}{\underline{\hspace{0.215\textwidth}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}
+l.107 ...}}}{\underline{\hspace{0.215\textwidth}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {11}2017 г.
+l.108 \overset{\text{\fnt{11}2017 г.}}{}
+                                         $ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}2017 г.
+l.108 \overset{\text{\fnt{11}2017 г.}}{}
+                                         $ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}2017 г.
+l.108 \overset{\text{\fnt{11}2017 г.}}{}
+                                         $ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}2017 г.
+l.108 \overset{\text{\fnt{11}2017 г.}}{}
+                                         $ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.110 & \fnt
+            {11}\textbf{Консультант} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.111 & \fnt
+            {11}канд. физ.-мат. наук, \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.112 & \fnt
+            {11}с.н.с. ИЯФ СО РАН\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {8}(фамилия, И.\,О.)
+l.114 ...}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(фамилия, И.\,О.)
+l.114 ...}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(фамилия, И.\,О.)
+l.114 ...}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(фамилия, И.\,О.)
+l.114 ...}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {8}(фамилия, И.\,О.)
+l.114 ...}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(фамилия, И.\,О.)
+l.114 ...}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(фамилия, И.\,О.)
+l.114 ...}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(фамилия, И.\,О.)
+l.114 ...}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {8}(фамилия, И.\,О.)
+l.114 ...}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(фамилия, И.\,О.)
+l.114 ...}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(фамилия, И.\,О.)
+l.114 ...}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(фамилия, И.\,О.)
+l.114 ...}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {11}Кардапольцев, Л.\,В.
+l.114 ...}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}Кардапольцев, Л.\,В.
+l.114 ...}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}Кардапольцев, Л.\,В.
+l.114 ...}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}Кардапольцев, Л.\,В.
+l.114 ...}}{\underline{\hspace{0.225\textwidth}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {11}/
+l.115 \overset{\text{\fnt{11}/}}{}
+                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}/
+l.115 \overset{\text{\fnt{11}/}}{}
+                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}/
+l.115 \overset{\text{\fnt{11}/}}{}
+                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}/
+l.115 \overset{\text{\fnt{11}/}}{}
+                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {8}(подпись)
+l.116 ...}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(подпись)
+l.116 ...}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(подпись)
+l.116 ...}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(подпись)
+l.116 ...}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {8}(подпись)
+l.116 ...}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(подпись)
+l.116 ...}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(подпись)
+l.116 ...}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(подпись)
+l.116 ...}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {8}(подпись)
+l.116 ...}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(подпись)
+l.116 ...}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(подпись)
+l.116 ...}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {8}(подпись)
+l.116 ...}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {11}
+l.116 ...}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}
+l.116 ...}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}
+l.116 ...}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}
+l.116 ...}}{\underline{\hspace{0.125\textwidth}}}}
+                                                  $ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {11}<<
+l.118 $\overset{\text{\fnt{11}<<}}{}
+                                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}<<
+l.118 $\overset{\text{\fnt{11}<<}}{}
+                                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}<<
+l.118 $\overset{\text{\fnt{11}<<}}{}
+                                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}<<
+l.118 $\overset{\text{\fnt{11}<<}}{}
+                                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {11}
+l.119 ...1}}}{\underline{\hspace{0.05\textwidth}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}
+l.119 ...1}}}{\underline{\hspace{0.05\textwidth}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}
+l.119 ...1}}}{\underline{\hspace{0.05\textwidth}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}
+l.119 ...1}}}{\underline{\hspace{0.05\textwidth}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {11}>>
+l.120 \overset{\text{\fnt{11}>>}}{}
+                                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}>>
+l.120 \overset{\text{\fnt{11}>>}}{}
+                                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}>>
+l.120 \overset{\text{\fnt{11}>>}}{}
+                                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}>>
+l.120 \overset{\text{\fnt{11}>>}}{}
+                                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {11}
+l.121 ...}}}{\underline{\hspace{0.215\textwidth}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}
+l.121 ...}}}{\underline{\hspace{0.215\textwidth}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}
+l.121 ...}}}{\underline{\hspace{0.215\textwidth}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}
+l.121 ...}}}{\underline{\hspace{0.215\textwidth}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {11}2017 г.
+l.122 \overset{\text{\fnt{11}2017 г.}}{}
+                                         $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}2017 г.
+l.122 \overset{\text{\fnt{11}2017 г.}}{}
+                                         $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}2017 г.
+l.122 \overset{\text{\fnt{11}2017 г.}}{}
+                                         $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}2017 г.
+l.122 \overset{\text{\fnt{11}2017 г.}}{}
+                                         $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.130 \fnt
+          {11}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {11}Дата защиты: <<
+l.131 ...ext{\fnt{11}Дата защиты: <<}}{}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}Дата защиты: <<
+l.131 ...ext{\fnt{11}Дата защиты: <<}}{}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}Дата защиты: <<
+l.131 ...ext{\fnt{11}Дата защиты: <<}}{}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}Дата защиты: <<
+l.131 ...ext{\fnt{11}Дата защиты: <<}}{}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {11}
+l.132 ...1}}}{\underline{\hspace{0.05\textwidth}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}
+l.132 ...1}}}{\underline{\hspace{0.05\textwidth}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}
+l.132 ...1}}}{\underline{\hspace{0.05\textwidth}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}
+l.132 ...1}}}{\underline{\hspace{0.05\textwidth}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {11}>>
+l.133 \overset{\text{\fnt{11}>>}}{}
+                                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}>>
+l.133 \overset{\text{\fnt{11}>>}}{}
+                                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}>>
+l.133 \overset{\text{\fnt{11}>>}}{}
+                                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}>>
+l.133 \overset{\text{\fnt{11}>>}}{}
+                                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {11}
+l.134 ...}}}{\underline{\hspace{0.215\textwidth}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}
+l.134 ...}}}{\underline{\hspace{0.215\textwidth}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}
+l.134 ...}}}{\underline{\hspace{0.215\textwidth}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}
+l.134 ...}}}{\underline{\hspace{0.215\textwidth}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \fnt 
+                {11}2017 г.
+l.135 \overset{\text{\fnt{11}2017 г.}}{}
+                                         $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}2017 г.
+l.135 \overset{\text{\fnt{11}2017 г.}}{}
+                                         $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}2017 г.
+l.135 \overset{\text{\fnt{11}2017 г.}}{}
+                                         $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \firstchoice@false \fnt 
+                                   {11}2017 г.
+l.135 \overset{\text{\fnt{11}2017 г.}}{}
+                                         $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.143     \fnt
+              {11} Новосибирск, 2017
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]) (./chap/intro.tex
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/bx/n' in size <20.74> not avail
 able
 (Font)              Font shape `T2A/Tempora-TLF/b/n' tried instead on input lin
 e 1.
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/b/n' will be
 (Font)              scaled to size 20.74pt on input line 1.
-<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
-LaTeX Font Info:    Try loading font information for U+msa on input line 4.
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 4.
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
 LaTeX Font Info:    Try loading font information for TS1+Tempora-TLF on input l
 ine 11.
 
@@ -2172,8 +4921,8 @@ LaTeX Font Info:    Font shape `TS1/Tempora-TLF/m/n' will be
 (Font)              scaled to size 14.4pt on input line 11.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]) [2] (./chap/resonant_dep.
-tex
+])
+[2] (./chap/resonant_dep.tex
 
 LaTeX Font Warning: Command \boldmath invalid in math mode on input line 5.
 
@@ -2253,7 +5002,7 @@ Overfull \hbox (3.1498pt too wide) in paragraph at lines 36--37
 [5]
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/it' will be
 (Font)              scaled to size 14.4pt on input line 42.
-<img/Scheme_raether_det.pdf, id=36, 2240.37pt x 1435.3625pt>
+<img/Scheme_raether_det.pdf, id=43, 2240.37pt x 1435.3625pt>
 File: img/Scheme_raether_det.pdf Graphic file (type pdf)
 <use img/Scheme_raether_det.pdf>
 Package pdftex.def Info: img/Scheme_raether_det.pdf  used on input line 46.
@@ -2263,11 +5012,7 @@ LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/it' will be
 (Font)              scaled to size 12.0pt on input line 47.
  [6 <./img/Scheme_raether_det.pdf>]
-LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 55.
-LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 55.
-<img/Raether_graph_2.pdf, id=55, 569.12625pt x 407.5225pt>
+<img/Raether_graph_2.pdf, id=62, 569.12625pt x 407.5225pt>
 File: img/Raether_graph_2.pdf Graphic file (type pdf)
 <use img/Raether_graph_2.pdf>
 Package pdftex.def Info: img/Raether_graph_2.pdf  used on input line 62.
@@ -2278,7 +5023,19 @@ xamine.tex
 LaTeX Warning: Reference `fig:Pol_det_photo' on page 9 undefined on input line 
 4.
 
-[9]) [10] (./report.bbl) [11] (./report.aux)
+<img/pedestal_map.pdf, id=112, 569.12625pt x 289.08pt>
+File: img/pedestal_map.pdf Graphic file (type pdf)
+<use img/pedestal_map.pdf>
+Package pdftex.def Info: img/pedestal_map.pdf  used on input line 13.
+(pdftex.def)             Requested size: 341.43306pt x 173.43169pt.
+[9]
+<img/noise_map.pdf, id=116, 569.12625pt x 289.08pt>
+File: img/noise_map.pdf Graphic file (type pdf)
+<use img/noise_map.pdf>
+Package pdftex.def Info: img/noise_map.pdf  used on input line 23.
+(pdftex.def)             Requested size: 341.43306pt x 173.43169pt.
+ [10 <./img/pedestal_map.pdf, page is rotated 90 degrees>]) [11 <./img/noise_ma
+p.pdf, page is rotated 90 degrees>] (./report.bbl) [12] (./report.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 4.5pt have occurred.
@@ -2288,13 +5045,13 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 10112 strings out of 492982
- 147482 string characters out of 6134895
- 203073 words of memory out of 5000000
- 13341 multiletter control sequences out of 15000+600000
- 43127 words of font info for 67 fonts, out of 8000000 for 9000
+ 10134 strings out of 492982
+ 147936 string characters out of 6134895
+ 206091 words of memory out of 5000000
+ 13356 multiletter control sequences out of 15000+600000
+ 47215 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 53i,13n,92p,1875b,536s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 53i,17n,92p,3150b,530s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/tempora/t2a-tempora.enc}{/usr/
 share/texlive/texmf-dist/fonts/enc/dvips/tempora/tmp_ac5xuc.enc}</usr/share/tex
 live/texmf-dist/fonts/type1/public/tempora/Tempora-Bold.pfb></usr/share/texlive
@@ -2309,10 +5066,10 @@ msfonts/cm/cmmib10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.p
 fb>
-Output written on report.pdf (11 pages, 844520 bytes).
+Output written on report.pdf (14 pages, 997741 bytes).
 PDF statistics:
- 157 PDF objects out of 1000 (max. 8388607)
- 93 compressed objects within 1 object stream
+ 256 PDF objects out of 1000 (max. 8388607)
+ 136 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 35 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 45 words of extra memory for PDF output out of 10000 (max. 10000000)
 
