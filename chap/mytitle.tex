@@ -1,25 +1,25 @@
+\documentclass[a4paper,14pt]{extreport}
+\usepackage[left=30mm, top=20mm, right=15mm, bottom=20mm, nohead]{geometry} 
+\usepackage{cmap} % для кодировки шрифтов в pdf
+\usepackage[T2A]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[english,russian]{babel}
+
 % Ставим одинарный междустрочный интервал
 \singlespacing
 % Ставим геометрию для титульной страницы.
-\newgeometry{left=3cm,right=1.5cm,top=2cm,bottom=2cm}
 
-% Просто информация. Нигде в странице не используется, но зато попадёт в pdf info.
-\author{Семенов А.\:В.}
-\title{Измерение сечения e+ e- -> KS KL pi0}
-\date{2017 г.}
-
-\begin{titlepage}
+\begin{document}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \begin{center}
-    {\fnt{10.5} МИНИСТЕРСТВО ОБРАЗОВАНИЯ И НАУКИ РОССИЙСКОЙ ФЕДЕРАЦИИ} \\
+    \fontsize{11pt}{0}{МИНИСТЕРСТВО ОБРАЗОВАНИЯ И НАУКИ РОССИЙСКОЙ ФЕДЕРАЦИИ} \\
         \vspace{0.3\baselineskip}
-    {\fnt{10.5} ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ ОБРАЗОВАТЕЛЬНОЕ \\ 
-		\vspace{-0.3\baselineskip}
+    \fontsize{11pt}{0}{ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ ОБРАЗОВАТЕЛЬНОЕ \\ 
 		УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ} \\
         \vspace{0.3\baselineskip}
-    {\fnt{10.5} <<НОВОСИБИРСКИЙ НАЦИОНАЛЬНЫЙ ИССЛЕДОВАТЕЛЬСКИЙ ГОСУДАРСТВЕННЫЙ \\
+    {\fontsize{11pt}{0} <<НОВОСИБИРСКИЙ НАЦИОНАЛЬНЫЙ ИССЛЕДОВАТЕЛЬСКИЙ ГОСУДАРСТВЕННЫЙ \\
 		\vspace{-0.3\baselineskip}
 		УНИВЕРСИТЕТ>> (НОВОСИБИРСКИЙ ГОСУДАРСТВЕННЫЙ УНИВЕРСИТЕТ, НГУ)}
 \end{center}
@@ -140,11 +140,6 @@ $\overset{\text{\fnt{11}Дата защиты: <<}}{}
 \vfill
 
 \begin{center}
-    \fnt{11} Новосибирск, 2017
+    \fontsize{11}{0} Новосибирск, 2017
 \end{center}
-
-\end{titlepage}
-
-% Возвращаем всё назад: полуторный интервал и геометрию.
-\onehalfspacing
-\restoregeometry
+\end{document}

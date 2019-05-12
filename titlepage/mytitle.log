@@ -1,15 +1,15 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.15)  12 MAY 2019 20:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.15)  19 APR 2019 21:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**report.tex
-(./report.tex
+**mytitle.tex
+(./mytitle.tex
 LaTeX2e <2017-04-15>
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/extsizes/extreport.cls
 Document Class: extreport 1996/10/08 v1.0 Non Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/extsizes/size14.clo
-File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/base/exscale.sty
 Package: exscale 2014/09/29 v2.1h Standard LaTeX package exscale
@@ -614,133 +614,31 @@ Language: russian 2017/08/12 1.3j Russian support for the Babel system
 Package babel Info: Making " an active character on input line 120.
 Package babel Info: Default for \cyrdash is provided on input line 157.
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
-)
-Package graphics Info: Driver file: pdftex.def on input line 99.
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
-))
-\Gin@req@height=\dimen113
-\Gin@req@width=\dimen114
-)
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
-Package: amssymb 2013/01/14 v3.01 AMS font symbols
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks18
-\symAMSa=\mathgroup4
-\symAMSb=\mathgroup5
-LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-))
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2017/09/02 v2.17a AMS math features
-\@mathmargin=\skip43
-
-For additional information on amsmath, use the `?' option.
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
-Package: amstext 2000/06/29 v2.01 AMS text
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
-File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks19
-\ex@=\dimen115
-))
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
-Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen116
-)
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
-Package: amsopn 2016/03/08 v2.02 operator names
-)
-\inf@bad=\count93
-LaTeX Info: Redefining \frac on input line 213.
-\uproot@=\count94
-\leftroot@=\count95
-LaTeX Info: Redefining \overline on input line 375.
-\classnum@=\count96
-\DOTSCASE@=\count97
-LaTeX Info: Redefining \ldots on input line 472.
-LaTeX Info: Redefining \dots on input line 475.
-LaTeX Info: Redefining \cdots on input line 596.
-\Mathstrutbox@=\box26
-\strutbox@=\box27
-\big@size=\dimen117
-LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
-\macc@depth=\count98
-\c@MaxMatrixCols=\count99
-\dotsspace@=\muskip10
-\c@parentequation=\count100
-\dspbrk@lvl=\count101
-\tag@help=\toks20
-\row@=\count102
-\column@=\count103
-\maxfields@=\count104
-\andhelp@=\toks21
-\eqnshift@=\dimen118
-\alignsep@=\dimen119
-\tagshift@=\dimen120
-\tagwidth@=\dimen121
-\totwidth@=\dimen122
-\lineht@=\dimen123
-\@envbody=\toks22
-\multlinegap=\skip44
-\multlinetaggap=\skip45
-\mathdisplay@stack=\toks23
-LaTeX Info: Redefining \[ on input line 2817.
-LaTeX Info: Redefining \] on input line 2818.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
-Package: amsthm 2017/10/31 v2.20.4
-\thm@style=\toks24
-\thm@bodyfont=\toks25
-\thm@headfont=\toks26
-\thm@notefont=\toks27
-\thm@headpunct=\toks28
-\thm@preskip=\skip46
-\thm@postskip=\skip47
-\thm@headsep=\skip48
-\dth@everypar=\toks29
-)
-(/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
-Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
-)
 (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
-\c@tracingmulticols=\count105
-\mult@box=\box28
-\multicol@leftmargin=\dimen124
-\c@unbalance=\count106
-\c@collectmore=\count107
-\doublecol@number=\count108
-\multicoltolerance=\count109
-\multicolpretolerance=\count110
-\full@width=\dimen125
-\page@free=\dimen126
-\premulticols=\dimen127
-\postmulticols=\dimen128
-\multicolsep=\skip49
-\multicolbaselineskip=\skip50
-\partial@page=\box29
-\last@line=\box30
-\maxbalancingoverflow=\dimen129
-\mult@rightbox=\box31
-\mult@grightbox=\box32
-\mult@gfirstbox=\box33
-\mult@firstbox=\box34
+\c@tracingmulticols=\count93
+\mult@box=\box26
+\multicol@leftmargin=\dimen113
+\c@unbalance=\count94
+\c@collectmore=\count95
+\doublecol@number=\count96
+\multicoltolerance=\count97
+\multicolpretolerance=\count98
+\full@width=\dimen114
+\page@free=\dimen115
+\premulticols=\dimen116
+\postmulticols=\dimen117
+\multicolsep=\skip43
+\multicolbaselineskip=\skip44
+\partial@page=\box27
+\last@line=\box28
+\maxbalancingoverflow=\dimen118
+\mult@rightbox=\box29
+\mult@grightbox=\box30
+\mult@gfirstbox=\box31
+\mult@firstbox=\box32
+\@tempa=\box33
+\@tempa=\box34
 \@tempa=\box35
 \@tempa=\box36
 \@tempa=\box37
@@ -756,16 +654,14 @@ Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
 \@tempa=\box47
 \@tempa=\box48
 \@tempa=\box49
-\@tempa=\box50
-\@tempa=\box51
-\c@columnbadness=\count111
-\c@finalcolumnbadness=\count112
-\last@try=\dimen130
-\multicolovershoot=\dimen131
-\multicolundershoot=\dimen132
-\mult@nat@firstbox=\box52
-\colbreak@box=\box53
-\mc@col@check@num=\count113
+\c@columnbadness=\count99
+\c@finalcolumnbadness=\count100
+\last@try=\dimen119
+\multicolovershoot=\dimen120
+\multicolundershoot=\dimen121
+\mult@nat@firstbox=\box50
+\colbreak@box=\box51
+\mc@col@check@num=\count101
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tempora/tempora.sty
 Package: tempora 2016/02/02 (msharpe) Style file for Tempora.
@@ -1833,292 +1729,89 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
 (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks30
-\XKV@tempa@toks=\toks31
+\XKV@toks=\toks18
+\XKV@tempa@toks=\toks19
 )
-\XKV@depth=\count114
+\XKV@depth=\count102
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )))
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf.sty
-Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
-
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)))
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-38.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 456.
-
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-)))
-(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mathtools.sty
-Package: mathtools 2018/01/08 v1.21 mathematical typesetting tools
-
-(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
-Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count115
-\calc@Bcount=\count116
-\calc@Adimen=\dimen133
-\calc@Bdimen=\dimen134
-\calc@Askip=\skip51
-\calc@Bskip=\skip52
-LaTeX Info: Redefining \setlength on input line 80.
-LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count117
-\calc@Cskip=\skip53
-)
-(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mhsetup.sty
-Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
-)
-LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
-LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
-LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
-LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
-\g_MT_multlinerow_int=\count118
-\l_MT_multwidth_dim=\dimen135
-\origjot=\skip54
-\l_MT_shortvdotswithinadjustabove_dim=\dimen136
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen137
-\l_MT_above_intertext_sep=\dimen138
-\l_MT_below_intertext_sep=\dimen139
-\l_MT_above_shortintertext_sep=\dimen140
-\l_MT_below_shortintertext_sep=\dimen141
-)
-(/usr/share/texlive/texmf-dist/tex/latex/framed/framed.sty
-Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
-\OuterFrameSep=\skip55
-\fb@frw=\dimen142
-\fb@frh=\dimen143
-\FrameRule=\dimen144
-\FrameSep=\dimen145
-)
-(/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-\wrapoverhang=\dimen146
-\WF@size=\dimen147
-\c@WF@wrappedlines=\count119
-\WF@box=\box54
-\WF@everypar=\toks32
-Package: wrapfig 2003/01/31  v 3.6
-)
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
-
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
-Package caption3 Info: TeX engine: e-TeX on input line 67.
-\captionmargin=\dimen148
-\captionmargin@=\dimen149
-\captionwidth=\dimen150
-\caption@tempdima=\dimen151
-\caption@indent=\dimen152
-\caption@parindent=\dimen153
-\caption@hangindent=\dimen154
-)
-\c@ContinuedFloat=\count120
-Package caption Info: wrapfig package is loaded.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
-Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
-\c@subfigure=\count121
-\c@subtable=\count122
-)
-(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
-Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
-\ttl@box=\box55
-\beforetitleunit=\skip56
-\aftertitleunit=\skip57
-\ttl@plus=\dimen155
-\ttl@minus=\dimen156
-\ttl@toksa=\toks33
-\titlewidth=\dimen157
-\titlewidthlast=\dimen158
-\titlewidthfirst=\dimen159
-)
 (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
-Package: enumitem 2011/09/28 v3.5.2 Customized lists
-\labelindent=\skip58
-\enit@outerparindent=\dimen160
-\enit@toks=\toks34
-\enit@inbox=\box56
-\enitdp@description=\count123
-)
-(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
-Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count124
-\float@exts=\toks35
-\float@box=\box57
-\@float@everytoks=\toks36
-\@floatcapt=\box58
-)
-(/usr/share/texlive/texmf-dist/tex/latex/hepunits/hepunits.sty
-Package: hepunits 2007/09/27 High-energy physics units by Andy Buckley (v1.1.1)
 
+! Package inputenc Error: Unicode char вЂЋ (U+200E)
+(inputenc)                not set up for use with LaTeX.
 
-(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
-Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/SIunits/SIunits.sty
-Package: SIunits 2007/12/02 v1.36 Support for the International System of units
- (MH)
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 \usepackage{setspace}вЂЋ
+                             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
+(./mytitle.aux)
+\openout1 = `mytitle.aux'.
 
-\@qskwidth=\skip59
-LaTeX Font Info:    Redeclaring font encoding TS1 on input line 46.
-\symgreek=\mathgroup6
-(/usr/share/texlive/texmf-dist/tex/latex/SIunits/SIunits.cfg)
-LaTeX Info: Redefining \usk on input line 576.
-
-Option `mediumspace' provided!
-LaTeX Info: Redefining \@qsk on input line 576.
-Option `thickqspace' provided!
-Option `textstyle' provided!
-Option `squaren' provided!
-)) (/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
-Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
-Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/atbegshi.sty
-Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package xcolor Info: Driver file: pdftex.def on input line 225.
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
-Package xcolor Info: Model `RGB' extended on input line 1364.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-))
-\AM@pagewidth=\dimen161
-\AM@pageheight=\dimen162
-
-(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
-File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
-)
-\AM@pagebox=\box59
-\AM@global@opts=\toks37
-\AM@toc@title=\toks38
-\c@AM@survey=\count125
-\AM@templatesizebox=\box60
-) (./report.aux)
-\openout1 = `report.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OT2/cmr/m/n on input line 40.
-LaTeX Font Info:    Try loading font information for OT2+cmr on input line 40.
-(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/ot2cmr.fd
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT2/cmr/m/n on input line 17.
+LaTeX Font Info:    Try loading font information for OT2+cmr on input line 17.
+ (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/ot2cmr.fd
 File: ot2cmr.fd 2001/08/11 v3.2c Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for T2C/cmr/m/n on input line 40.
-LaTeX Font Info:    Try loading font information for T2C+cmr on input line 40.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T2C/cmr/m/n on input line 17.
+LaTeX Font Info:    Try loading font information for T2C+cmr on input line 17.
 
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2ccmr.fd
 File: t2ccmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for T2B/cmr/m/n on input line 40.
-LaTeX Font Info:    Try loading font information for T2B+cmr on input line 40.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T2B/cmr/m/n on input line 17.
+LaTeX Font Info:    Try loading font information for T2B+cmr on input line 17.
 
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2bcmr.fd
 File: t2bcmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 40.
-LaTeX Font Info:    Try loading font information for LGR+cmr on input line 40.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 17.
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 17.
 
 (/usr/share/texlive/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 40.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 17.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    ... okay on input line 17.
 LaTeX Font Info:    Try loading font information for T1+Tempora-TLF on input li
-ne 40.
+ne 17.
 
 (/usr/share/texlive/texmf-dist/tex/latex/tempora/T1Tempora-TLF.fd
 File: T1Tempora-TLF.fd 2016/02/02 (autoinst) Font definitions for T1/Tempora-TL
 F.
 )
 LaTeX Font Info:    Font shape `T1/Tempora-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 40.
+(Font)              scaled to size 10.95pt on input line 17.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -2139,12 +1832,12 @@ LaTeX Font Info:    Font shape `T1/Tempora-TLF/m/n' will be
 * \topmargin=-15.36449pt
 * \headheight=0.0pt
 * \headsep=0.0pt
-* \topskip=14.0pt
+* \topskip=11.0pt
 * \footskip=30.0pt
-* \marginparwidth=15.0pt
+* \marginparwidth=50.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=12.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -2155,356 +1848,89 @@ LaTeX Font Info:    Font shape `T1/Tempora-TLF/m/n' will be
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Try loading font information for T2A+Tempora-TLF on input l
-ine 40.
+ine 17.
 (/usr/share/texlive/texmf-dist/tex/latex/tempora/t2atempora-tlf.fd
 File: t2atempora-tlf.fd 2015/09/13 Font definitions for T2A/Tempora-TLF.
 )
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 40.
-
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count126
-\scratchdimen=\dimen163
-\scratchbox=\box61
-\nofMPsegments=\count127
-\nofMParguments=\count128
-\everyMPshowfont=\toks39
-\MPscratchCnt=\count129
-\MPscratchDim=\dimen164
-\MPnumerator=\count130
-\makeMPintoPDFobject=\count131
-\everyMPtoPDFconversion=\toks40
-)
-\c@mv@tabular=\count132
-\c@mv@boldtabular=\count133
-Package caption Info: Begin \AtBeginDocument code.
-Package caption Info: float package is loaded.
-Package caption Info: End \AtBeginDocument code.
-
-Option `squaren' provided! 
- Command \squaren defined by SIunits package!
-
-LaTeX Info: Redefining \micro on input line 40.
-\AtBeginShipoutBox=\box62
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
-Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
-Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
-)
-Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
-)
-<./titlepage/mytitle.pdf, id=3, 597.50829pt x 845.0471pt>
-File: ./titlepage/mytitle.pdf Graphic file (type pdf)
-<use ./titlepage/mytitle.pdf>
-Package pdftex.def Info: ./titlepage/mytitle.pdf  used on input line 43.
-(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-File: ./titlepage/mytitle.pdf Graphic file (type pdf)
-<use ./titlepage/mytitle.pdf>
-Package pdftex.def Info: ./titlepage/mytitle.pdf  used on input line 43.
-(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-<./titlepage/mytitle.pdf, id=6, page=1, 597.50829pt x 845.0471pt>
-File: ./titlepage/mytitle.pdf Graphic file (type pdf)
-<use ./titlepage/mytitle.pdf, page 1>
-Package pdftex.def Info: ./titlepage/mytitle.pdf , page1 used on input line 43.
-
-(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-File: ./titlepage/mytitle.pdf Graphic file (type pdf)
-<use ./titlepage/mytitle.pdf, page 1>
-Package pdftex.def Info: ./titlepage/mytitle.pdf , page1 used on input line 43.
-
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: ./titlepage/mytitle.pdf Graphic file (type pdf)
-<use ./titlepage/mytitle.pdf, page 1>
-Package pdftex.def Info: ./titlepage/mytitle.pdf , page1 used on input line 43.
-
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: ./titlepage/mytitle.pdf Graphic file (type pdf)
-<use ./titlepage/mytitle.pdf, page 1>
-Package pdftex.def Info: ./titlepage/mytitle.pdf , page1 used on input line 43.
-
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: ./titlepage/mytitle.pdf Graphic file (type pdf)
-<use ./titlepage/mytitle.pdf, page 1>
-Package pdftex.def Info: ./titlepage/mytitle.pdf , page1 used on input line 43.
-
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [1
-
- <./titlepage/mytitle.pdf{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}>]
-(./chap/intro.tex
-{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 1.
-LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 20.74pt on input line 1.
-LaTeX Font Info:    Font shape `T2A/Tempora-TLF/bx/n' in size <20.74> not avail
-able
-(Font)              Font shape `T2A/Tempora-TLF/b/n' tried instead on input lin
-e 1.
-LaTeX Font Info:    Font shape `T2A/Tempora-TLF/b/n' will be
-(Font)              scaled to size 20.74pt on input line 1.
+(Font)              scaled to size 10.95pt on input line 17.
+\c@mv@tabular=\count103
+\c@mv@boldtabular=\count104
 <<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
-LaTeX Font Info:    Try loading font information for U+msa on input line 4.
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 4.
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Font shape `T2A/Tempora-TLF/bx/n' in size <14.4> not availa
-ble
-(Font)              Font shape `T2A/Tempora-TLF/b/n' tried instead on input lin
-e 7.
-LaTeX Font Info:    Font shape `T2A/Tempora-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 7.
-LaTeX Font Info:    Try loading font information for TS1+Tempora-TLF on input l
-ine 11.
-
-(/usr/share/texlive/texmf-dist/tex/latex/tempora/TS1Tempora-TLF.fd
-File: TS1Tempora-TLF.fd 2016/02/02 (autoinst) Font definitions for TS1/Tempora-
-TLF.
-)
-LaTeX Font Info:    Font shape `TS1/Tempora-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 11.
- [2
-
-])
-[3] (./chap/resonant_dep.tex
-{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 2.
-
-LaTeX Warning: Citation `SokolovTernov63' on page 4 undefined on input line 3.
-
-
-LaTeX Font Warning: Command \boldmath invalid in math mode on input line 5.
-
-
-LaTeX Font Warning: Command \mathversion invalid in math mode on input line 5.
-
-
-LaTeX Font Warning: Command \boldmath invalid in math mode on input line 5.
-
-
-LaTeX Font Warning: Command \mathversion invalid in math mode on input line 5.
-
-LaTeX Font Info:    Calculating math sizes for size <> on input line 6.
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <> not available
-(Font)              size <5> substituted on input line 6.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.7> not available
-(Font)              size <5> substituted on input line 6.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.5> not available
-(Font)              size <5> substituted on input line 6.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <> not available
-(Font)              size <5> substituted on input line 6.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.7> not available
-(Font)              size <5> substituted on input line 6.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.5> not available
-(Font)              size <5> substituted on input line 6.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <> not available
-(Font)              size <5> substituted on input line 6.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.7> not available
-(Font)              size <5> substituted on input line 6.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.5> not available
-(Font)              size <5> substituted on input line 6.
-
-
-LaTeX Font Warning: Font shape `OML/eur/m/n' in size <> not available
-(Font)              size <5> substituted on input line 6.
-
-
-LaTeX Font Warning: Font shape `OML/eur/m/n' in size <0.7> not available
-(Font)              size <5> substituted on input line 6.
-
-
-LaTeX Font Warning: Font shape `OML/eur/m/n' in size <0.5> not available
-(Font)              size <5> substituted on input line 6.
-
-[4
-
-]) [5] (./chap/raether_exp.tex
-{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
-LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 3.
-LaTeX Font Info:    Font shape `T2A/Tempora-TLF/bx/n' in size <17.28> not avail
+LaTeX Font Info:    External font `cmex7' loaded for size
+(Font)              <6> on input line 33.
+LaTeX Font Info:    Font shape `T2A/Tempora-TLF/bx/n' in size <10.95> not avail
 able
 (Font)              Font shape `T2A/Tempora-TLF/b/n' tried instead on input lin
-e 3.
+e 33.
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 3.
-[6
+(Font)              scaled to size 10.95pt on input line 33.
 
-]
-Overfull \hbox (3.1498pt too wide) in paragraph at lines 37--38
-[]\T2A/Tempora-TLF/m/n/14.4 Электроны вто-рич-ной иони-за-ции про-ни-ка-ют че-р
-ез ин-жек-ти-ру-ю-щий ГЭУ
+Overfull \hbox (1.1208pt too wide) in paragraph at lines 31--41
+\T2A/Tempora-TLF/m/n/10.95 Кафедра $[]$
  []
 
-[7]
-LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/it' will be
-(Font)              scaled to size 14.4pt on input line 43.
-<img/Scheme_raether_det.pdf, id=59, 2240.37pt x 1435.3625pt>
-File: img/Scheme_raether_det.pdf Graphic file (type pdf)
-<use img/Scheme_raether_det.pdf>
-Package pdftex.def Info: img/Scheme_raether_det.pdf  used on input line 47.
-(pdftex.def)             Requested size: 227.62204pt x 145.82245pt.
+! Misplaced \noalign.
+l.54 \noalign
+              \hline
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.54 \noalign \hline
+                    
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 48.
-LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 48.
- [8 <./img/Scheme_raether_det.pdf>]
+(Font)              scaled to size 6.0pt on input line 56.
+
+Overfull \hbox (0.53656pt too wide) in paragraph at lines 60--62
+[]$  
+ []
+
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 56.
-LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 56.
-<img/Raether_graph_2.pdf, id=78, 569.12625pt x 407.5225pt>
-File: img/Raether_graph_2.pdf Graphic file (type pdf)
-<use img/Raether_graph_2.pdf>
-Package pdftex.def Info: img/Raether_graph_2.pdf  used on input line 63.
-(pdftex.def)             Requested size: 284.52756pt x 203.74208pt.
-File: img/Raether_graph_2.pdf Graphic file (type pdf)
-<use img/Raether_graph_2.pdf>
-Package pdftex.def Info: img/Raether_graph_2.pdf  used on input line 76.
-(pdftex.def)             Requested size: 284.52756pt x 203.74208pt.
- [9]) [10 <./img/Raether_graph_2.pdf, page is rotated 90 degrees>] (./chap/Pol_
-examine.tex
-{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 4.
+(Font)              scaled to size 10.0pt on input line 73.
 
-LaTeX Warning: Reference `fig:Pol_det_photo' on page 11 undefined on input line
- 4.
+! LaTeX Error: There's no line here to end.
 
-<img/pedestal_map.pdf, id=128, 569.12625pt x 289.08pt>
-File: img/pedestal_map.pdf Graphic file (type pdf)
-<use img/pedestal_map.pdf>
-Package pdftex.def Info: img/pedestal_map.pdf  used on input line 14.
-(pdftex.def)             Requested size: 341.43306pt x 173.43169pt.
-[11
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.77 	\phantom{\hspace{1pt}}\\
+                              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
-]
-<img/noise_map.pdf, id=132, 569.12625pt x 289.08pt>
-File: img/noise_map.pdf Graphic file (type pdf)
-<use img/noise_map.pdf>
-Package pdftex.def Info: img/noise_map.pdf  used on input line 24.
-(pdftex.def)             Requested size: 341.43306pt x 173.43169pt.
- [12 <./img/pedestal_map.pdf, page is rotated 90 degrees>]
-<img/Noise_time_drift.pdf, id=179, 569.12625pt x 384.43625pt>
-File: img/Noise_time_drift.pdf Graphic file (type pdf)
-<use img/Noise_time_drift.pdf>
-Package pdftex.def Info: img/Noise_time_drift.pdf  used on input line 35.
-(pdftex.def)             Requested size: 234.73524pt x 158.5643pt.
-<img/Mean_time_drift.pdf, id=180, 569.12625pt x 384.43625pt>
-File: img/Mean_time_drift.pdf Graphic file (type pdf)
-<use img/Mean_time_drift.pdf>
-Package pdftex.def Info: img/Mean_time_drift.pdf  used on input line 40.
-(pdftex.def)             Requested size: 234.73524pt x 158.5643pt.
-LaTeX Font Info:    Font shape `TS1/Tempora-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 43.
-<img/Signal.png, id=181, 1318.9275pt x 1273.75874pt>
-File: img/Signal.png Graphic file (type png)
-<use img/Signal.png>
-Package pdftex.def Info: img/Signal.png  used on input line 52.
-(pdftex.def)             Requested size: 227.61586pt x 199.16037pt.
- [13 <./img/noise_map.pdf, page is rotated 90 degrees> <./img/Noise_time_drift.
-pdf, page is rotated 90 degrees> <./img/Mean_time_drift.pdf, page is rotated 90
- degrees>]
-[14 <./img/Signal.png (PNG copy)>]
-<img/Side_pixmap.png, id=320, 1682.285pt x 539.01375pt>
-File: img/Side_pixmap.png Graphic file (type png)
-<use img/Side_pixmap.png>
-Package pdftex.def Info: img/Side_pixmap.png  used on input line 75.
-(pdftex.def)             Requested size: 221.99043pt x 71.13188pt.
-<img/Center_pixmap.png, id=322, 1319.93124pt x 540.0175pt>
-File: img/Center_pixmap.png Graphic file (type png)
-<use img/Center_pixmap.png>
-Package pdftex.def Info: img/Center_pixmap.png  used on input line 80.
-(pdftex.def)             Requested size: 173.85281pt x 71.13188pt.
-<img/Median_unzoomed.png, id=323, 1003.75pt x 1204.5pt>
-File: img/Median_unzoomed.png Graphic file (type png)
-<use img/Median_unzoomed.png>
-Package pdftex.def Info: img/Median_unzoomed.png  used on input line 92.
-(pdftex.def)             Requested size: 156.48328pt x 184.93117pt.
+LaTeX Font Info:    Font shape `T2A/Tempora-TLF/bx/n' in size <10> not availabl
+e
+(Font)              Font shape `T2A/Tempora-TLF/b/n' tried instead on input lin
+e 78.
+LaTeX Font Info:    Font shape `T2A/Tempora-TLF/b/n' will be
+(Font)              scaled to size 10.0pt on input line 78.
+[1
 
-Overfull \hbox (1.55716pt too wide) in paragraph at lines 92--93
- [][] 
- []
-
-<img/Median_1.png, id=324, 1003.75pt x 1204.5pt>
-File: img/Median_1.png Graphic file (type png)
-<use img/Median_1.png>
-Package pdftex.def Info: img/Median_1.png  used on input line 98.
-(pdftex.def)             Requested size: 165.01428pt x 184.93117pt.
-
-Overfull \hbox (10.08817pt too wide) in paragraph at lines 98--99
- [][] 
- []
-
-<img/Median_0.png, id=325, 1003.75pt x 1204.5pt>
-File: img/Median_0.png Graphic file (type png)
-<use img/Median_0.png>
-Package pdftex.def Info: img/Median_0.png  used on input line 104.
-(pdftex.def)             Requested size: 165.01428pt x 184.93117pt.
-
-Overfull \hbox (10.08817pt too wide) in paragraph at lines 104--105
- [][] 
- []
-
-[15 <./img/Side_pixmap.png> <./img/Center_pixmap.png>]) [16 <./img/Median_unzoo
-med.png> <./img/Median_1.png> <./img/Median_0.png>] (./report.bbl) [17
-
-]
-(./report.aux)
-
-LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 4.5pt have occurred.
-
-
-LaTeX Warning: There were undefined references.
-
- ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./mytitle.aux) ) 
 Here is how much of TeX's memory you used:
- 11745 strings out of 492982
- 172369 string characters out of 6134895
- 235921 words of memory out of 5000000
- 14900 multiletter control sequences out of 15000+600000
- 51434 words of font info for 91 fonts, out of 8000000 for 9000
+ 5190 strings out of 492982
+ 74304 string characters out of 6134895
+ 123393 words of memory out of 5000000
+ 8634 multiletter control sequences out of 15000+600000
+ 24115 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 53i,18n,92p,3846b,655s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/tempora/t2a-tempora.enc}{/usr/
-share/texlive/texmf-dist/fonts/enc/dvips/tempora/tmp_ac5xuc.enc}</usr/share/tex
-live/texmf-dist/fonts/type1/public/tempora/Tempora-Bold.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/public/tempora/Tempora-Italic.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/tempora/Tempora-Regular.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmmib10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
-></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on report.pdf (17 pages, 1302683 bytes).
+ 30i,4n,33p,462b,197s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/sha
+re/texlive/texmf-dist/fonts/enc/dvips/tempora/t2a-tempora.enc}</usr/share/texli
+ve/texmf-dist/fonts/type1/public/tempora/Tempora-Bold.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/tempora/Tempora-Regular.pfb>
+Output written on mytitle.pdf (1 page, 63792 bytes).
 PDF statistics:
- 380 PDF objects out of 1000 (max. 8388607)
- 191 compressed objects within 2 object streams
+ 23 PDF objects out of 1000 (max. 8388607)
+ 11 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 105 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 25 words of extra memory for PDF output out of 10000 (max. 10000000)
 

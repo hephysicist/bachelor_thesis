@@ -1,4 +1,4 @@
-\documentclass[a4paper,14pt]{extarticle}
+\documentclass[a4paper,14pt]{extreport}
 \usepackage[left=30mm, top=20mm, right=15mm, bottom=20mm, nohead]{geometry} 
 \usepackage{cmap} % для кодировки шрифтов в pdf
 \usepackage[T2A]{fontenc}
@@ -17,20 +17,30 @@
 \usepackage{subcaption}
 \usepackage{titlesec}
 \usepackage{setspace}
+\usepackage{enumitem}
 \usepackage{float}
 \usepackage{epstopdf}
 \usepackage{hepunits}
+\usepackage[final]{pdfpages}
 \captionsetup[figure]{font=small,labelfont=small,name={Рис.},labelsep=period}
-\titleformat{\section}
-{\normalsize\bfseries} % format
-{}                % label
+
+\titleformat{\chapter}
+{\Large\bfseries} % format
+{\thechapter.\quad}% label
 {0pt}             % sep
-{\Large}           % before-code
+{\Large}
+\titlespacing*{\chapter}{0pt}{0pt}{10pt}
+\titleformat{\section}
+{\large\bfseries} % format
+{\thesection.\quad}                % label
+{0pt}             % sep
+{\large}           % before-code
+
 \renewcommand{\thetable}{\Roman{table}}
 \begin{document}
-	\selectlanguage{russian}
+\selectlanguage{russian}
 \newpage
-\input{./chap/mytitle.tex}
+\includepdf{./titlepage/mytitle.pdf}
 \newpage
 \input{./chap/intro.tex}
 \newpage

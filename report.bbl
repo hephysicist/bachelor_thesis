@@ -32,12 +32,22 @@ T.Maltsev~V.Bobrovnikov V.Kudryavtsev~L.Shekhtman. Development of
   at the VEPP-4M collider.
 \newblock 2017.
 
-\bibitem{SokolovTernov63}
+\bibitem{sokolov}
 \selectlanguageifdefined{russian}
 А.~А.~Соколов~И.~М.~Тернов. О~поляризационных
   и спиновых эффектах в~теории
   синхротронного излучения.
 \newblock 1963.
+
+\bibitem{skrinskii}
+\selectlanguageifdefined{russian}
+Скринский~А.~Н., Шатунов~Ю.~М. Прецизионные
+  измерения масс элементарных частиц на
+  накопителях с поляризованными пучками~//
+  Усп. физ. наук.
+\newblock 1989.
+\newblock Т. 158, {№}~6.
+\newblock {С.}~315--326.
 
 \bibitem{Peskov}
 \selectlanguageifdefined{russian}
