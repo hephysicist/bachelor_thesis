@@ -49,6 +49,14 @@ T.Maltsev~V.Bobrovnikov V.Kudryavtsev~L.Shekhtman. Development of
 \newblock Т. 158, {№}~6.
 \newblock {С.}~315--326.
 
+\bibitem{PDG}
+\selectlanguageifdefined{russian}
+Review of Particle Physics~/ M.~Tanabashi, K.~Hagiwara, K.~Hikasa
+  {[и~др.]}~// Phys. Rev. D.
+\newblock 2018.  Aug.
+\newblock Т.~98.
+\newblock {с.}~030001.
+
 \bibitem{Peskov}
 \selectlanguageifdefined{russian}
 Fonte~V. Peskov~P. Research on discharges in micropattern and small gap gaseous

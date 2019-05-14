@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.15)  12 MAY 2019 20:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.15)  14 MAY 2019 23:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2274,74 +2274,6 @@ LaTeX Font Info:    Font shape `TS1/Tempora-TLF/m/n' will be
 ])
 [3] (./chap/resonant_dep.tex
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 2.
-
-LaTeX Warning: Citation `SokolovTernov63' on page 4 undefined on input line 3.
-
-
-LaTeX Font Warning: Command \boldmath invalid in math mode on input line 5.
-
-
-LaTeX Font Warning: Command \mathversion invalid in math mode on input line 5.
-
-
-LaTeX Font Warning: Command \boldmath invalid in math mode on input line 5.
-
-
-LaTeX Font Warning: Command \mathversion invalid in math mode on input line 5.
-
-LaTeX Font Info:    Calculating math sizes for size <> on input line 6.
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <> not available
-(Font)              size <5> substituted on input line 6.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.7> not available
-(Font)              size <5> substituted on input line 6.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.5> not available
-(Font)              size <5> substituted on input line 6.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <> not available
-(Font)              size <5> substituted on input line 6.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.7> not available
-(Font)              size <5> substituted on input line 6.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.5> not available
-(Font)              size <5> substituted on input line 6.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <> not available
-(Font)              size <5> substituted on input line 6.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.7> not available
-(Font)              size <5> substituted on input line 6.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.5> not available
-(Font)              size <5> substituted on input line 6.
-
-
-LaTeX Font Warning: Font shape `OML/eur/m/n' in size <> not available
-(Font)              size <5> substituted on input line 6.
-
-
-LaTeX Font Warning: Font shape `OML/eur/m/n' in size <0.7> not available
-(Font)              size <5> substituted on input line 6.
-
-
-LaTeX Font Warning: Font shape `OML/eur/m/n' in size <0.5> not available
-(Font)              size <5> substituted on input line 6.
-
-[4
-
-]) [5] (./chap/raether_exp.tex
-{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
 (Font)              scaled to size 17.28pt on input line 3.
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/bx/n' in size <17.28> not avail
@@ -2350,93 +2282,70 @@ able
 e 3.
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/b/n' will be
 (Font)              scaled to size 17.28pt on input line 3.
-[6
+
+LaTeX Warning: Citation `SokolovTernov63' on page 4 undefined on input line 4.
+
+[4
+
+] [5]
+LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 60.
+LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
+(Font)              scaled to size 7.0pt on input line 60.
+) [6] (./chap/Pol_examine.tex
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
+
+LaTeX Warning: Reference `fig:Pol_det_photo' on page 7 undefined on input line 
+4.
+
+[7
 
 ]
-Overfull \hbox (3.1498pt too wide) in paragraph at lines 37--38
-[]\T2A/Tempora-TLF/m/n/14.4 Электроны вто-рич-ной иони-за-ции про-ни-ка-ют че-р
-ез ин-жек-ти-ру-ю-щий ГЭУ
- []
-
-[7]
-LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/it' will be
-(Font)              scaled to size 14.4pt on input line 43.
-<img/Scheme_raether_det.pdf, id=59, 2240.37pt x 1435.3625pt>
-File: img/Scheme_raether_det.pdf Graphic file (type pdf)
-<use img/Scheme_raether_det.pdf>
-Package pdftex.def Info: img/Scheme_raether_det.pdf  used on input line 47.
-(pdftex.def)             Requested size: 227.62204pt x 145.82245pt.
-LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 48.
-LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 48.
- [8 <./img/Scheme_raether_det.pdf>]
-LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 56.
-LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 56.
-<img/Raether_graph_2.pdf, id=78, 569.12625pt x 407.5225pt>
-File: img/Raether_graph_2.pdf Graphic file (type pdf)
-<use img/Raether_graph_2.pdf>
-Package pdftex.def Info: img/Raether_graph_2.pdf  used on input line 63.
-(pdftex.def)             Requested size: 284.52756pt x 203.74208pt.
-File: img/Raether_graph_2.pdf Graphic file (type pdf)
-<use img/Raether_graph_2.pdf>
-Package pdftex.def Info: img/Raether_graph_2.pdf  used on input line 76.
-(pdftex.def)             Requested size: 284.52756pt x 203.74208pt.
- [9]) [10 <./img/Raether_graph_2.pdf, page is rotated 90 degrees>] (./chap/Pol_
-examine.tex
-{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 4.
-
-LaTeX Warning: Reference `fig:Pol_det_photo' on page 11 undefined on input line
- 4.
-
-<img/pedestal_map.pdf, id=128, 569.12625pt x 289.08pt>
+<img/pedestal_map.pdf, id=58, 569.12625pt x 289.08pt>
 File: img/pedestal_map.pdf Graphic file (type pdf)
 <use img/pedestal_map.pdf>
 Package pdftex.def Info: img/pedestal_map.pdf  used on input line 14.
 (pdftex.def)             Requested size: 341.43306pt x 173.43169pt.
-[11
-
-]
-<img/noise_map.pdf, id=132, 569.12625pt x 289.08pt>
+LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 15.
+ [8 <./img/pedestal_map.pdf, page is rotated 90 degrees>]
+<img/noise_map.pdf, id=105, 569.12625pt x 289.08pt>
 File: img/noise_map.pdf Graphic file (type pdf)
 <use img/noise_map.pdf>
 Package pdftex.def Info: img/noise_map.pdf  used on input line 24.
 (pdftex.def)             Requested size: 341.43306pt x 173.43169pt.
- [12 <./img/pedestal_map.pdf, page is rotated 90 degrees>]
-<img/Noise_time_drift.pdf, id=179, 569.12625pt x 384.43625pt>
+<img/Noise_time_drift.pdf, id=106, 569.12625pt x 384.43625pt>
 File: img/Noise_time_drift.pdf Graphic file (type pdf)
 <use img/Noise_time_drift.pdf>
 Package pdftex.def Info: img/Noise_time_drift.pdf  used on input line 35.
 (pdftex.def)             Requested size: 234.73524pt x 158.5643pt.
-<img/Mean_time_drift.pdf, id=180, 569.12625pt x 384.43625pt>
+<img/Mean_time_drift.pdf, id=107, 569.12625pt x 384.43625pt>
 File: img/Mean_time_drift.pdf Graphic file (type pdf)
 <use img/Mean_time_drift.pdf>
 Package pdftex.def Info: img/Mean_time_drift.pdf  used on input line 40.
 (pdftex.def)             Requested size: 234.73524pt x 158.5643pt.
 LaTeX Font Info:    Font shape `TS1/Tempora-TLF/m/n' will be
 (Font)              scaled to size 12.0pt on input line 43.
-<img/Signal.png, id=181, 1318.9275pt x 1273.75874pt>
+ [9 <./img/noise_map.pdf, page is rotated 90 degrees> <./img/Noise_time_drift.p
+df, page is rotated 90 degrees> <./img/Mean_time_drift.pdf, page is rotated 90 
+degrees>]
+<img/Signal.png, id=241, 1318.9275pt x 1273.75874pt>
 File: img/Signal.png Graphic file (type png)
 <use img/Signal.png>
 Package pdftex.def Info: img/Signal.png  used on input line 52.
 (pdftex.def)             Requested size: 227.61586pt x 199.16037pt.
- [13 <./img/noise_map.pdf, page is rotated 90 degrees> <./img/Noise_time_drift.
-pdf, page is rotated 90 degrees> <./img/Mean_time_drift.pdf, page is rotated 90
- degrees>]
-[14 <./img/Signal.png (PNG copy)>]
-<img/Side_pixmap.png, id=320, 1682.285pt x 539.01375pt>
+ [10 <./img/Signal.png (PNG copy)>]
+<img/Side_pixmap.png, id=245, 1682.285pt x 539.01375pt>
 File: img/Side_pixmap.png Graphic file (type png)
 <use img/Side_pixmap.png>
 Package pdftex.def Info: img/Side_pixmap.png  used on input line 75.
 (pdftex.def)             Requested size: 221.99043pt x 71.13188pt.
-<img/Center_pixmap.png, id=322, 1319.93124pt x 540.0175pt>
+<img/Center_pixmap.png, id=247, 1319.93124pt x 540.0175pt>
 File: img/Center_pixmap.png Graphic file (type png)
 <use img/Center_pixmap.png>
 Package pdftex.def Info: img/Center_pixmap.png  used on input line 80.
 (pdftex.def)             Requested size: 173.85281pt x 71.13188pt.
-<img/Median_unzoomed.png, id=323, 1003.75pt x 1204.5pt>
+<img/Median_unzoomed.png, id=248, 1003.75pt x 1204.5pt>
 File: img/Median_unzoomed.png Graphic file (type png)
 <use img/Median_unzoomed.png>
 Package pdftex.def Info: img/Median_unzoomed.png  used on input line 92.
@@ -2446,7 +2355,7 @@ Overfull \hbox (1.55716pt too wide) in paragraph at lines 92--93
  [][] 
  []
 
-<img/Median_1.png, id=324, 1003.75pt x 1204.5pt>
+<img/Median_1.png, id=249, 1003.75pt x 1204.5pt>
 File: img/Median_1.png Graphic file (type png)
 <use img/Median_1.png>
 Package pdftex.def Info: img/Median_1.png  used on input line 98.
@@ -2456,7 +2365,7 @@ Overfull \hbox (10.08817pt too wide) in paragraph at lines 98--99
  [][] 
  []
 
-<img/Median_0.png, id=325, 1003.75pt x 1204.5pt>
+<img/Median_0.png, id=250, 1003.75pt x 1204.5pt>
 File: img/Median_0.png Graphic file (type png)
 <use img/Median_0.png>
 Package pdftex.def Info: img/Median_0.png  used on input line 104.
@@ -2466,25 +2375,51 @@ Overfull \hbox (10.08817pt too wide) in paragraph at lines 104--105
  [][] 
  []
 
-[15 <./img/Side_pixmap.png> <./img/Center_pixmap.png>]) [16 <./img/Median_unzoo
-med.png> <./img/Median_1.png> <./img/Median_0.png>] (./report.bbl) [17
+[11 <./img/Side_pixmap.png> <./img/Center_pixmap.png>]) [12 <./img/Median_unzoo
+med.png> <./img/Median_1.png> <./img/Median_0.png>] (./chap/raether_exp.tex
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 4.
+[13
 
 ]
-(./report.aux)
+Overfull \hbox (3.1498pt too wide) in paragraph at lines 37--38
+[]\T2A/Tempora-TLF/m/n/14.4 Электроны вто-рич-ной иони-за-ции про-ни-ка-ют че-р
+ез ин-жек-ти-ру-ю-щий ГЭУ
+ []
 
-LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 4.5pt have occurred.
+[14]
+LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/it' will be
+(Font)              scaled to size 14.4pt on input line 43.
+<img/Scheme_raether_det.pdf, id=267, 2240.37pt x 1435.3625pt>
+File: img/Scheme_raether_det.pdf Graphic file (type pdf)
+<use img/Scheme_raether_det.pdf>
+Package pdftex.def Info: img/Scheme_raether_det.pdf  used on input line 47.
+(pdftex.def)             Requested size: 227.62204pt x 145.82245pt.
+LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/it' will be
+(Font)              scaled to size 12.0pt on input line 48.
+ [15 <./img/Scheme_raether_det.pdf>]
+<img/Raether_graph_2.pdf, id=286, 569.12625pt x 407.5225pt>
+File: img/Raether_graph_2.pdf Graphic file (type pdf)
+<use img/Raether_graph_2.pdf>
+Package pdftex.def Info: img/Raether_graph_2.pdf  used on input line 63.
+(pdftex.def)             Requested size: 284.52756pt x 203.74208pt.
+File: img/Raether_graph_2.pdf Graphic file (type pdf)
+<use img/Raether_graph_2.pdf>
+Package pdftex.def Info: img/Raether_graph_2.pdf  used on input line 76.
+(pdftex.def)             Requested size: 284.52756pt x 203.74208pt.
+ [16]) [17 <./img/Raether_graph_2.pdf, page is rotated 90 degrees>] (./report.b
+bl) [18
 
+] (./report.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 11745 strings out of 492982
- 172369 string characters out of 6134895
- 235921 words of memory out of 5000000
- 14900 multiletter control sequences out of 15000+600000
- 51434 words of font info for 91 fonts, out of 8000000 for 9000
+ 11715 strings out of 492982
+ 171925 string characters out of 6134895
+ 236954 words of memory out of 5000000
+ 14881 multiletter control sequences out of 15000+600000
+ 49499 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  53i,18n,92p,3846b,655s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/tempora/t2a-tempora.enc}{/usr/
@@ -2492,19 +2427,19 @@ share/texlive/texmf-dist/fonts/enc/dvips/tempora/tmp_ac5xuc.enc}</usr/share/tex
 live/texmf-dist/fonts/type1/public/tempora/Tempora-Bold.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/public/tempora/Tempora-Italic.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/tempora/Tempora-Regular.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmmib10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
-></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on report.pdf (17 pages, 1302683 bytes).
+xmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmmib10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy1
+0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10
+.pfb>
+Output written on report.pdf (18 pages, 1299519 bytes).
 PDF statistics:
- 380 PDF objects out of 1000 (max. 8388607)
- 191 compressed objects within 2 object streams
+ 379 PDF objects out of 1000 (max. 8388607)
+ 190 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  105 words of extra memory for PDF output out of 10000 (max. 10000000)
 

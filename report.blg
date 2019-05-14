@@ -12,45 +12,45 @@ Warning--empty journal in sauli
 Warning--empty journal in bukin
 Warning--empty journal in Bobr
 Warning--empty journal in Peskov
-You've used 7 entries,
+You've used 8 entries,
             2958 wiz_defined-function locations,
-            707 strings with 6872 characters,
-and the built_in function-call counts, 1535 in all, are:
-= -- 196
-> -- 37
-< -- 6
-+ -- 15
-- -- 8
-* -- 49
-:= -- 182
-add.period$ -- 23
-call.type$ -- 7
+            718 strings with 10845 characters,
+and the built_in function-call counts, 1990 in all, are:
+= -- 262
+> -- 54
+< -- 8
++ -- 20
+- -- 12
+* -- 69
+:= -- 227
+add.period$ -- 27
+call.type$ -- 8
 change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 11
-duplicate$ -- 78
-empty$ -- 162
-format.name$ -- 8
-if$ -- 398
+cite$ -- 12
+duplicate$ -- 102
+empty$ -- 193
+format.name$ -- 12
+if$ -- 524
 int.to.chr$ -- 0
-int.to.str$ -- 7
+int.to.str$ -- 8
 missing$ -- 0
-newline$ -- 47
-num.names$ -- 17
-pop$ -- 58
+newline$ -- 54
+num.names$ -- 20
+pop$ -- 70
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 36
+skip$ -- 63
 stack$ -- 0
-substring$ -- 28
-swap$ -- 38
-text.length$ -- 1
+substring$ -- 40
+swap$ -- 58
+text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 4
-while$ -- 9
-width$ -- 8
-write$ -- 101
+while$ -- 11
+width$ -- 9
+write$ -- 120
 (There were 7 warnings)
