@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.15)  14 MAY 2019 23:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.15)  15 MAY 2019 14:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2294,91 +2294,103 @@ LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
 (Font)              scaled to size 7.0pt on input line 60.
 ) [6] (./chap/Pol_examine.tex
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
-
-LaTeX Warning: Reference `fig:Pol_det_photo' on page 7 undefined on input line 
-4.
-
+<img/GEM_prototype.jpg, id=54, 4453.63875pt x 3571.3425pt>
+File: img/GEM_prototype.jpg Graphic file (type jpg)
+<use img/GEM_prototype.jpg>
+Package pdftex.def Info: img/GEM_prototype.jpg  used on input line 9.
+(pdftex.def)             Requested size: 156.43694pt x 142.22993pt.
+LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 10.
+<img/GEM_model.pdf, id=55, 613.57233pt x 544.9158pt>
+File: img/GEM_model.pdf Graphic file (type pdf)
+<use img/GEM_model.pdf>
+Package pdftex.def Info: img/GEM_model.pdf  used on input line 15.
+(pdftex.def)             Requested size: 165.02074pt x 142.2651pt.
+<img/Main_board_pads.jpg, id=56, 1155.31625pt x 325.215pt>
+File: img/Main_board_pads.jpg Graphic file (type jpg)
+<use img/Main_board_pads.jpg>
+Package pdftex.def Info: img/Main_board_pads.jpg  used on input line 26.
+(pdftex.def)             Requested size: 284.52756pt x 80.09273pt.
 [7
 
-]
-<img/pedestal_map.pdf, id=58, 569.12625pt x 289.08pt>
+ <./img/GEM_prototype.jpg> <./img/GEM_model.pdf>]
+<img/pedestal_map.pdf, id=68, 569.12625pt x 289.08pt>
 File: img/pedestal_map.pdf Graphic file (type pdf)
 <use img/pedestal_map.pdf>
-Package pdftex.def Info: img/pedestal_map.pdf  used on input line 14.
+Package pdftex.def Info: img/pedestal_map.pdf  used on input line 38.
 (pdftex.def)             Requested size: 341.43306pt x 173.43169pt.
-LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 15.
- [8 <./img/pedestal_map.pdf, page is rotated 90 degrees>]
-<img/noise_map.pdf, id=105, 569.12625pt x 289.08pt>
+ [8 <./img/Main_board_pads.jpg>]
+<img/noise_map.pdf, id=72, 569.12625pt x 289.08pt>
 File: img/noise_map.pdf Graphic file (type pdf)
 <use img/noise_map.pdf>
-Package pdftex.def Info: img/noise_map.pdf  used on input line 24.
+Package pdftex.def Info: img/noise_map.pdf  used on input line 48.
 (pdftex.def)             Requested size: 341.43306pt x 173.43169pt.
-<img/Noise_time_drift.pdf, id=106, 569.12625pt x 384.43625pt>
+ [9 <./img/pedestal_map.pdf, page is rotated 90 degrees>]
+<img/Noise_time_drift.pdf, id=119, 569.12625pt x 384.43625pt>
 File: img/Noise_time_drift.pdf Graphic file (type pdf)
 <use img/Noise_time_drift.pdf>
-Package pdftex.def Info: img/Noise_time_drift.pdf  used on input line 35.
+Package pdftex.def Info: img/Noise_time_drift.pdf  used on input line 59.
 (pdftex.def)             Requested size: 234.73524pt x 158.5643pt.
-<img/Mean_time_drift.pdf, id=107, 569.12625pt x 384.43625pt>
+<img/Mean_time_drift.pdf, id=120, 569.12625pt x 384.43625pt>
 File: img/Mean_time_drift.pdf Graphic file (type pdf)
 <use img/Mean_time_drift.pdf>
-Package pdftex.def Info: img/Mean_time_drift.pdf  used on input line 40.
+Package pdftex.def Info: img/Mean_time_drift.pdf  used on input line 64.
 (pdftex.def)             Requested size: 234.73524pt x 158.5643pt.
 LaTeX Font Info:    Font shape `TS1/Tempora-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 43.
- [9 <./img/noise_map.pdf, page is rotated 90 degrees> <./img/Noise_time_drift.p
-df, page is rotated 90 degrees> <./img/Mean_time_drift.pdf, page is rotated 90 
-degrees>]
-<img/Signal.png, id=241, 1318.9275pt x 1273.75874pt>
+(Font)              scaled to size 12.0pt on input line 67.
+<img/Signal.png, id=121, 1318.9275pt x 1273.75874pt>
 File: img/Signal.png Graphic file (type png)
 <use img/Signal.png>
-Package pdftex.def Info: img/Signal.png  used on input line 52.
+Package pdftex.def Info: img/Signal.png  used on input line 76.
 (pdftex.def)             Requested size: 227.61586pt x 199.16037pt.
- [10 <./img/Signal.png (PNG copy)>]
-<img/Side_pixmap.png, id=245, 1682.285pt x 539.01375pt>
+ [10 <./img/noise_map.pdf, page is rotated 90 degrees> <./img/Noise_time_drift.
+pdf, page is rotated 90 degrees> <./img/Mean_time_drift.pdf, page is rotated 90
+ degrees>]
+[11 <./img/Signal.png (PNG copy)>]
+<img/Side_pixmap.png, id=259, 1682.285pt x 539.01375pt>
 File: img/Side_pixmap.png Graphic file (type png)
 <use img/Side_pixmap.png>
-Package pdftex.def Info: img/Side_pixmap.png  used on input line 75.
+Package pdftex.def Info: img/Side_pixmap.png  used on input line 99.
 (pdftex.def)             Requested size: 221.99043pt x 71.13188pt.
-<img/Center_pixmap.png, id=247, 1319.93124pt x 540.0175pt>
+<img/Center_pixmap.png, id=261, 1319.93124pt x 540.0175pt>
 File: img/Center_pixmap.png Graphic file (type png)
 <use img/Center_pixmap.png>
-Package pdftex.def Info: img/Center_pixmap.png  used on input line 80.
+Package pdftex.def Info: img/Center_pixmap.png  used on input line 104.
 (pdftex.def)             Requested size: 173.85281pt x 71.13188pt.
-<img/Median_unzoomed.png, id=248, 1003.75pt x 1204.5pt>
+<img/Median_unzoomed.png, id=262, 1003.75pt x 1204.5pt>
 File: img/Median_unzoomed.png Graphic file (type png)
 <use img/Median_unzoomed.png>
-Package pdftex.def Info: img/Median_unzoomed.png  used on input line 92.
+Package pdftex.def Info: img/Median_unzoomed.png  used on input line 116.
 (pdftex.def)             Requested size: 156.48328pt x 184.93117pt.
 
-Overfull \hbox (1.55716pt too wide) in paragraph at lines 92--93
+Overfull \hbox (1.55716pt too wide) in paragraph at lines 116--117
  [][] 
  []
 
-<img/Median_1.png, id=249, 1003.75pt x 1204.5pt>
+<img/Median_1.png, id=263, 1003.75pt x 1204.5pt>
 File: img/Median_1.png Graphic file (type png)
 <use img/Median_1.png>
-Package pdftex.def Info: img/Median_1.png  used on input line 98.
+Package pdftex.def Info: img/Median_1.png  used on input line 122.
 (pdftex.def)             Requested size: 165.01428pt x 184.93117pt.
 
-Overfull \hbox (10.08817pt too wide) in paragraph at lines 98--99
+Overfull \hbox (10.08817pt too wide) in paragraph at lines 122--123
  [][] 
  []
 
-<img/Median_0.png, id=250, 1003.75pt x 1204.5pt>
+<img/Median_0.png, id=264, 1003.75pt x 1204.5pt>
 File: img/Median_0.png Graphic file (type png)
 <use img/Median_0.png>
-Package pdftex.def Info: img/Median_0.png  used on input line 104.
+Package pdftex.def Info: img/Median_0.png  used on input line 128.
 (pdftex.def)             Requested size: 165.01428pt x 184.93117pt.
 
-Overfull \hbox (10.08817pt too wide) in paragraph at lines 104--105
+Overfull \hbox (10.08817pt too wide) in paragraph at lines 128--129
  [][] 
  []
 
-[11 <./img/Side_pixmap.png> <./img/Center_pixmap.png>]) [12 <./img/Median_unzoo
+[12 <./img/Side_pixmap.png> <./img/Center_pixmap.png>]) [13 <./img/Median_unzoo
 med.png> <./img/Median_1.png> <./img/Median_0.png>] (./chap/raether_exp.tex
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 4.
-[13
+[14
 
 ]
 Overfull \hbox (3.1498pt too wide) in paragraph at lines 37--38
@@ -2386,18 +2398,18 @@ Overfull \hbox (3.1498pt too wide) in paragraph at lines 37--38
 ез ин-жек-ти-ру-ю-щий ГЭУ
  []
 
-[14]
+[15]
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/it' will be
 (Font)              scaled to size 14.4pt on input line 43.
-<img/Scheme_raether_det.pdf, id=267, 2240.37pt x 1435.3625pt>
+<img/Scheme_raether_det.pdf, id=280, 2240.37pt x 1435.3625pt>
 File: img/Scheme_raether_det.pdf Graphic file (type pdf)
 <use img/Scheme_raether_det.pdf>
 Package pdftex.def Info: img/Scheme_raether_det.pdf  used on input line 47.
 (pdftex.def)             Requested size: 227.62204pt x 145.82245pt.
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/it' will be
 (Font)              scaled to size 12.0pt on input line 48.
- [15 <./img/Scheme_raether_det.pdf>]
-<img/Raether_graph_2.pdf, id=286, 569.12625pt x 407.5225pt>
+ [16 <./img/Scheme_raether_det.pdf>]
+<img/Raether_graph_2.pdf, id=299, 569.12625pt x 407.5225pt>
 File: img/Raether_graph_2.pdf Graphic file (type pdf)
 <use img/Raether_graph_2.pdf>
 Package pdftex.def Info: img/Raether_graph_2.pdf  used on input line 63.
@@ -2406,8 +2418,8 @@ File: img/Raether_graph_2.pdf Graphic file (type pdf)
 <use img/Raether_graph_2.pdf>
 Package pdftex.def Info: img/Raether_graph_2.pdf  used on input line 76.
 (pdftex.def)             Requested size: 284.52756pt x 203.74208pt.
- [16]) [17 <./img/Raether_graph_2.pdf, page is rotated 90 degrees>] (./report.b
-bl) [18
+ [17]) [18 <./img/Raether_graph_2.pdf, page is rotated 90 degrees>] (./report.b
+bl) [19
 
 ] (./report.aux)
 
@@ -2415,10 +2427,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 11715 strings out of 492982
- 171925 string characters out of 6134895
- 236954 words of memory out of 5000000
- 14881 multiletter control sequences out of 15000+600000
+ 11736 strings out of 492982
+ 172404 string characters out of 6134895
+ 236014 words of memory out of 5000000
+ 14898 multiletter control sequences out of 15000+600000
  49499 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  53i,18n,92p,3846b,655s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2436,10 +2448,10 @@ sfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy1
 0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10
 .pfb>
-Output written on report.pdf (18 pages, 1299519 bytes).
+Output written on report.pdf (19 pages, 2956410 bytes).
 PDF statistics:
- 379 PDF objects out of 1000 (max. 8388607)
- 190 compressed objects within 2 object streams
+ 393 PDF objects out of 1000 (max. 8388607)
+ 198 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 105 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 120 words of extra memory for PDF output out of 10000 (max. 10000000)
 
