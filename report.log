@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.15)  21 MAY 2019 15:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.15)  21 MAY 2019 23:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2059,11 +2059,7 @@ File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
 \AM@toc@title=\toks38
 \c@AM@survey=\count125
 \AM@templatesizebox=\box60
-) (./report.aux
-
-LaTeX Warning: Label `fig:medianF' multiply defined.
-
-)
+) (./report.aux)
 \openout1 = `report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
@@ -2082,7 +2078,7 @@ LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 40.
 LaTeX Font Info:    ... okay on input line 40.
 LaTeX Font Info:    Checking defaults for OT2/cmr/m/n on input line 40.
 LaTeX Font Info:    Try loading font information for OT2+cmr on input line 40.
- (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/ot2cmr.fd
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/ot2cmr.fd
 File: ot2cmr.fd 2001/08/11 v3.2c Computer Modern Cyrillic font definitions
 )
 LaTeX Font Info:    ... okay on input line 40.
@@ -2417,20 +2413,20 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <img/GEM_scheme.pdf, id=369, 437.38406pt x 283.00282pt>
 File: img/GEM_scheme.pdf Graphic file (type pdf)
 <use img/GEM_scheme.pdf>
-Package pdftex.def Info: img/GEM_scheme.pdf  used on input line 53.
+Package pdftex.def Info: img/GEM_scheme.pdf  used on input line 65.
 (pdftex.def)             Requested size: 170.71924pt x 113.80798pt.
 <img/GEM_Sr_source.pdf, id=370, 596.95016pt x 522.5121pt>
 File: img/GEM_Sr_source.pdf Graphic file (type pdf)
 <use img/GEM_Sr_source.pdf>
-Package pdftex.def Info: img/GEM_Sr_source.pdf  used on input line 59.
+Package pdftex.def Info: img/GEM_Sr_source.pdf  used on input line 71.
 (pdftex.def)             Requested size: 165.02257pt x 113.80492pt.
-) [18 <./img/GEM_scheme.pdf> <./img/GEM_Sr_source.pdf
+ [18]) [19 <./img/GEM_scheme.pdf> <./img/GEM_Sr_source.pdf
 
 pdfTeX warning: /usr/bin/pdflatex (file ./img/GEM_Sr_source.pdf): PDF inclusion
 : multiple pdfs with page group included in a single page
 >] (./chap/raether_exp.tex
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 5.
-[19
+[20
 
 ]
 Overfull \hbox (3.1498pt too wide) in paragraph at lines 37--38
@@ -2438,18 +2434,18 @@ Overfull \hbox (3.1498pt too wide) in paragraph at lines 37--38
 ез ин-жек-ти-ру-ю-щий ГЭУ
  []
 
-[20]
+[21]
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/it' will be
 (Font)              scaled to size 14.4pt on input line 43.
-<img/Scheme_raether_det.pdf, id=402, 2240.37pt x 1435.3625pt>
+<img/Scheme_raether_det.pdf, id=405, 2240.37pt x 1435.3625pt>
 File: img/Scheme_raether_det.pdf Graphic file (type pdf)
 <use img/Scheme_raether_det.pdf>
 Package pdftex.def Info: img/Scheme_raether_det.pdf  used on input line 47.
 (pdftex.def)             Requested size: 227.62204pt x 145.82245pt.
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/it' will be
 (Font)              scaled to size 12.0pt on input line 48.
- [21 <./img/Scheme_raether_det.pdf>]
-<img/Raether_graph_2.pdf, id=422, 569.12625pt x 407.5225pt>
+ [22 <./img/Scheme_raether_det.pdf>]
+<img/Raether_graph_2.pdf, id=425, 569.12625pt x 407.5225pt>
 File: img/Raether_graph_2.pdf Graphic file (type pdf)
 <use img/Raether_graph_2.pdf>
 Package pdftex.def Info: img/Raether_graph_2.pdf  used on input line 63.
@@ -2458,25 +2454,22 @@ File: img/Raether_graph_2.pdf Graphic file (type pdf)
 <use img/Raether_graph_2.pdf>
 Package pdftex.def Info: img/Raether_graph_2.pdf  used on input line 76.
 (pdftex.def)             Requested size: 284.52756pt x 203.74208pt.
- [22]) [23 <./img/Raether_graph_2.pdf, page is rotated 90 degrees>] (./report.b
-bl) [24
+ [23]) [24 <./img/Raether_graph_2.pdf, page is rotated 90 degrees>] (./report.b
+bl) [25
 
 ] (./report.aux)
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
  ) 
 Here is how much of TeX's memory you used:
- 11756 strings out of 492982
- 173039 string characters out of 6134895
- 237173 words of memory out of 5000000
- 14925 multiletter control sequences out of 15000+600000
+ 11757 strings out of 492982
+ 173058 string characters out of 6134895
+ 237156 words of memory out of 5000000
+ 14926 multiletter control sequences out of 15000+600000
  51034 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 53i,18n,92p,4213b,660s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 53i,18n,92p,5570b,659s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/tempora/t2a-tempora.enc}{/usr/
 share/texlive/texmf-dist/fonts/enc/dvips/tempora/tmp_ac5xuc.enc}</usr/share/tex
 live/texmf-dist/fonts/type1/public/tempora/Tempora-Bold.pfb></usr/share/texlive
@@ -2491,10 +2484,10 @@ onts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.p
 fb>
-Output written on report.pdf (24 pages, 3650977 bytes).
+Output written on report.pdf (25 pages, 3655033 bytes).
 PDF statistics:
- 515 PDF objects out of 1000 (max. 8388607)
- 277 compressed objects within 3 object streams
+ 519 PDF objects out of 1000 (max. 8388607)
+ 280 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  140 words of extra memory for PDF output out of 10000 (max. 10000000)
 
