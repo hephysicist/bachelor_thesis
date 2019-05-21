@@ -21,33 +21,33 @@ Sauli~F. A new concept for electron amplification in gas detectors.
 
 \bibitem{bukin}
 \selectlanguageifdefined{russian}
-Букин~А.Д.~Дербенев~Я.С.~Кондратенко А.М.
-  и~др. Препринт № 75-64 ИЯФ СО АН СССР.
+А.Д.~Букин, Я.С.~Дербенев, др.~Кондратенко
+  А.М.~и. Препринт № 75-64 ИЯФ СО АН СССР.
 \newblock 1975.
 
 \bibitem{Bobr}
 \selectlanguageifdefined{russian}
-T.Maltsev~V.Bobrovnikov V.Kudryavtsev~L.Shekhtman. Development of
-  high-resolution GEM-based detector for the extracted electron beam facility
-  at the VEPP-4M collider.
+Development of high-resolution GEM-based detector for the extracted electron
+  beam facility at the VEPP-4M collider~/ ~V.Bobrovnikov, ~V.Kudryavtsev,
+  ~L.Shekhtman {[и~др.]}.
 \newblock 2017.
 
 \bibitem{sokolov}
 \selectlanguageifdefined{russian}
-А.~А.~Соколов~И.~М.~Тернов. О~поляризационных
+Соколов~А.~А., Тернов~И.~М. О~поляризационных
   и спиновых эффектах в~теории
   синхротронного излучения.
 \newblock 1963.
 
-\bibitem{skrinskii}
+\bibitem{MRD}
 \selectlanguageifdefined{russian}
-Скринский~А.~Н., Шатунов~Ю.~М. Прецизионные
-  измерения масс элементарных частиц на
-  накопителях с поляризованными пучками~//
-  Усп. физ. наук.
-\newblock 1989.
-\newblock Т. 158, {№}~6.
-\newblock {С.}~315--326.
+Метод абсолютной калибровки энергии
+  пучков. Измерение массы $\Phi$ мезона.~/
+  А.~Д.~Букин, Я.~С.~Дербенёв, А.~М.~Кондратенко
+  {[и~др.]}~// Высокие энергии и элементарные
+  частицы. Дубна. ОИЯИ.
+\newblock 1975.
+\newblock {с.}~138.
 
 \bibitem{PDG}
 \selectlanguageifdefined{russian}
@@ -59,8 +59,8 @@ Review of Particle Physics~/ M.~Tanabashi, K.~Hagiwara, K.~Hikasa
 
 \bibitem{Peskov}
 \selectlanguageifdefined{russian}
-Fonte~V. Peskov~P. Research on discharges in micropattern and small gap gaseous
-  detectors.
+Peskov~V., Fonte~P. Research on discharges in micropattern and small gap
+  gaseous detectors.
 \newblock 2019.
 
 \end{thebibliography}

@@ -5,8 +5,17 @@ The style file: include/utf8gost705u.bst
 Database file #1: bibliography.bib.bib
 Warning--entry type for "shechtman" isn't style-file defined
 --line 19 of file bibliography.bib.bib
+I was expecting a `,' or a `}'---line 49 of file bibliography.bib.bib
+ :  
+ :  author = {К. Групен},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
 Warning--entry type for "sokolov" isn't style-file defined
 --line 66 of file bibliography.bib.bib
+You're missing a field name---line 111 of file bibliography.bib.bib
+ : @article{TSH-CALC-JETP-2012,
+ :                             ,
+I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "SokolovTernov63"
 Warning--empty journal in sauli
 Warning--empty journal in bukin
@@ -14,43 +23,43 @@ Warning--empty journal in Bobr
 Warning--empty journal in Peskov
 You've used 8 entries,
             2958 wiz_defined-function locations,
-            718 strings with 10845 characters,
-and the built_in function-call counts, 1990 in all, are:
-= -- 262
-> -- 54
-< -- 8
-+ -- 20
-- -- 12
-* -- 69
-:= -- 227
-add.period$ -- 27
+            716 strings with 11032 characters,
+and the built_in function-call counts, 2098 in all, are:
+= -- 277
+> -- 90
+< -- 7
++ -- 29
+- -- 21
+* -- 74
+:= -- 248
+add.period$ -- 24
 call.type$ -- 8
 change.case$ -- 0
 chr.to.int$ -- 0
 cite$ -- 12
-duplicate$ -- 102
-empty$ -- 193
-format.name$ -- 12
-if$ -- 524
+duplicate$ -- 99
+empty$ -- 184
+format.name$ -- 21
+if$ -- 553
 int.to.chr$ -- 0
 int.to.str$ -- 8
 missing$ -- 0
-newline$ -- 54
+newline$ -- 53
 num.names$ -- 20
-pop$ -- 70
+pop$ -- 83
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 63
+skip$ -- 76
 stack$ -- 0
-substring$ -- 40
-swap$ -- 58
-text.length$ -- 2
+substring$ -- 18
+swap$ -- 52
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 4
-while$ -- 11
+while$ -- 10
 width$ -- 9
-write$ -- 120
-(There were 7 warnings)
+write$ -- 116
+(There were 2 error messages)
