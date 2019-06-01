@@ -1,5 +1,5 @@
 \documentclass[a4paper,14pt]{extreport}
-\usepackage[left=30mm, top=20mm, right=15mm, bottom=20mm, headsep=20pt]{geometry} 
+\usepackage[left=30mm, top=20mm, right=15mm, bottom=20mm, headsep=10pt]{geometry} 
 \usepackage{cmap} % для кодировки шрифтов в pdf
 \usepackage[T2A]{fontenc}
 \usepackage[utf8]{inputenc}
@@ -30,7 +30,7 @@
 {\thechapter.\quad}% label
 {0pt}             % sep
 {\Large}
-\titlespacing*{\chapter}{0pt}{-20pt}{0pt}
+\titlespacing*{\chapter}{0pt}{-24pt}{0pt}
 \titleformat{\section}
 {\large\bfseries\centering} % format
 {\thesection.\quad}                % label
@@ -64,10 +64,15 @@
 \input{./chap/intro.tex}
 \addcontentsline{toc}{chapter}{Введение}  
 \newpage
-\input{./chap/resonant_dep.tex}
-\input{./chap/coor_det.tex}
-\input{./chap/Pol_prop.tex}
-\input{./chap/Pol_examine.tex}
+\begingroup
+	\let\clearpage\relax
+	\input{./chap/resonant_dep.tex}
+	\input{./chap/coor_det.tex}
+	\input{./chap/Pol_prop.tex}
+	\input{./chap/Pol_examine.tex}
+\endgroup
+\newpage
+\input{./chap/conclusion.tex}
 \newpage
 %\input{./chap/raether_exp.tex}
 %\newpage

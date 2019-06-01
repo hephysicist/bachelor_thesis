@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.15)  1 JUN 2019 22:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.15)  2 JUN 2019 05:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2166,9 +2166,9 @@ LaTeX Font Info:    Font shape `T1/Tempora-TLF/m/n' will be
 * \textheight=731.23584pt
 * \oddsidemargin=13.08827pt
 * \evensidemargin=13.08827pt
-* \topmargin=-49.36449pt
+* \topmargin=-39.36449pt
 * \headheight=14.0pt
-* \headsep=20.0pt
+* \headsep=10.0pt
 * \topskip=14.0pt
 * \footskip=30.0pt
 * \marginparwidth=15.0pt
@@ -2292,7 +2292,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.26 ...eC {\cyrn }\IeC {\cyrt }\IeC {\cyra }}{33}
+l.26 ...eC {\cyrn }\IeC {\cyrt }\IeC {\cyra }}{32}
                                                   
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -2370,9 +2370,7 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[6
-
-]
+[6]
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 30.
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
@@ -2431,13 +2429,6 @@ File: img/rd_exp.pdf Graphic file (type pdf)
 Package pdftex.def Info: img/rd_exp.pdf  used on input line 102.
 (pdftex.def)             Requested size: 455.24408pt x 202.75737pt.
 ) (./chap/coor_det.tex
-
-Package Fancyhdr Warning: \headheight is too small (14.0pt): 
- Make it at least 17.0pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[12 <./img/rd_exp.pdf>]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 2.
 
 Package Fancyhdr Warning: \headheight is too small (14.0pt): 
@@ -2445,26 +2436,31 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[13
+[12 <./img/rd_exp.pdf>]
 
-]
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 17.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[13]
 <img/Gas_discharge_gr.png, id=178, 1738.495pt x 1562.83875pt>
 File: img/Gas_discharge_gr.png Graphic file (type png)
 <use img/Gas_discharge_gr.png>
-Package pdftex.def Info: img/Gas_discharge_gr.png  used on input line 19.
+Package pdftex.def Info: img/Gas_discharge_gr.png  used on input line 20.
 (pdftex.def)             Requested size: 190.13297pt x 170.91122pt.
 
-Underfull \hbox (badness 1325) in paragraph at lines 20--20
+Underfull \hbox (badness 1325) in paragraph at lines 21--21
 []\T2A/Tempora-TLF/m/n/12 (a) |За-ви-си-мость удель-но-го ко-ли-че-ства
  []
 
 <img/Electron_avalanche.pdf, id=179, 420.08154pt x 241.6528pt>
 File: img/Electron_avalanche.pdf Graphic file (type pdf)
 <use img/Electron_avalanche.pdf>
-Package pdftex.def Info: img/Electron_avalanche.pdf  used on input line 25.
+Package pdftex.def Info: img/Electron_avalanche.pdf  used on input line 26.
 (pdftex.def)             Requested size: 211.26028pt x 121.52669pt.
 
-Underfull \hbox (badness 1668) in paragraph at lines 26--26
+Underfull \hbox (badness 1668) in paragraph at lines 27--27
 []\T2A/Tempora-TLF/m/n/12 (b) |Об-ра-зо-ва-ние элек-трон-ной ла-ви-ны.
  []
 
@@ -2478,17 +2474,17 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
 <img/GEM_microphoto.png, id=199, 1378.14874pt x 1038.88126pt>
 File: img/GEM_microphoto.png Graphic file (type png)
 <use img/GEM_microphoto.png>
-Package pdftex.def Info: img/GEM_microphoto.png  used on input line 37.
+Package pdftex.def Info: img/GEM_microphoto.png  used on input line 38.
 (pdftex.def)             Requested size: 211.26028pt x 159.2495pt.
 <img/GEM_field.pdf, id=200, 773.89125pt x 607.26875pt>
 File: img/GEM_field.pdf Graphic file (type pdf)
 <use img/GEM_field.pdf>
-Package pdftex.def Info: img/GEM_field.pdf  used on input line 43.
+Package pdftex.def Info: img/GEM_field.pdf  used on input line 44.
 (pdftex.def)             Requested size: 211.26028pt x 165.77165pt.
 <img/GEM_scheme.pdf, id=201, 437.38406pt x 283.00282pt>
 File: img/GEM_scheme.pdf Graphic file (type pdf)
 <use img/GEM_scheme.pdf>
-Package pdftex.def Info: img/GEM_scheme.pdf  used on input line 51.
+Package pdftex.def Info: img/GEM_scheme.pdf  used on input line 52.
 (pdftex.def)             Requested size: 170.71924pt x 113.80798pt.
 
 
@@ -2498,6 +2494,17 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [15 <./img/GEM_microphoto.png> <./img/GEM_field.pdf>]) (./chap/Pol_prop.tex
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
+<img/GEM_prototype.jpg, id=212, 4453.63875pt x 3571.3425pt>
+File: img/GEM_prototype.jpg Graphic file (type jpg)
+<use img/GEM_prototype.jpg>
+Package pdftex.def Info: img/GEM_prototype.jpg  used on input line 10.
+(pdftex.def)             Requested size: 156.43694pt x 142.22993pt.
+<img/GEM_model.pdf, id=213, 613.57233pt x 544.9158pt>
+File: img/GEM_model.pdf Graphic file (type pdf)
+<use img/GEM_model.pdf>
+Package pdftex.def Info: img/GEM_model.pdf  used on input line 16.
+(pdftex.def)             Requested size: 165.02074pt x 142.2651pt.
 
 Package Fancyhdr Warning: \headheight is too small (14.0pt): 
  Make it at least 17.0pt.
@@ -2505,35 +2512,23 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [16 <./img/GEM_scheme.pdf>]
-{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
-<img/GEM_prototype.jpg, id=230, 4453.63875pt x 3571.3425pt>
-File: img/GEM_prototype.jpg Graphic file (type jpg)
-<use img/GEM_prototype.jpg>
-Package pdftex.def Info: img/GEM_prototype.jpg  used on input line 9.
-(pdftex.def)             Requested size: 156.43694pt x 142.22993pt.
-<img/GEM_model.pdf, id=231, 613.57233pt x 544.9158pt>
-File: img/GEM_model.pdf Graphic file (type pdf)
-<use img/GEM_model.pdf>
-Package pdftex.def Info: img/GEM_model.pdf  used on input line 15.
-(pdftex.def)             Requested size: 165.02074pt x 142.2651pt.
 <img/Main_board_pads.jpg, id=232, 1155.31625pt x 325.215pt>
 File: img/Main_board_pads.jpg Graphic file (type jpg)
 <use img/Main_board_pads.jpg>
-Package pdftex.def Info: img/Main_board_pads.jpg  used on input line 26.
+Package pdftex.def Info: img/Main_board_pads.jpg  used on input line 27.
 (pdftex.def)             Requested size: 284.52756pt x 80.09273pt.
+
 
 Package Fancyhdr Warning: \headheight is too small (14.0pt): 
  Make it at least 17.0pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[17
-
- <./img/GEM_prototype.jpg> <./img/GEM_model.pdf>]
+[17 <./img/GEM_prototype.jpg> <./img/GEM_model.pdf>]
 <img/pedestal_map.pdf, id=243, 569.12625pt x 289.08pt>
 File: img/pedestal_map.pdf Graphic file (type pdf)
 <use img/pedestal_map.pdf>
-Package pdftex.def Info: img/pedestal_map.pdf  used on input line 38.
+Package pdftex.def Info: img/pedestal_map.pdf  used on input line 39.
 (pdftex.def)             Requested size: 341.43306pt x 173.43169pt.
 
 
@@ -2553,7 +2548,7 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
 <img/Signal.png, id=294, 1318.9275pt x 1273.75874pt>
 File: img/Signal.png Graphic file (type png)
 <use img/Signal.png>
-Package pdftex.def Info: img/Signal.png  used on input line 52.
+Package pdftex.def Info: img/Signal.png  used on input line 53.
 (pdftex.def)             Requested size: 227.61586pt x 199.16037pt.
 
 
@@ -2573,40 +2568,40 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
 <img/Side_pixmap.png, id=301, 1682.285pt x 539.01375pt>
 File: img/Side_pixmap.png Graphic file (type png)
 <use img/Side_pixmap.png>
-Package pdftex.def Info: img/Side_pixmap.png  used on input line 76.
+Package pdftex.def Info: img/Side_pixmap.png  used on input line 77.
 (pdftex.def)             Requested size: 221.99043pt x 71.13188pt.
 <img/Center_pixmap.png, id=302, 1319.93124pt x 540.0175pt>
 File: img/Center_pixmap.png Graphic file (type png)
 <use img/Center_pixmap.png>
-Package pdftex.def Info: img/Center_pixmap.png  used on input line 81.
+Package pdftex.def Info: img/Center_pixmap.png  used on input line 82.
 (pdftex.def)             Requested size: 173.85281pt x 71.13188pt.
 <img/Median_unzoomed.png, id=303, 1003.75pt x 1204.5pt>
 File: img/Median_unzoomed.png Graphic file (type png)
 <use img/Median_unzoomed.png>
-Package pdftex.def Info: img/Median_unzoomed.png  used on input line 94.
+Package pdftex.def Info: img/Median_unzoomed.png  used on input line 95.
 (pdftex.def)             Requested size: 156.48328pt x 184.93117pt.
 
-Overfull \hbox (1.55716pt too wide) in paragraph at lines 94--95
+Overfull \hbox (1.55716pt too wide) in paragraph at lines 95--96
  [][] 
  []
 
 <img/Median_1.png, id=304, 1003.75pt x 1204.5pt>
 File: img/Median_1.png Graphic file (type png)
 <use img/Median_1.png>
-Package pdftex.def Info: img/Median_1.png  used on input line 100.
+Package pdftex.def Info: img/Median_1.png  used on input line 101.
 (pdftex.def)             Requested size: 165.01428pt x 184.93117pt.
 
-Overfull \hbox (10.08817pt too wide) in paragraph at lines 100--101
+Overfull \hbox (10.08817pt too wide) in paragraph at lines 101--102
  [][] 
  []
 
 <img/Median_0.png, id=305, 1003.75pt x 1204.5pt>
 File: img/Median_0.png Graphic file (type png)
 <use img/Median_0.png>
-Package pdftex.def Info: img/Median_0.png  used on input line 106.
+Package pdftex.def Info: img/Median_0.png  used on input line 107.
 (pdftex.def)             Requested size: 165.01428pt x 184.93117pt.
 
-Overfull \hbox (10.08817pt too wide) in paragraph at lines 106--107
+Overfull \hbox (10.08817pt too wide) in paragraph at lines 107--108
  [][] 
  []
 
@@ -2627,7 +2622,7 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
 <img/cluster_padmap.pdf, id=314, 250.65292pt x 221.85687pt>
 File: img/cluster_padmap.pdf Graphic file (type pdf)
 <use img/cluster_padmap.pdf>
-Package pdftex.def Info: img/cluster_padmap.pdf  used on input line 124.
+Package pdftex.def Info: img/cluster_padmap.pdf  used on input line 125.
 (pdftex.def)             Requested size: 170.72093pt x 128.04402pt.
 
 
@@ -2640,33 +2635,32 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [24]) (./chap/Pol_examine.tex
-
-Package Fancyhdr Warning: \headheight is too small (14.0pt): 
- Make it at least 17.0pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[25 <./img/cluster_padmap.pdf>]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 4.
-<img/noise_map.pdf, id=403, 569.12625pt x 289.08pt>
+<img/noise_map.pdf, id=318, 569.12625pt x 289.08pt>
 File: img/noise_map.pdf Graphic file (type pdf)
 <use img/noise_map.pdf>
-Package pdftex.def Info: img/noise_map.pdf  used on input line 6.
+Package pdftex.def Info: img/noise_map.pdf  used on input line 7.
 (pdftex.def)             Requested size: 341.44365pt x 170.71451pt.
-<img/Noise_time_drift.pdf, id=404, 569.12625pt x 384.43625pt>
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 17.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[25 <./img/cluster_padmap.pdf> <./img/noise_map.pdf, page is rotated 90 degrees
+>]
+<img/Noise_time_drift.pdf, id=447, 569.12625pt x 384.43625pt>
 File: img/Noise_time_drift.pdf Graphic file (type pdf)
 <use img/Noise_time_drift.pdf>
-Package pdftex.def Info: img/Noise_time_drift.pdf  used on input line 17.
+Package pdftex.def Info: img/Noise_time_drift.pdf  used on input line 18.
 (pdftex.def)             Requested size: 234.73524pt x 158.5643pt.
-<img/Mean_time_drift.pdf, id=405, 569.12625pt x 384.43625pt>
+<img/Mean_time_drift.pdf, id=448, 569.12625pt x 384.43625pt>
 File: img/Mean_time_drift.pdf Graphic file (type pdf)
 <use img/Mean_time_drift.pdf>
-Package pdftex.def Info: img/Mean_time_drift.pdf  used on input line 22.
+Package pdftex.def Info: img/Mean_time_drift.pdf  used on input line 23.
 (pdftex.def)             Requested size: 234.73524pt x 158.5643pt.
 LaTeX Font Info:    Font shape `TS1/Tempora-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 25.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
+(Font)              scaled to size 12.0pt on input line 26.
 
 
 Package Fancyhdr Warning: \headheight is too small (14.0pt): 
@@ -2674,16 +2668,7 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[26
-
- <./img/noise_map.pdf, page is rotated 90 degrees>]
-
-Package Fancyhdr Warning: \headheight is too small (14.0pt): 
- Make it at least 17.0pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[27 <./img/Noise_time_drift.pdf, page is rotated 90 degrees> <./img/Mean_time_d
+[26 <./img/Noise_time_drift.pdf, page is rotated 90 degrees> <./img/Mean_time_d
 rift.pdf, page is rotated 90 degrees>]
 
 Package Fancyhdr Warning: \headheight is too small (14.0pt): 
@@ -2691,11 +2676,11 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[28]
-<img/GEM_Sr_source.pdf, id=545, 596.95016pt x 522.5121pt>
+[27]
+<img/GEM_Sr_source.pdf, id=542, 596.95016pt x 522.5121pt>
 File: img/GEM_Sr_source.pdf Graphic file (type pdf)
 <use img/GEM_Sr_source.pdf>
-Package pdftex.def Info: img/GEM_Sr_source.pdf  used on input line 65.
+Package pdftex.def Info: img/GEM_Sr_source.pdf  used on input line 66.
 (pdftex.def)             Requested size: 165.02257pt x 113.80492pt.
 
 
@@ -2704,22 +2689,33 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[29 <./img/GEM_Sr_source.pdf>]
-<img/3100.pdf, id=556, 569.12625pt x 384.43625pt>
+[28]
+<img/3100.pdf, id=546, 569.12625pt x 384.43625pt>
 File: img/3100.pdf Graphic file (type pdf)
 <use img/3100.pdf>
-Package pdftex.def Info: img/3100.pdf  used on input line 78.
+Package pdftex.def Info: img/3100.pdf  used on input line 79.
 (pdftex.def)             Requested size: 211.26028pt x 142.70259pt.
-<img/3450.pdf, id=557, 569.12625pt x 384.43625pt>
+<img/3450.pdf, id=547, 569.12625pt x 384.43625pt>
 File: img/3450.pdf Graphic file (type pdf)
 <use img/3450.pdf>
-Package pdftex.def Info: img/3450.pdf  used on input line 84.
+Package pdftex.def Info: img/3450.pdf  used on input line 85.
 (pdftex.def)             Requested size: 211.26028pt x 142.70259pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 17.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[29 <./img/GEM_Sr_source.pdf>]
 <img/Ampl_gr_log.pdf, id=558, 569.12625pt x 384.43625pt>
 File: img/Ampl_gr_log.pdf Graphic file (type pdf)
 <use img/Ampl_gr_log.pdf>
-Package pdftex.def Info: img/Ampl_gr_log.pdf  used on input line 95.
+Package pdftex.def Info: img/Ampl_gr_log.pdf  used on input line 96.
 (pdftex.def)             Requested size: 284.52756pt x 192.20004pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 Package Fancyhdr Warning: \headheight is too small (14.0pt): 
@@ -2739,8 +2735,11 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
 <img/reg_eff_exp_scheme.png, id=696, 1068.99374pt x 381.425pt>
 File: img/reg_eff_exp_scheme.png Graphic file (type png)
 <use img/reg_eff_exp_scheme.png>
-Package pdftex.def Info: img/reg_eff_exp_scheme.png  used on input line 119.
+Package pdftex.def Info: img/reg_eff_exp_scheme.png  used on input line 120.
 (pdftex.def)             Requested size: 341.43306pt x 121.82568pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 Package Fancyhdr Warning: \headheight is too small (14.0pt): 
@@ -2748,7 +2747,7 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[32])
+[32]
 
 Package Fancyhdr Warning: \headheight is too small (14.0pt): 
  Make it at least 17.0pt.
@@ -2756,20 +2755,60 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [33 <./img/reg_eff_exp_scheme.png>]
+LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/it' will be
+(Font)              scaled to size 14.4pt on input line 137.
+<img/eff_plot.pdf, id=704, 569.12625pt x 384.43625pt>
+File: img/eff_plot.pdf Graphic file (type pdf)
+<use img/eff_plot.pdf>
+Package pdftex.def Info: img/eff_plot.pdf  used on input line 145.
+(pdftex.def)             Requested size: 341.43306pt x 230.64006pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+)
 
 Package Fancyhdr Warning: \headheight is too small (14.0pt): 
  Make it at least 17.0pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[34] (./report.bbl)
+[34]
 
 Package Fancyhdr Warning: \headheight is too small (14.0pt): 
  Make it at least 17.0pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[35
+[35 <./img/eff_plot.pdf, page is rotated 90 degrees>] (./chap/conclusion.tex
+Overfull \hbox (5.94841pt too wide) in paragraph at lines 4--5
+[]\T2A/Tempora-TLF/m/n/14.4 В фи-наль-ной ча-сти ра-бо-ты ис-сле-до-ва-лись ха-
+рак-те-ри-сти-ки де-тек-то-ра. Опре-
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 17.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[36
+
+])
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 17.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[37] (./report.bbl)
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 17.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[38
 
 ] (./report.aux
 ! Missing \endcsname inserted.
@@ -2793,30 +2832,31 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 11911 strings out of 492982
- 175166 string characters out of 6134895
- 239104 words of memory out of 5000000
- 15069 multiletter control sequences out of 15000+600000
- 46832 words of font info for 73 fonts, out of 8000000 for 9000
+ 11924 strings out of 492982
+ 175434 string characters out of 6134895
+ 239115 words of memory out of 5000000
+ 15076 multiletter control sequences out of 15000+600000
+ 48933 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 53i,18n,92p,5859b,660s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/tempora/tmp_ac5xuc.enc}{/usr/s
-hare/texlive/texmf-dist/fonts/enc/dvips/tempora/t2a-tempora.enc}</usr/share/tex
+ 53i,18n,92p,5859b,828s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/tempora/t2a-tempora.enc}{/usr/
+share/texlive/texmf-dist/fonts/enc/dvips/tempora/tmp_ac5xuc.enc}</usr/share/tex
 live/texmf-dist/fonts/type1/public/tempora/Tempora-Bold.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/public/tempora/Tempora-Regular.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy1
-0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10
-.pfb>
-Output written on report.pdf (35 pages, 4121204 bytes).
+/texmf-dist/fonts/type1/public/tempora/Tempora-Italic.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/tempora/Tempora-Regular.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.p
+fb>
+Output written on report.pdf (38 pages, 4159264 bytes).
 PDF statistics:
- 748 PDF objects out of 1000 (max. 8388607)
- 408 compressed objects within 5 object streams
+ 808 PDF objects out of 1000 (max. 8388607)
+ 438 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 500000)
- 175 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 180 words of extra memory for PDF output out of 10000 (max. 10000000)
 
