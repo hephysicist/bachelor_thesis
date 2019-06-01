@@ -36,15 +36,17 @@
 {0pt}             % sep
 {\large}           % before-code
 
-\renewcommand{\thetable}{\Roman{table}}
 \begin{document}
 \selectlanguage{russian}
 \newpage
 \includepdf{./titlepage/mytitle.pdf}
 \newpage
+\tableofcontents
 \input{./chap/intro.tex}
 \newpage
 \input{./chap/resonant_dep.tex}
+\newpage
+\input{./chap/coor_det.tex}
 \newpage
 \input{./chap/Pol_prop.tex}
 \newpage

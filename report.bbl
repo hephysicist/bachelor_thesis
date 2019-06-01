@@ -57,6 +57,13 @@ Review of Particle Physics~/ M.~Tanabashi, K.~Hagiwara, K.~Hikasa
 \newblock Т.~98.
 \newblock {с.}~030001.
 
+\bibitem{grupen}
+\selectlanguageifdefined{russian}
+{Клаус Групен}. {Детекторы элементарных
+  частиц}.
+\newblock {Новосибирск}: {Сибирский хронограф},
+  {1999}.
+
 \bibitem{Peskov}
 \selectlanguageifdefined{russian}
 Peskov~V., Fonte~P. Research on discharges in micropattern and small gap
