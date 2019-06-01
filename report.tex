@@ -62,17 +62,17 @@
 \setcounter{page}{4}
 \pagestyle{plain}
 \input{./chap/intro.tex}
+\addcontentsline{toc}{chapter}{Введение}  
 \newpage
 \input{./chap/resonant_dep.tex}
-\newpage
 \input{./chap/coor_det.tex}
-\newpage
 \input{./chap/Pol_prop.tex}
-\newpage
 \input{./chap/Pol_examine.tex}
 \newpage
 %\input{./chap/raether_exp.tex}
 %\newpage
+\addcontentsline{toc}{chapter}{Список литературы}  
 \bibliographystyle{include/utf8gost705u}
+\renewcommand\bibname{Список литературы}
 \bibliography{bibliography.bib}
 \end{document}
