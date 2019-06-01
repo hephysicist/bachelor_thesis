@@ -1,5 +1,5 @@
 \documentclass[a4paper,14pt]{extreport}
-\usepackage[left=30mm, top=20mm, right=15mm, bottom=20mm, nohead]{geometry} 
+\usepackage[left=30mm, top=20mm, right=15mm, bottom=20mm, headsep=20pt]{geometry} 
 \usepackage{cmap} % для кодировки шрифтов в pdf
 \usepackage[T2A]{fontenc}
 \usepackage[utf8]{inputenc}
@@ -24,6 +24,7 @@
 \usepackage[final]{pdfpages}
 \captionsetup[figure]{font=small,labelfont=small,name={Рис.},labelsep=period}
 \renewcommand{\baselinestretch}{1.5} 
+
 \titleformat{\chapter}
 {\Large\bfseries\centering} % format
 {\thechapter.\quad}% label
@@ -36,12 +37,30 @@
 {0pt}             % sep
 {\large}           % before-code
 
+\usepackage{fancyhdr} 
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyheadoffset{0cm}
+\renewcommand{\headrulewidth}{0pt} 
+\renewcommand{\footrulewidth}{0pt}
+\fancyhead[R]{\thepage}
+\fancypagestyle{plain}{%
+	\fancyhf{}%
+	\fancyhead[C]{\thepage}%
+}
+	
 \begin{document}
 \selectlanguage{russian}
 \newpage
 \includepdf{./titlepage/mytitle.pdf}
 \newpage
+\pagenumbering{goubble}
 \tableofcontents
+\newpage
+\pagenumbering{arabic}
+\setcounter{page}{4}
+\pagestyle{plain}
 \input{./chap/intro.tex}
 \newpage
 \input{./chap/resonant_dep.tex}
@@ -52,8 +71,8 @@
 \newpage
 \input{./chap/Pol_examine.tex}
 \newpage
-\input{./chap/raether_exp.tex}
-\newpage
+%\input{./chap/raether_exp.tex}
+%\newpage
 \bibliographystyle{include/utf8gost705u}
 \bibliography{bibliography.bib}
 \end{document}

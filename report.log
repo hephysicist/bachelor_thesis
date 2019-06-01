@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.15)  1 JUN 2019 13:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.15)  1 JUN 2019 18:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2059,66 +2059,80 @@ File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
 \AM@toc@title=\toks38
 \c@AM@survey=\count125
 \AM@templatesizebox=\box60
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip60
+\f@nch@O@elh=\skip61
+\f@nch@O@erh=\skip62
+\f@nch@O@olh=\skip63
+\f@nch@O@orh=\skip64
+\f@nch@O@elf=\skip65
+\f@nch@O@erf=\skip66
+\f@nch@O@olf=\skip67
+\f@nch@O@orf=\skip68
 ) (./report.aux)
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OT2/cmr/m/n on input line 39.
-LaTeX Font Info:    Try loading font information for OT2+cmr on input line 39.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OT2/cmr/m/n on input line 53.
+LaTeX Font Info:    Try loading font information for OT2+cmr on input line 53.
+
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/ot2cmr.fd
 File: ot2cmr.fd 2001/08/11 v3.2c Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T2C/cmr/m/n on input line 39.
-LaTeX Font Info:    Try loading font information for T2C+cmr on input line 39.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for T2C/cmr/m/n on input line 53.
+LaTeX Font Info:    Try loading font information for T2C+cmr on input line 53.
 
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2ccmr.fd
 File: t2ccmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T2B/cmr/m/n on input line 39.
-LaTeX Font Info:    Try loading font information for T2B+cmr on input line 39.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for T2B/cmr/m/n on input line 53.
+LaTeX Font Info:    Try loading font information for T2B+cmr on input line 53.
 
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2bcmr.fd
 File: t2bcmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 39.
-LaTeX Font Info:    Try loading font information for LGR+cmr on input line 39.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 53.
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 53.
 
 (/usr/share/texlive/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 39.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 53.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 53.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    ... okay on input line 53.
 LaTeX Font Info:    Try loading font information for T1+Tempora-TLF on input li
-ne 39.
+ne 53.
 
 (/usr/share/texlive/texmf-dist/tex/latex/tempora/T1Tempora-TLF.fd
 File: T1Tempora-TLF.fd 2016/02/02 (autoinst) Font definitions for T1/Tempora-TL
 F.
 )
 LaTeX Font Info:    Font shape `T1/Tempora-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 39.
+(Font)              scaled to size 14.4pt on input line 53.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -2136,9 +2150,9 @@ LaTeX Font Info:    Font shape `T1/Tempora-TLF/m/n' will be
 * \textheight=731.23584pt
 * \oddsidemargin=13.08827pt
 * \evensidemargin=13.08827pt
-* \topmargin=-15.36449pt
-* \headheight=0.0pt
-* \headsep=0.0pt
+* \topmargin=-49.36449pt
+* \headheight=14.0pt
+* \headsep=20.0pt
 * \topskip=14.0pt
 * \footskip=30.0pt
 * \marginparwidth=15.0pt
@@ -2155,12 +2169,12 @@ LaTeX Font Info:    Font shape `T1/Tempora-TLF/m/n' will be
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Try loading font information for T2A+Tempora-TLF on input l
-ine 39.
+ine 53.
 (/usr/share/texlive/texmf-dist/tex/latex/tempora/t2atempora-tlf.fd
 File: t2atempora-tlf.fd 2015/09/13 Font definitions for T2A/Tempora-TLF.
 )
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 39.
+(Font)              scaled to size 14.4pt on input line 53.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -2185,7 +2199,7 @@ Package caption Info: End \AtBeginDocument code.
 Option `squaren' provided! 
  Command \squaren defined by SIunits package!
 
-LaTeX Info: Redefining \micro on input line 39.
+LaTeX Info: Redefining \micro on input line 53.
 \AtBeginShipoutBox=\box62
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
@@ -2198,49 +2212,49 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 <./titlepage/mytitle.pdf, id=3, 597.50829pt x 845.0471pt>
 File: ./titlepage/mytitle.pdf Graphic file (type pdf)
 <use ./titlepage/mytitle.pdf>
-Package pdftex.def Info: ./titlepage/mytitle.pdf  used on input line 42.
+Package pdftex.def Info: ./titlepage/mytitle.pdf  used on input line 56.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: ./titlepage/mytitle.pdf Graphic file (type pdf)
 <use ./titlepage/mytitle.pdf>
-Package pdftex.def Info: ./titlepage/mytitle.pdf  used on input line 42.
+Package pdftex.def Info: ./titlepage/mytitle.pdf  used on input line 56.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 <./titlepage/mytitle.pdf, id=6, page=1, 597.50829pt x 845.0471pt>
 File: ./titlepage/mytitle.pdf Graphic file (type pdf)
 <use ./titlepage/mytitle.pdf, page 1>
-Package pdftex.def Info: ./titlepage/mytitle.pdf , page1 used on input line 42.
+Package pdftex.def Info: ./titlepage/mytitle.pdf , page1 used on input line 56.
 
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: ./titlepage/mytitle.pdf Graphic file (type pdf)
 <use ./titlepage/mytitle.pdf, page 1>
-Package pdftex.def Info: ./titlepage/mytitle.pdf , page1 used on input line 42.
+Package pdftex.def Info: ./titlepage/mytitle.pdf , page1 used on input line 56.
 
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: ./titlepage/mytitle.pdf Graphic file (type pdf)
 <use ./titlepage/mytitle.pdf, page 1>
-Package pdftex.def Info: ./titlepage/mytitle.pdf , page1 used on input line 42.
+Package pdftex.def Info: ./titlepage/mytitle.pdf , page1 used on input line 56.
 
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: ./titlepage/mytitle.pdf Graphic file (type pdf)
 <use ./titlepage/mytitle.pdf, page 1>
-Package pdftex.def Info: ./titlepage/mytitle.pdf , page1 used on input line 42.
+Package pdftex.def Info: ./titlepage/mytitle.pdf , page1 used on input line 56.
 
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: ./titlepage/mytitle.pdf Graphic file (type pdf)
 <use ./titlepage/mytitle.pdf, page 1>
-Package pdftex.def Info: ./titlepage/mytitle.pdf , page1 used on input line 42.
+Package pdftex.def Info: ./titlepage/mytitle.pdf , page1 used on input line 56.
 
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [1
 
  <./titlepage/mytitle.pdf{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}>]
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 20.74pt on input line 44.
+(Font)              scaled to size 20.74pt on input line 59.
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/bx/n' in size <20.74> not avail
 able
 (Font)              Font shape `T2A/Tempora-TLF/b/n' tried instead on input lin
-e 44.
+e 59.
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/b/n' will be
-(Font)              scaled to size 20.74pt on input line 44.
+(Font)              scaled to size 20.74pt on input line 59.
  (./report.toc
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/bx/n' in size <14.4> not availa
 ble
@@ -2258,15 +2272,52 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 5.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [2
+)
+! Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.26 ...eC {\cyrn }\IeC {\cyri }\IeC {\cyre }}{30}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 17.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[1
 
 ])
 \tf@toc=\write3
 \openout3 = `report.toc'.
 
 
-(./chap/intro.tex [3]
+! Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.60 \newpage
+             
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 17.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2] (./chap/intro.tex
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 1.
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 17.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
 [4
 
 ]
@@ -2279,6 +2330,12 @@ TLF.
 LaTeX Font Info:    Font shape `TS1/Tempora-TLF/m/n' will be
 (Font)              scaled to size 14.4pt on input line 11.
 )
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 17.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
 [5] (./chap/resonant_dep.tex
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 2.
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
@@ -2292,6 +2349,12 @@ LaTeX Font Info:    Font shape `T2A/Tempora-TLF/b/n' will be
 
 LaTeX Warning: Citation `SokolovTernov63' on page 6 undefined on input line 4.
 
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 17.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
 [6
 
 ]
@@ -2299,7 +2362,28 @@ LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 30.
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
 (Font)              scaled to size 7.0pt on input line 30.
- [7] [8] [9]
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 17.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[7]
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 17.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[8]
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 17.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[9]
 <img/mrd-lsrp.png, id=64, 651.8754pt x 432.1746pt>
 File: img/mrd-lsrp.png Graphic file (type png)
 <use img/mrd-lsrp.png>
@@ -2311,15 +2395,41 @@ LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
 (Font)              scaled to size 8.0pt on input line 81.
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
 (Font)              scaled to size 6.0pt on input line 81.
- [10 <./img/mrd-lsrp.png>] [11]
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 17.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[10 <./img/mrd-lsrp.png>]
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 17.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[11]
 <img/rd_exp.pdf, id=73, 520.43733pt x 231.78394pt>
 File: img/rd_exp.pdf Graphic file (type pdf)
 <use img/rd_exp.pdf>
 Package pdftex.def Info: img/rd_exp.pdf  used on input line 102.
 (pdftex.def)             Requested size: 455.24408pt x 202.75737pt.
-) [12 <./img/rd_exp.pdf>]
-(./chap/coor_det.tex
+)
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 17.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[12 <./img/rd_exp.pdf>] (./chap/coor_det.tex
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 17.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
 [13
 
 ]
@@ -2343,35 +2453,89 @@ Underfull \hbox (badness 1668) in paragraph at lines 26--26
 []\T2A/Tempora-TLF/m/n/12 (b) |Об-ра-зо-ва-ние элек-трон-ной ла-ви-ны.
  []
 
-[14 <./img/Gas_discharge_gr.png> <./img/Electron_avalanche.pdf>]) [15]
-(./chap/Pol_prop.tex
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 17.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[14 <./img/Gas_discharge_gr.png> <./img/Electron_avalanche.pdf>]
+<img/GEM_microphoto.png, id=199, 1378.14874pt x 1038.88126pt>
+File: img/GEM_microphoto.png Graphic file (type png)
+<use img/GEM_microphoto.png>
+Package pdftex.def Info: img/GEM_microphoto.png  used on input line 37.
+(pdftex.def)             Requested size: 211.26028pt x 159.2495pt.
+<img/GEM_field.pdf, id=200, 773.89125pt x 607.26875pt>
+File: img/GEM_field.pdf Graphic file (type pdf)
+<use img/GEM_field.pdf>
+Package pdftex.def Info: img/GEM_field.pdf  used on input line 43.
+(pdftex.def)             Requested size: 211.26028pt x 165.77165pt.
+<img/GEM_scheme.pdf, id=201, 437.38406pt x 283.00282pt>
+File: img/GEM_scheme.pdf Graphic file (type pdf)
+<use img/GEM_scheme.pdf>
+Package pdftex.def Info: img/GEM_scheme.pdf  used on input line 51.
+(pdftex.def)             Requested size: 170.71924pt x 113.80798pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 17.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[15 <./img/GEM_microphoto.png> <./img/GEM_field.pdf>])
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 17.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[16 <./img/GEM_scheme.pdf>] (./chap/Pol_prop.tex
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 4.
-<img/GEM_prototype.jpg, id=202, 4453.63875pt x 3571.3425pt>
+<img/GEM_prototype.jpg, id=230, 4453.63875pt x 3571.3425pt>
 File: img/GEM_prototype.jpg Graphic file (type jpg)
 <use img/GEM_prototype.jpg>
 Package pdftex.def Info: img/GEM_prototype.jpg  used on input line 9.
 (pdftex.def)             Requested size: 156.43694pt x 142.22993pt.
-<img/GEM_model.pdf, id=203, 613.57233pt x 544.9158pt>
+<img/GEM_model.pdf, id=231, 613.57233pt x 544.9158pt>
 File: img/GEM_model.pdf Graphic file (type pdf)
 <use img/GEM_model.pdf>
 Package pdftex.def Info: img/GEM_model.pdf  used on input line 15.
 (pdftex.def)             Requested size: 165.02074pt x 142.2651pt.
-<img/Main_board_pads.jpg, id=204, 1155.31625pt x 325.215pt>
+<img/Main_board_pads.jpg, id=232, 1155.31625pt x 325.215pt>
 File: img/Main_board_pads.jpg Graphic file (type jpg)
 <use img/Main_board_pads.jpg>
 Package pdftex.def Info: img/Main_board_pads.jpg  used on input line 26.
 (pdftex.def)             Requested size: 284.52756pt x 80.09273pt.
-[16
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 17.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[17
 
  <./img/GEM_prototype.jpg> <./img/GEM_model.pdf>]
-<img/pedestal_map.pdf, id=215, 569.12625pt x 289.08pt>
+<img/pedestal_map.pdf, id=243, 569.12625pt x 289.08pt>
 File: img/pedestal_map.pdf Graphic file (type pdf)
 <use img/pedestal_map.pdf>
 Package pdftex.def Info: img/pedestal_map.pdf  used on input line 38.
 (pdftex.def)             Requested size: 341.43306pt x 173.43169pt.
- [17 <./img/Main_board_pads.jpg>] [18 <./img/pedestal_map.pdf, page is rotated 
-90 degrees>]
-<img/Signal.png, id=265, 1318.9275pt x 1273.75874pt>
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 17.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[18 <./img/Main_board_pads.jpg>]
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 17.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[19 <./img/pedestal_map.pdf, page is rotated 90 degrees>]
+<img/Signal.png, id=294, 1318.9275pt x 1273.75874pt>
 File: img/Signal.png Graphic file (type png)
 <use img/Signal.png>
 Package pdftex.def Info: img/Signal.png  used on input line 52.
@@ -2380,19 +2544,32 @@ Package pdftex.def Info: img/Signal.png  used on input line 52.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[19]
-<img/Side_pixmap.png, id=270, 1682.285pt x 539.01375pt>
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 17.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[20]
+<img/Side_pixmap.png, id=298, 1682.285pt x 539.01375pt>
 File: img/Side_pixmap.png Graphic file (type png)
 <use img/Side_pixmap.png>
 Package pdftex.def Info: img/Side_pixmap.png  used on input line 76.
 (pdftex.def)             Requested size: 221.99043pt x 71.13188pt.
-<img/Center_pixmap.png, id=271, 1319.93124pt x 540.0175pt>
+<img/Center_pixmap.png, id=299, 1319.93124pt x 540.0175pt>
 File: img/Center_pixmap.png Graphic file (type png)
 <use img/Center_pixmap.png>
 Package pdftex.def Info: img/Center_pixmap.png  used on input line 81.
 (pdftex.def)             Requested size: 173.85281pt x 71.13188pt.
- [20 <./img/Signal.png (PNG copy)>]
-<img/Median_unzoomed.png, id=275, 1003.75pt x 1204.5pt>
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 17.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[21 <./img/Signal.png (PNG copy)>]
+<img/Median_unzoomed.png, id=303, 1003.75pt x 1204.5pt>
 File: img/Median_unzoomed.png Graphic file (type png)
 <use img/Median_unzoomed.png>
 Package pdftex.def Info: img/Median_unzoomed.png  used on input line 94.
@@ -2402,7 +2579,7 @@ Overfull \hbox (1.55716pt too wide) in paragraph at lines 94--95
  [][] 
  []
 
-<img/Median_1.png, id=276, 1003.75pt x 1204.5pt>
+<img/Median_1.png, id=304, 1003.75pt x 1204.5pt>
 File: img/Median_1.png Graphic file (type png)
 <use img/Median_1.png>
 Package pdftex.def Info: img/Median_1.png  used on input line 100.
@@ -2412,7 +2589,7 @@ Overfull \hbox (10.08817pt too wide) in paragraph at lines 100--101
  [][] 
  []
 
-<img/Median_0.png, id=277, 1003.75pt x 1204.5pt>
+<img/Median_0.png, id=305, 1003.75pt x 1204.5pt>
 File: img/Median_0.png Graphic file (type png)
 <use img/Median_0.png>
 Package pdftex.def Info: img/Median_0.png  used on input line 106.
@@ -2422,26 +2599,52 @@ Overfull \hbox (10.08817pt too wide) in paragraph at lines 106--107
  [][] 
  []
 
-[21 <./img/Side_pixmap.png> <./img/Center_pixmap.png>] [22 <./img/Median_unzoom
-ed.png> <./img/Median_1.png> <./img/Median_0.png>]
-<img/cluster_padmap.pdf, id=286, 250.65292pt x 221.85687pt>
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 17.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[22 <./img/Side_pixmap.png> <./img/Center_pixmap.png>]
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 17.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[23 <./img/Median_unzoomed.png> <./img/Median_1.png> <./img/Median_0.png>]
+<img/cluster_padmap.pdf, id=314, 250.65292pt x 221.85687pt>
 File: img/cluster_padmap.pdf Graphic file (type pdf)
 <use img/cluster_padmap.pdf>
 Package pdftex.def Info: img/cluster_padmap.pdf  used on input line 124.
 (pdftex.def)             Requested size: 170.72093pt x 128.04402pt.
- [23 <./img/cluster_padmap.pdf>]) [24] (./chap/Pol_examine.tex
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 17.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[24 <./img/cluster_padmap.pdf>])
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 17.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[25] (./chap/Pol_examine.tex
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 5.
-<img/noise_map.pdf, id=374, 569.12625pt x 289.08pt>
+<img/noise_map.pdf, id=403, 569.12625pt x 289.08pt>
 File: img/noise_map.pdf Graphic file (type pdf)
 <use img/noise_map.pdf>
 Package pdftex.def Info: img/noise_map.pdf  used on input line 6.
 (pdftex.def)             Requested size: 341.44365pt x 170.71451pt.
-<img/Noise_time_drift.pdf, id=375, 569.12625pt x 384.43625pt>
+<img/Noise_time_drift.pdf, id=404, 569.12625pt x 384.43625pt>
 File: img/Noise_time_drift.pdf Graphic file (type pdf)
 <use img/Noise_time_drift.pdf>
 Package pdftex.def Info: img/Noise_time_drift.pdf  used on input line 17.
 (pdftex.def)             Requested size: 234.73524pt x 158.5643pt.
-<img/Mean_time_drift.pdf, id=376, 569.12625pt x 384.43625pt>
+<img/Mean_time_drift.pdf, id=405, 569.12625pt x 384.43625pt>
 File: img/Mean_time_drift.pdf Graphic file (type pdf)
 <use img/Mean_time_drift.pdf>
 Package pdftex.def Info: img/Mean_time_drift.pdf  used on input line 22.
@@ -2451,57 +2654,61 @@ LaTeX Font Info:    Font shape `TS1/Tempora-TLF/m/n' will be
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[25
 
- <./img/noise_map.pdf, page is rotated 90 degrees>] [26 <./img/Noise_time_drift
-.pdf, page is rotated 90 degrees> <./img/Mean_time_drift.pdf, page is rotated 9
-0 degrees>] [27]
-<img/GEM_scheme.pdf, id=517, 437.38406pt x 283.00282pt>
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 17.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[26
+
+ <./img/noise_map.pdf, page is rotated 90 degrees>]
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 17.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[27 <./img/Noise_time_drift.pdf, page is rotated 90 degrees> <./img/Mean_time_d
+rift.pdf, page is rotated 90 degrees>]
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 17.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[28]
 File: img/GEM_scheme.pdf Graphic file (type pdf)
 <use img/GEM_scheme.pdf>
 Package pdftex.def Info: img/GEM_scheme.pdf  used on input line 65.
 (pdftex.def)             Requested size: 170.71924pt x 113.80798pt.
-<img/GEM_Sr_source.pdf, id=518, 596.95016pt x 522.5121pt>
+<img/GEM_Sr_source.pdf, id=545, 596.95016pt x 522.5121pt>
 File: img/GEM_Sr_source.pdf Graphic file (type pdf)
 <use img/GEM_Sr_source.pdf>
 Package pdftex.def Info: img/GEM_Sr_source.pdf  used on input line 71.
 (pdftex.def)             Requested size: 165.02257pt x 113.80492pt.
- [28]) [29 <./img/GEM_scheme.pdf> <./img/GEM_Sr_source.pdf
 
-pdfTeX warning: /usr/bin/pdflatex (file ./img/GEM_Sr_source.pdf): PDF inclusion
-: multiple pdfs with page group included in a single page
->] (./chap/raether_exp.tex
-{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 6.
-[30
 
-] [31]
-Overfull \hbox (3.1498pt too wide) in paragraph at lines 37--38
-[]\T2A/Tempora-TLF/m/n/14.4 Электроны вто-рич-ной иони-за-ции про-ни-ка-ют че-р
-ез ин-жек-ти-ру-ю-щий ГЭУ
- []
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 17.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
-[32]
-LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/it' will be
-(Font)              scaled to size 14.4pt on input line 43.
-<img/Scheme_raether_det.pdf, id=556, 2240.37pt x 1435.3625pt>
-File: img/Scheme_raether_det.pdf Graphic file (type pdf)
-<use img/Scheme_raether_det.pdf>
-Package pdftex.def Info: img/Scheme_raether_det.pdf  used on input line 47.
-(pdftex.def)             Requested size: 227.62204pt x 145.82245pt.
-LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 48.
- [33] [34 <./img/Scheme_raether_det.pdf>]
-<img/Raether_graph_2.pdf, id=579, 569.12625pt x 407.5225pt>
-File: img/Raether_graph_2.pdf Graphic file (type pdf)
-<use img/Raether_graph_2.pdf>
-Package pdftex.def Info: img/Raether_graph_2.pdf  used on input line 63.
-(pdftex.def)             Requested size: 284.52756pt x 203.74208pt.
- [35 <./img/Raether_graph_2.pdf, page is rotated 90 degrees>]
-File: img/Raether_graph_2.pdf Graphic file (type pdf)
-<use img/Raether_graph_2.pdf>
-Package pdftex.def Info: img/Raether_graph_2.pdf  used on input line 76.
-(pdftex.def)             Requested size: 284.52756pt x 203.74208pt.
-) [36] (./report.bbl) [37
+[29])
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 17.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[30 <./img/GEM_Sr_source.pdf>] (./report.bbl)
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 17.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[31
 
 ] (./report.aux)
 
@@ -2509,31 +2716,30 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 11782 strings out of 492982
- 173605 string characters out of 6134895
- 236208 words of memory out of 5000000
- 14942 multiletter control sequences out of 15000+600000
- 51034 words of font info for 75 fonts, out of 8000000 for 9000
+ 11889 strings out of 492982
+ 174679 string characters out of 6134895
+ 238096 words of memory out of 5000000
+ 15051 multiletter control sequences out of 15000+600000
+ 46832 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  53i,18n,92p,5859b,659s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/tempora/t2a-tempora.enc}{/usr/
-share/texlive/texmf-dist/fonts/enc/dvips/tempora/tmp_ac5xuc.enc}</usr/share/tex
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/tempora/tmp_ac5xuc.enc}{/usr/s
+hare/texlive/texmf-dist/fonts/enc/dvips/tempora/t2a-tempora.enc}</usr/share/tex
 live/texmf-dist/fonts/type1/public/tempora/Tempora-Bold.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/public/tempora/Tempora-Italic.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/tempora/Tempora-Regular.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.p
-fb>
-Output written on report.pdf (37 pages, 3971990 bytes).
+/texmf-dist/fonts/type1/public/tempora/Tempora-Regular.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy1
+0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10
+.pfb>
+Output written on report.pdf (31 pages, 4059972 bytes).
 PDF statistics:
- 675 PDF objects out of 1000 (max. 8388607)
- 385 compressed objects within 4 object streams
+ 600 PDF objects out of 1000 (max. 8388607)
+ 346 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
  155 words of extra memory for PDF output out of 10000 (max. 10000000)
 
