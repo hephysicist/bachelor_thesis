@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.15)  2 JUN 2019 05:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.15)  2 JUN 2019 21:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2760,17 +2760,9 @@ LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/it' will be
 <img/eff_plot.pdf, id=704, 569.12625pt x 384.43625pt>
 File: img/eff_plot.pdf Graphic file (type pdf)
 <use img/eff_plot.pdf>
-Package pdftex.def Info: img/eff_plot.pdf  used on input line 145.
+Package pdftex.def Info: img/eff_plot.pdf  used on input line 144.
 (pdftex.def)             Requested size: 341.43306pt x 230.64006pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<img/x_sp_res.pdf, id=705, 569.12625pt x 361.35pt>
-File: img/x_sp_res.pdf Graphic file (type pdf)
-<use img/x_sp_res.pdf>
-Package pdftex.def Info: img/x_sp_res.pdf  used on input line 154.
-(pdftex.def)             Requested size: 341.43306pt x 216.78961pt.
 
 Package Fancyhdr Warning: \headheight is too small (14.0pt): 
  Make it at least 17.0pt.
@@ -2778,12 +2770,40 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [34]
-<img/y_sp_res.pdf, id=710, 569.12625pt x 361.35pt>
-File: img/y_sp_res.pdf Graphic file (type pdf)
-<use img/y_sp_res.pdf>
-Package pdftex.def Info: img/y_sp_res.pdf  used on input line 161.
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 17.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[35 <./img/eff_plot.pdf, page is rotated 90 degrees>]
+<img/sp_res_monitor.pdf, id=755, 569.12625pt x 378.41376pt>
+File: img/sp_res_monitor.pdf Graphic file (type pdf)
+<use img/sp_res_monitor.pdf>
+Package pdftex.def Info: img/sp_res_monitor.pdf  used on input line 165.
+(pdftex.def)             Requested size: 455.24408pt x 302.70831pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 17.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[36]
+<img/x_sp_res.pdf, id=759, 569.12625pt x 361.35pt>
+File: img/x_sp_res.pdf Graphic file (type pdf)
+<use img/x_sp_res.pdf>
+Package pdftex.def Info: img/x_sp_res.pdf  used on input line 173.
 (pdftex.def)             Requested size: 341.43306pt x 216.78961pt.
 
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<img/y_sp_res.pdf, id=760, 569.12625pt x 361.35pt>
+File: img/y_sp_res.pdf Graphic file (type pdf)
+<use img/y_sp_res.pdf>
+Package pdftex.def Info: img/y_sp_res.pdf  used on input line 180.
+(pdftex.def)             Requested size: 341.43306pt x 216.78961pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -2794,15 +2814,16 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[35 <./img/eff_plot.pdf, page is rotated 90 degrees> <./img/x_sp_res.pdf, page 
-is rotated 90 degrees>] (./chap/conclusion.tex
+[37 <./img/sp_res_monitor.pdf, page is rotated 90 degrees>]
+(./chap/conclusion.tex
 
 Package Fancyhdr Warning: \headheight is too small (14.0pt): 
  Make it at least 17.0pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[36 <./img/y_sp_res.pdf, page is rotated 90 degrees>]
+[38 <./img/x_sp_res.pdf, page is rotated 90 degrees> <./img/y_sp_res.pdf, page 
+is rotated 90 degrees>]
 Overfull \hbox (5.94841pt too wide) in paragraph at lines 4--5
 []\T2A/Tempora-TLF/m/n/14.4 ¬ фи-наль-ной ча-сти ра-бо-ты ис-сле-до-ва-лись ха-
 рак-те-ри-сти-ки де-тек-то-ра. ќпре-
@@ -2814,7 +2835,7 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[37
+[39
 
 ])
 
@@ -2823,14 +2844,14 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[38] (./report.bbl)
+[40] (./report.bbl)
 
 Package Fancyhdr Warning: \headheight is too small (14.0pt): 
  Make it at least 17.0pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[39
+[41
 
 ] (./report.aux
 ! Missing \endcsname inserted.
@@ -2854,10 +2875,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 11936 strings out of 492982
- 175700 string characters out of 6134895
- 239137 words of memory out of 5000000
- 15086 multiletter control sequences out of 15000+600000
+ 11942 strings out of 492982
+ 175869 string characters out of 6134895
+ 239149 words of memory out of 5000000
+ 15091 multiletter control sequences out of 15000+600000
  48933 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  53i,18n,92p,5859b,828s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2875,10 +2896,10 @@ onts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.p
 fb>
-Output written on report.pdf (39 pages, 4183982 bytes).
+Output written on report.pdf (41 pages, 4209440 bytes).
 PDF statistics:
- 899 PDF objects out of 1000 (max. 8388607)
- 476 compressed objects within 5 object streams
+ 949 PDF objects out of 1000 (max. 8388607)
+ 498 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 500000)
- 190 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 195 words of extra memory for PDF output out of 10000 (max. 10000000)
 
