@@ -19,18 +19,14 @@
 Sauli~F. A new concept for electron amplification in gas detectors.
 \newblock 1997.
 
-\bibitem{bukin}
+\bibitem{nikitin-nikolaev}
 \selectlanguageifdefined{russian}
-А.Д.~Букин, Я.С.~Дербенев, др.~Кондратенко
-  А.М.~и. Препринт № 75-64 ИЯФ СО АН СССР.
-\newblock 1975.
-
-\bibitem{Bobr}
-\selectlanguageifdefined{russian}
-Development of high-resolution GEM-based detector for the extracted electron
-  beam facility at the VEPP-4M collider~/ ~V.Bobrovnikov, ~V.Kudryavtsev,
-  ~L.Shekhtman {[и~др.]}.
-\newblock 2017.
+Никитин~C.А., Николаев~И.Б. Расчёт
+  интенсивности тушековских электронов в
+  накопителе ВЭПП-4М~// ЖЭТФ.
+\newblock 2012.
+\newblock Т. 142, {№}~1.
+\newblock {С.}~44--55.
 
 \bibitem{sokolov}
 \selectlanguageifdefined{russian}
@@ -49,13 +45,13 @@ Development of high-resolution GEM-based detector for the extracted electron
 \newblock 1975.
 \newblock {с.}~138.
 
-\bibitem{PDG}
+\bibitem{landau_4}
 \selectlanguageifdefined{russian}
-Review of Particle Physics~/ M.~Tanabashi, K.~Hagiwara, K.~Hikasa
-  {[и~др.]}~// Phys. Rev. D.
-\newblock 2018.  Aug.
-\newblock Т.~98.
-\newblock {с.}~030001.
+Ландау~Л.~Д., Лифшиц~Е.~М. Теоретическая
+  физика: учебное пособие в 10 т.
+\newblock 3-е, испр. {изд.}
+\newblock М.: Наука. Гл.\ ред.\ физ.-мат.\ лит., 1992.
+\newblock Т.~IV. Квантовая электродинамика.
 
 \bibitem{grupen}
 \selectlanguageifdefined{russian}
@@ -63,11 +59,5 @@ Review of Particle Physics~/ M.~Tanabashi, K.~Hagiwara, K.~Hikasa
   частиц}.
 \newblock {Новосибирск}: {Сибирский хронограф},
   {1999}.
-
-\bibitem{Peskov}
-\selectlanguageifdefined{russian}
-Peskov~V., Fonte~P. Research on discharges in micropattern and small gap
-  gaseous detectors.
-\newblock 2019.
 
 \end{thebibliography}
