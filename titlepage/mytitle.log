@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.15)  7 JUN 2019 22:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.15)  11 JUN 2019 13:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1755,63 +1755,63 @@ or  <return>  to continue without it.
 (./mytitle.aux)
 \openout1 = `mytitle.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT2/cmr/m/n on input line 17.
-LaTeX Font Info:    Try loading font information for OT2+cmr on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT2/cmr/m/n on input line 16.
+LaTeX Font Info:    Try loading font information for OT2+cmr on input line 16.
  (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/ot2cmr.fd
 File: ot2cmr.fd 2001/08/11 v3.2c Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T2C/cmr/m/n on input line 17.
-LaTeX Font Info:    Try loading font information for T2C+cmr on input line 17.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T2C/cmr/m/n on input line 16.
+LaTeX Font Info:    Try loading font information for T2C+cmr on input line 16.
 
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2ccmr.fd
 File: t2ccmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T2B/cmr/m/n on input line 17.
-LaTeX Font Info:    Try loading font information for T2B+cmr on input line 17.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T2B/cmr/m/n on input line 16.
+LaTeX Font Info:    Try loading font information for T2B+cmr on input line 16.
 
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2bcmr.fd
 File: t2bcmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 17.
-LaTeX Font Info:    Try loading font information for LGR+cmr on input line 17.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 16.
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 16.
 
 (/usr/share/texlive/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 17.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 16.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    ... okay on input line 16.
 LaTeX Font Info:    Try loading font information for T1+Tempora-TLF on input li
-ne 17.
+ne 16.
 
 (/usr/share/texlive/texmf-dist/tex/latex/tempora/T1Tempora-TLF.fd
 File: T1Tempora-TLF.fd 2016/02/02 (autoinst) Font definitions for T1/Tempora-TL
 F.
 )
 LaTeX Font Info:    Font shape `T1/Tempora-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 17.
+(Font)              scaled to size 10.95pt on input line 16.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1848,30 +1848,30 @@ LaTeX Font Info:    Font shape `T1/Tempora-TLF/m/n' will be
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Try loading font information for T2A+Tempora-TLF on input l
-ine 17.
+ine 16.
 (/usr/share/texlive/texmf-dist/tex/latex/tempora/t2atempora-tlf.fd
 File: t2atempora-tlf.fd 2015/09/13 Font definitions for T2A/Tempora-TLF.
 )
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 17.
+(Font)              scaled to size 10.95pt on input line 16.
 \c@mv@tabular=\count103
 \c@mv@boldtabular=\count104
 <<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <6> on input line 33.
+(Font)              <6> on input line 32.
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/bx/n' in size <10.95> not avail
 able
 (Font)              Font shape `T2A/Tempora-TLF/b/n' tried instead on input lin
-e 33.
+e 32.
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 33.
+(Font)              scaled to size 10.95pt on input line 32.
 
-Overfull \hbox (1.1208pt too wide) in paragraph at lines 31--41
+Overfull \hbox (1.1208pt too wide) in paragraph at lines 30--40
 \T2A/Tempora-TLF/m/n/10.95 Кафедра $[]$
  []
 
 ! Misplaced \noalign.
-l.54 \noalign
+l.53 \noalign
               \hline
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -1879,15 +1879,20 @@ an alignment. Proceed, and I'll ignore this case.
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.54 \noalign \hline
+l.53 \noalign \hline
                     
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 56.
+(Font)              scaled to size 6.0pt on input line 55.
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 73.
+(Font)              scaled to size 10.0pt on input line 72.
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--74
+
+ []
+
 
 ! LaTeX Error: There's no line here to end.
 
@@ -1895,38 +1900,28 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.77 	\phantom{\hspace{1pt}}\\
-                              
+l.76 	\phantom{2cm}\newline
+                           
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-LaTeX Font Info:    Font shape `T2A/Tempora-TLF/bx/n' in size <10> not availabl
-e
-(Font)              Font shape `T2A/Tempora-TLF/b/n' tried instead on input lin
-e 78.
-LaTeX Font Info:    Font shape `T2A/Tempora-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 78.
-LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <7> on input line 81.
-LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <5> on input line 81.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./mytitle.aux) ) 
 Here is how much of TeX's memory you used:
- 5203 strings out of 492982
- 74508 string characters out of 6134895
- 124391 words of memory out of 5000000
- 8636 multiletter control sequences out of 15000+600000
- 24115 words of font info for 35 fonts, out of 8000000 for 9000
+ 5187 strings out of 492982
+ 74243 string characters out of 6134895
+ 120392 words of memory out of 5000000
+ 8632 multiletter control sequences out of 15000+600000
+ 22071 words of font info for 34 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,5n,33p,462b,193s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,7n,33p,462b,171s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/sha
 re/texlive/texmf-dist/fonts/enc/dvips/tempora/t2a-tempora.enc}</usr/share/texli
 ve/texmf-dist/fonts/type1/public/tempora/Tempora-Bold.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/tempora/Tempora-Regular.pfb>
-Output written on mytitle.pdf (1 page, 63817 bytes).
+Output written on mytitle.pdf (1 page, 63805 bytes).
 PDF statistics:
  23 PDF objects out of 1000 (max. 8388607)
  11 compressed objects within 1 object stream

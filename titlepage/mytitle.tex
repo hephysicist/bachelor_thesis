@@ -10,7 +10,6 @@
 \usepackage{setspace}‎
 
 
-
 % Ставим одинарный междустрочный интервал
 % Ставим геометрию для титульной страницы.
 
@@ -52,7 +51,7 @@
 \noindent
 \centering{ \normalsize{Захаров Степан Алексеевич}}
 \noalign \hline
-\vspace*{11pt}
+\vspace*{7pt}
 \tiny{(Фамилия, Имя, Отчество автора)}
 
 \vspace{\baselineskip}
@@ -64,33 +63,33 @@
 \noindent
 \vspace*{11pt}
 \setstretch{1.5}
-\begin{multicols}{2}
+\begin{minipage}[t]{0.5\textwidth}
 	\textbf{<<К защите допущена>>} \\			
 	\textbf{Заведующий кафедрой,}\\           			
 	доктор физ.-мат. наук,\\   			
 	зам. директора ИЯФ СО РАН\\            			
 	\underline{Логашенко,~И.~Б./\makebox[3cm]{\dotfill}}\\
 	\small{(фамилия, И.\,О.)/(подпись, МП)}\\
-	<<\makebox[0.7cm]{\dotfill}>>\makebox[3cm]{\dotfill}20\dots г.\\
-\columnbreak
-
-	\phantom{\hspace{1pt}}\\
+	\normalsize<<\makebox[0.7cm]{\dotfill}>>\makebox[3cm]{\dotfill}20\dots г.\\
+\end{minipage}%
+\begin{minipage}[t]{0.5\textwidth}
+	\phantom{2cm}\newline
 	\textbf{Научный руководитель,} \\
 	канд. физ.-мат. наук, \\
 	с.н.с. ИЯФ СО РАН\\
 	\underline{Николаев,~И.~Б./\makebox[3cm]{\dotfill}}\\
 	\small{(фамилия, И.\,О.)/(подпись, МП)}\\
-	<<\makebox[0.7cm]{\dotfill}>>\makebox[3cm]{\dotfill}20\dots г.\\
-	\vspace{11pt}
-	\textbf{Научный консультант,} \\
+	\normalsize <<\makebox[0.7cm]{\dotfill}>>\makebox[3cm]{\dotfill}20\dots г.\\
+	\textbf{Научный консультант,}\\
 	доктор физ.-мат. наук, \\
 	с.н.с. ИЯФ СО РАН\\
 	\underline{Шехтман,~Л.~И./\makebox[3cm]{\dotfill}}\\
 	\small{(фамилия, И.\,О.)/(подпись, МП)}\\
 	<<\makebox[0.7cm]{\dotfill}>>\makebox[3cm]{\dotfill}20\dots г.\\
 	\vspace{11pt}
-	Дата защиты: <<\makebox[0.7cm]{\dotfill}>>\makebox[3cm]{\dotfill}20\dots г.\\
-\end{multicols}
+	\normalsize	Дата защиты: <<\makebox[0.7cm]{\dotfill}>>\makebox[3cm]{\dotfill}20\dots г.
+	\vfill
+\end{minipage}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
