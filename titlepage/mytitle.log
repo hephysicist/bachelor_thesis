@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.15)  19 APR 2019 21:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.15)  7 JUN 2019 22:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1886,11 +1886,6 @@ an alignment. Proceed, and I'll ignore this case.
 
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
 (Font)              scaled to size 6.0pt on input line 56.
-
-Overfull \hbox (0.53656pt too wide) in paragraph at lines 60--62
-[]$  
- []
-
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 73.
 
@@ -1912,22 +1907,26 @@ e
 e 78.
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/b/n' will be
 (Font)              scaled to size 10.0pt on input line 78.
+LaTeX Font Info:    External font `cmex7' loaded for size
+(Font)              <7> on input line 81.
+LaTeX Font Info:    External font `cmex7' loaded for size
+(Font)              <5> on input line 81.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./mytitle.aux) ) 
 Here is how much of TeX's memory you used:
- 5190 strings out of 492982
- 74304 string characters out of 6134895
- 123393 words of memory out of 5000000
- 8634 multiletter control sequences out of 15000+600000
+ 5203 strings out of 492982
+ 74508 string characters out of 6134895
+ 124391 words of memory out of 5000000
+ 8636 multiletter control sequences out of 15000+600000
  24115 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,4n,33p,462b,197s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,5n,33p,462b,193s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/sha
 re/texlive/texmf-dist/fonts/enc/dvips/tempora/t2a-tempora.enc}</usr/share/texli
 ve/texmf-dist/fonts/type1/public/tempora/Tempora-Bold.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/tempora/Tempora-Regular.pfb>
-Output written on mytitle.pdf (1 page, 63792 bytes).
+Output written on mytitle.pdf (1 page, 63817 bytes).
 PDF statistics:
  23 PDF objects out of 1000 (max. 8388607)
  11 compressed objects within 1 object stream
